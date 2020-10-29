@@ -123,6 +123,7 @@ for folder in folder_names:
 
 
     # Plot length distribution: x-axis is the length of a sentence in number of words/tokens, and the y-axis is the number of sentences of each length. 
+    plt.clf()
     plt.bar(uniqSentences.keys(),uniqSentences.values())
     plt.title('Length distribution for sentences in '+folder+' dataset')
     plt.xlabel('Length of sentence in number of words/tokens')
