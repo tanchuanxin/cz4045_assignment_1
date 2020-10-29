@@ -1,0 +1,348 @@
+Smart Gateway
+Door lock User Manual
+Table of contents
+1. Introduction of Featured Functions
+2. Outdoor Cover Board Components
+3. Indoor Cover Board Components
+4. Lock Body Components
+5. Door Leaf Installation Components
+6. Doorframe Installation Components
+7. Door Opening Direction Recognition
+8. Initial Unlocking Guide
+9. How to Register Admin Fingerprint and Password at Initial State
+10.System Settings
+11.How to Add Users
+12.How to Delete User
+13.How to Edit User
+14.Reset Operation
+15.Parameter Setting
+16.History Lookup
+17.Other Functions
+18.Technical Specifications
+Introduction of Featured Functions
+a) Mute Function
+When opening the door, Mute mode can be
+chosen and set.
+b) Indoor Safety Insurance
+After locking the door from inside, the mechanical
+unlock function from outside will be disabled.
+c) Fire Detection
+Built-in fire alarm system.
+d) Anti-theft Function
+When leaving home, push up the door handle to
+activate anti-theft system.
+e) Escape Function
+Push down the door handle from inside to unlock
+the door unconditionally.
+f) Fuzzy Password Function
+Prevent others from peeping the password.
+g) Security Mode
+Double verification of fingerprint and password.
+h) Ad Hoc Network
+ZigBee featured smart technology.
+Outdoor Cover Board Components
+Indoor Cover Board Components
+Lock Body Components
+Door Leaf Installation Components 
+Doorframe Installation Components
+*Due to environment difference (temperature, humidity and etc.), there would be error in product
+parts.
+Door Opening Direction Recognition
+Note
+The standard products are designed for door
+thickness ranging from 55mm to 65mm.
+If special door thickness is desired, please
+contact our company to customize. The
+minimum door thickness is 45mm.
+Note
+Please double confirm the opening direction before installation. If it is found that
+the opening direction is not consistent with the door, please contact the local
+dealer. Unauthorized disassembly is not recommended.
+Initial Unlocking Guide
+a) Password unlocking
+This product does not have any password initially. Touch the keypad with palm and two random
+numbers and symbol “*” will be shown on the keypad. Press the two random numbers in sequence
+(during night operation, press the symbol “*” first before pressing the random numbers to set to
+mute) and then key in any number sequence (length<30). Press symbol “#” to confirm the password.
+Push down the door handle to open the door. The above steps are summarized as below:
+ 1 2 3 4
+A. Touch to wake the keypad
+B. Press the 2 random numbers(press “*” first to set to mute)
+C. Key in any password(length<30) and press “#” to confirm
+D. Push down the door handle to open the door
+b) Fingerprint unlocking
+Place any finger at the fingerprint recognition window and push down the door handle to open the
+door (To set to mute, first touch and wake the keypad and then press “*”). The above steps are
+summarized as below:
+ 1 2
+1. Place any finger at the recognition window
+2. Push down the door handle to open the door
+*If the system does not detect any password or fingerprint, it will automatically sleep after 10
+seconds.
+---The first fingerprint must be input by the administrator. Choose among [ID#001-010]. The default
+is [ID#001]. The admin password is a combination of 6 numbers.
+---The first admin fingerprint and password must be registered before you can have access to system
+settings interface.
+How to Register Admin Fingerprint and Password at
+Initial State
+1. Key in any password or input any fingerprint to unlock. Without pushing down the door handle,
+wait until the keypad OLED disappears and touch the keypad with your palm. Press “#” to enter
+admin register interface.
+The steps are shown as follows:
+2. Register admin fingerprint
+Use arrow key to choose the admin ID NO. for registration and press “#” to confirm. Input the same
+fingerprint twice after entering the fingerprint registration interface. The registration is success only
+if the two entry matches correctly.
+Flow chart: Choose admin ID>>>Input the fingerprint>>Input the same fingerprint>>>registration
+complete
+3. Register admin password
+Key in the new password consisting of 6 numbers and press “#” to confirm. Key in the same
+password again and press “#” to confirm.
+Flow chart: Key in the new password>>> press “#”>>>key in the same password
+again>>>press”#”>>>registration complete
+System Settings
+Please note that:
+1. The initial state will not grant the user access to system settings interface unless the user
+complete the first admin ID registration as described in the last section.
+2. For registered users: Access to system settings interface will only be granted if they key in admin
+password or use fingerprint.
+Enter the system settings interface with fingerprint:
+ 1 2 3 4
+1. Input the admin fingerprint without pushing down the door handle
+2. Touch the keypad with your palm after the keypad LED turns off
+3. Symbol “*” and “#” will light up on the keypad and press “#”
+4. Now you have access to system settings
+Enter the system settings interface with password:
+ 1 2 3 4
+ 5 6
+1. Touch the keypad with your palm
+2. 2 random numbers and “*” will light up on the keypad. Press the numbers in sequence.
+3. After keying in the admin password, press “#” to confirm. (Don’t push down the door handle)
+4. Touch the keypad with your palm again when the keypad LED turns off.
+5. Press “#” on the keypad.
+6. Now you have access to system settings
+How to Add Users
+A. How to add admin
+1. Press “#” to enter the system management interface after the admin authentication. Use arrow
+key to choose and press “#” to confirm as the sequence shown below:
+User management -> Press “#” -> Add -> Press”#” -> Admin -> Press”#”
+2. Use arrow key to choose the ID you want to register (001-010) and press “#” to confirm. Then
+place your finger for registration at the recognition window twice. The system will display a success
+message once the registration is complete.
+Choose admin ID>>>Place the finger for registration at the recognition window then press
+“#”>>>Place the same finger at the window again and press “#”>>>The fingerprint registration is
+complete
+3. At the password registration interface, key in the 6-digit password twice. After the system
+confirms the match, the message will pop up on the screen that the registration is complete.
+Please enter the new password>>>Please enter the password again>>>The registration is complete
+press ”#” to confirm
+Note: After the new ID registration is complete, the system will go back to the user management
+interface automatically. You can continue to add users or perform other operations.
+B. How to Add Families
+1. Press “#” to enter the system management interface after the admin authentication. Use
+arrow key to choose and press “#” to confirm as the sequence shown below:
+User management -> Press “#” -> Add -> Press”#” -> User -> Press”#”
+2. Use arrow key to choose the ID you want to register (011-030) and press “#” to confirm. Then
+place your finger for registration as the recognition window twice. The system will display a success
+message once the registration is complete.
+Choose family ID>>>Place the finger for registration at the recognition window then press
+“#”>>>Place the same finger at the window again and press “#”>>>The fingerprint registration is
+complete
+3. At the password registration interface, key in the 6-digit password twice. After the system
+confirms the match, the message will pop up on the screen that the registration is complete.
+Please enter the new password>>>Please enter the password again>>>The registration is complete
+press”#” to confirm
+C. How to add guest, housemaid, and temporary passengers
+1. Press “#” to enter the system management interface after the admin authentication. Use arrow
+key to choose and press “#” to confirm as the sequence shown below:
+User management -> Press “#” -> Add -> Press”#” -> Guest -> Press”#”
+2. Use arrow key to choose the ID you want to register (031-080) and press “#” to confirm. Then
+place your finger for registration as the recognition window twice. The system will display a success
+message once the registration is complete.
+Choose guest ID>>>Place the finger for registration at the recognition window then press
+“#”>>>Place the same finger at the window again and press “#”>>>The fingerprint registration is
+complete
+3. At the password registration interface, key in the 6-digit password twice. After the system
+confirms the match, the message will pop up on the screen that the registration is complete.
+Please enter the new password>>>Please enter the password again>>>The registration is complete
+press”#” to confirm
+4. After the registration is complete, the system will automatically jump to guest, housemaid and
+temporary group unlocking authority setting interface
+>>>set unlock date
+Function: limit the date that any of guest, housemaid and temporary is able to unlock the door. Once
+expired, this ID will not be able to open the door.
+Operation: Use arrow keys to choose options that require setting. If there is no need to set up date
+range then proceeding to the next operation. Choose “B. Date limit” to set up the effective date
+range. Press “#” to confirm.
+>>>set unlock sessions
+Function: limit the sessions that any of guest, housemaid and temporary is able to unlock the door
+on the hour base. Any hour not within the setting value will not grant access to the door for this
+group.
+Operation: The session setting can be divided into 3 types: session 1, session 2 and session 3. Choose
+effective to enter the session setting interface. Press “#” to confirm once the setting is complete. If
+choosing cancel then the access of this session will be denied. Press “*” to grant 24 hour opening
+authority to this ID to proceed to next operation directly.
+>>>Activate/deactivate authority of current ID
+Function: Immediately activate/deactivate authority of current ID
+Operation: Use arrow key to choose [activate] or [deactivate] and then press “#” to confirm.
+How to Delete User
+Press “#” to enter system management interface after admin authentication. Use arrow key to
+choose and press “#” to confirm.
+A. Delete by ID
+Choose “A. Delete by ID” and press “#” to confirm. Key in the desired ID in the next interface and
+press “#” to confirm. The message of “Successfully Deleted” will pop up and you will be redirected to
+delete user interface upon successful deletion. If there is no need for further ID deletion, press “*”
+to quit current operation.
+B. Delete by fingerprint
+Delete corresponding ID registration information according to the user fingerprint.
+Choose “B. Delete by fingerprint” and press “#” to confirm. Key in the desired ID in the next interface
+and press “#” to confirm. The message of “Successfully Deleted” will pop up and you will be
+redirected to delete user interface upon successful deletion. If there is no need for further ID
+deletion, press “*” to quit current operation.
+C. Delete by group 
+Choose “C. Delete by group” and press “#” to confirm. Key in the desired ID in the next interface and
+press “#” to confirm. The message of “All Successfully Deleted” will pop up and you will be
+redirected to delete user interface upon successful deletion. If there is no need for further ID
+deletion, press “*” to quit current operation.
+How to Edit User
+1. Press “#” to enter system management interface after admin authentication. Use arrow key to
+choose and press “#” to confirm.
+2. Key in the ID you want to edit. The registered information of current ID will be displayed on the
+screen. Then enter the user information edit interface. Use arrow keys to choose the item you
+want to edit and press “#” to confirm.
+The edit steps are the same as those steps to add users. (See add users section for reference) The
+difference is that edit operation requires individual choice and operation.
+Fingerprint: Update of fingerprint is allowed. New fingerprint will take place.
+Password: Update the old password with new ones.
+Date: If the ID is not admin or family, the unlock date can be modified.
+Session: If the ID is not admin or family, the unlock sessions can be modified.
+ON and OFF: IF the ID is not admin or family, this ID can be activated/deactivated
+Reset Operation
+-It consists of user management reset, remote reset and mechanical reset.
+-User management reset will clear all the registered information.
+-Remote reset can only clear all remotely registered information.
+-Reset operation will not clear recorded door unlock history.
+A. User management reset
+Press “#” to enter system management interface after admin authentication. Use arrow key to
+choose and press “#” to confirm.
+User management -> Empty -> Confirm
+B. Mechanical reset
+Choose appropriate tools to press down the reset button on the internal cover board and hold for 5
+seconds.
+Please insert the door key to verify host’s identity
+Insert the mechanical door key and turn it counter clockwise for 360 degree.
+Parameter Setting
+Press “#” to enter system management interface after admin authentication. Use arrow key to
+choose and press “#” to confirm.
+A. Clock
+This can set year/month/day and hour/minute/second.
+Use arrow keys to adjust yr/m/d/hr/min/sec. The adjustment takes effect immediately and there is
+no need to press “#” to confirm. Press “#” or “*” to quit this interface. Week and leap year are
+generated automatically and cannot be adjusted.
+B. Display brightness
+Use arrow keys to choose brightness level (ranging from level 1 to level 5). Press “#” to confirm.
+C. Unlock mode setting
+Use arrow keys to set between normal or security mode.
+D. Channel Mode
+Use arrow keys to set between automatic or channel mode.
+The door will be unlocked all the time in channel mode. Anyone can open the door in this mode.
+E. Fingerprint Learning
+Use arrow keys to set between ON or OFF.
+When this function is ON, poor fingerprints can be enhanced automatically.
+F. Fingerprint recognition rating
+This is for setting the percentage of fingerprint recognition.
+History Lookup
+Press “#” to enter the system management interface after admin authentication. Use arrow keys to
+choose and press “#” to confirm.
+A. Registration history
+The statistical information about the sum of all users, the registered users, remotely registered users
+and the number of all other registered users will be displayed here.
+B. Door Unlock History
+Record from the latest ones. Use arrow key to choose among records. Press Left to jump upward for
+10 entries. Press Right to jump downward for 10 entries. The record display format is shown as
+below:
+Other Functions
+A. Inside lock
+Turn the knob for 90 degree to the horizontal position from indoor to activate inside lock. Only
+admin fingerprint or password can be used to unlock the door under this mode. If non-admin
+fingerprint or password is used from outdoor, the message will pop up on the OLED screen as shown
+below:
+Please note that mechanical keys cannot be used to unlock the door under this mode.
+B. Child-protection lock
+Turn the knob for 3 times in 6 seconds. After that, using internal door handle will trigger alarm and
+exit the child-protection mode.
+Note: Setting child-protection lock will not influence inside lock function. After setting the childprotection lock, if inside lock is set at the same time, unlocking the door from outside will deactivate
+child-protection mode automatically.
+C. Fire alarm
+The internal cover board is equipped with temperature sensor alarm system. If the door lock sense
+any temperature higher than 55 Celsius Degree, the system will alert automatically and inform the
+user.
+D. Mute function
+After waking the keypad, press “*” first to mute afterwards.
+E. Reset function
+If the door lock is not responding, use objects with sharp ends such as toothpick or needle to press
+down the reset button located under the outdoor cover board. It will instantly restore the normal
+function of the door lock.
+F. Anti-theft function
+The outdoor cover board is equipped with deformation monitoring device. When the door lock is
+deformed seriously due to violent destruction and the door lock is separated from the door main
+body, the anti-theft alarm will be triggered. The alarm will continue until valid password or
+fingerprint is input into the system.
+G. Lock-door reminder
+When the latch is pushed in but not restored afterwards, the alarm system will be triggered after 5
+seconds until the latch is restored or the alarm has lasted for 5 minutes.
+H. One-time channel setting
+After passing the authentication with admin’s or family’s password/fingerprint, without pushing
+down the door handle, wait until the OLED disappears and touch the keypad with your palm. The
+symbol “*” will be displayed on the OLED screen.
+How to deactivate one-time channel: First touch the keypad and then input any fingerprint.
+After setting up one-time channel, opening the door with either indoor handle or outdoor handle
+will not lock the door automatically. Each time the door is opened,
+The OLED will be lightened up and there will be a short beep to remind user of one-time channel
+mode.
+I. Double authentication(security)
+Function: improve security by requiring both fingerprint and password.
+Option 1:
+1, touch the keypad
+2, 2 random numbers and “*” will be displayed on the screen. Press them in sequence.
+3, key in the correct password and press “#” to confirm
+4, when the fingerprint LED lights up, input the corresponding fingerprint. Push down the door
+handle to open the door
+Option 2:
+1, Input valid fingerprint
+2, Keypad OLED lights up and requires password
+3, Key in the corresponding password and push down the door handle to open the door.
+J. Fuzzy password
+Function: Before or after the correct password, add any number combination to open the door to
+avoid leakage of password.
+Operation: Key in any combination of numbers as long as it contains the continuous and complete
+password and the total length of this combination is less than 30 digits. For example, if the correct
+password is “123456”, the possible password combination can be “833943948123456”,
+“1234567”,”7123456” and etc. as long as the section “123456” is continuous and the total length is
+less than 30 digits.
+K. Emergency power supply
+When the internal battery runs out, 9V DC battery can be used as power supply.
+Note: The emergency power supply can be connected regardless of positive or negative electrode.
+Technical Specifications
+1 Operating Condition Voltage 4X1.5V AA
+Battery Lifetime 15000 times
+Alert Voltage when no more than 4.8V
+2 Power Static current no more than 15uA
+Dynamic current no more than 100mA
+3 Fingerprint Reader Operating Temperature －30°C～ 60°C
+Relative humidity 20%～95%
+Fingerprint Capacity 99 pieces
+FRR less than 0.1%
+FAR less than 0.0001%
+Fingerprint Sensor Optical sensor
+4 Password Password length 6 digits
+Password capacity 99 pieces
+5 Remote Control distance no more than 15m
+Remote capacity 8 pieces
+6 OLED display Screen area 30mmX15mm
+Operating temperature -40°C~60°C
+7 Accessibility Clock function Time and date adjustment
+Unlocking history Latest 9999 entries
+8 Standards GA 701-2007
+GA 21556-2008
+If you have any doubts about any description above, please contact the local dealer.

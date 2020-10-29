@@ -1,0 +1,772 @@
+AC3252
+AC3254
+AC3256
+Question?
+Contact
+Philips
+Always there to help you
+Register your product and get support from
+www.philips.com/welcome
+User manual
+
+EN 3
+English
+Contents
+1 Important 4
+Safety 4
+2 Your air purifier 6
+Product overview 6
+Controls overview 7
+3 Getting started 8
+Install filter 8
+4 Using the appliance 9
+Understand the air quality
+light 9
+Switch on and off 9
+Change the fan speed 10
+Set the timer 11
+Set the child lock 12
+Use the light on/off function 12
+5 Cleaning 13
+Cleaning schedule 13
+Clean the body of the
+appliance 13
+Clean the air quality sensors 13
+Clean the pre-filter 14
+6 Replacing the filter 16
+Understand the healthy air
+protect lock 16
+Replace the filter 16
+Filter force reset 17
+Filter type change 18
+7 Troubleshooting 20
+8 Guarantee and service 22
+Order parts or accessories 22
+9 Notices 22
+Electromagnetic fields (EMF) 22
+Recycling 22
+4 EN
+1 Important
+Safety
+Read this user manual carefully before
+you use the appliance, and save it for
+future reference.
+Danger
+• Do not let water or any other liquid
+or flammable detergent enter the
+appliance to avoid electric shock
+and/or a fire hazard.
+• Do not clean the appliance
+with water, any other liquid, or a
+(flammable) detergent to avoid
+electric shock and/or a fire hazard.
+• Do not spray any flammable
+materials such as insecticides or
+fragrance around the appliance.
+Warning
+• Check if the voltage indicated on the
+appliance corresponds to the local
+power voltage before you connect
+the appliance.
+• If the power cord is damaged, you
+must have it replaced by Philips, a
+service center authorized by Philips,
+or similarly qualified persons in order
+to avoid a hazard.
+• Do not use the appliance if the plug,
+the power cord, or the appliance
+itself is damaged.
+• This appliance can be used by
+children aged from 8 years and
+above and persons with reduced
+physical, sensory or mental
+capabilities or lack of experience
+and knowledge if they have been
+given supervision or instruction
+concerning use of the appliance
+in a safe way and understand the
+hazards involved. Child shall not
+play with the appliance. Cleaning
+and maintenance shall not be made
+by children without supervision.
+• Do not block the air inlet and outlet,
+e.g. by placing items on the air outlet
+or in front of the air inlet.
+• Make sure that foreign objects do
+not fall into the appliance through
+the air outlet.
+Caution
+• This appliance is not a substitute for
+proper ventilation, regular vacuum
+cleaning, or use of an extractor hood
+or fan while cooking.
+• If the power socket used to power
+the appliance has poor connections,
+the plug of the appliance becomes
+hot. Make sure that you plug the
+appliance into a properly connected
+power socket.
+• Always place and use the appliance
+on a dry, stable, level, and horizontal
+surface.
+• Leave at least 20cm free space
+behind and on both sides of the
+appliance and leave at least 30cm
+free space above the appliance.
+• Do not place anything on top of the
+appliance.
+• Do not sit or stand on the appliance.
+Sitting or standing on the appliance
+may lead to potential injuiry.
+• Do not place the appliance directly
+below an air conditioner to prevent
+condensation from dripping onto
+the appliance.
+• Make sure all filters are properly
+installed before you switch on the
+appliance.
+• Only use the original Philips filters
+specially intended for this appliance.
+Do not use any other filters.
+• Combustion of the filter may cause
+inreversible human hazard and/
+EN 5
+English
+or jeopardize other lives . Do not
+use the filter as fuel or for similar
+purpose.
+• Avoid knocking against the
+appliance (the air inlet and outlet in
+particular) with hard objects.
+• Always lift or move the appliance by
+the handle on top of the appliance.
+• Do not insert your fingers or
+objects into the air outlet or the air
+inlet to prevent physical injury or
+malfunctioning of the appliance.
+• Do not use this appliance when
+you have used indoor smoke-type
+insect repellents or in places with
+oily residues, burning incense, or
+chemical fumes.
+• Do not use the appliance near
+gas appliances, heating devices or
+fireplaces.
+• Always unplug the appliance after
+use and before cleaning or carrying
+out other maintenance.
+• Do not use the appliance in a room
+with major temperature changes, as
+this may cause condensation inside
+the appliance.
+• To prevent interference, place the
+appliance at least 2 meters away
+from electrical appliances that use
+airborne radio waves such as TVs,
+radios, and radio-controlled clocks.
+• The appliance is only intended
+for household use under normal
+operating conditions.
+• Do not use the appliance in wet
+surroundings or in surroundings with
+high ambient temperatures, such as
+the bathroom, toilet, or kitchen.
+• The appliance does not remove
+carbon monoxide (CO) or radon
+(Rn). It cannot be used as a
+safety device in case of accidents
+with combustion processes and
+hazardous chemicals.
+• If you need to move the appliance,
+disconnect the appliance from the
+power supply first.
+• When moving the appliance, do it
+slowly and do not push it rapidly.
+• Do not move the appliance by
+pulling its power cord.
+6 EN
+2 Your air purifier
+Congratulations on your purchase, and
+welcome to Philips!
+To fully benefit from the support that
+Philips offers, register your product at
+www.philips.com/welcome.
+Product overview
+A Control panel
+B Air quality light
+C Air quality sensors
+D NanoProtect Pro S3 filter (FY3137)*
+E Pre-filter
+F Front panel
+B
+A
+C D E
+F
+* Hereinafter referred to as
+"air purification filter".
+EN 7
+English
+Controls overview
+G On/Off button
+H Child lock button
+I Light on/off button
+J Display screen
+K Fan speed button
+L Timer button
+M Reset button
+AC3252
+AC3254
+AC3256
+8 EN
+3 Press the two clips down and pull
+the pre-filter towards you.
+4 Put the unpacked air purification
+filter back into the appliance.
+1
+5 Put the pre-filter back into the
+appliance.
+Note
+• Make sure that the side with the two
+clips is pointing towards you, and that
+all hooks of the pre-filter are properly
+attached to the purifier.
+3 Getting started
+Install filter
+Before using the appliance, remove all
+packaging materials of the filter and
+place the filter into the appliance as
+described below.
+Note
+• Make sure that the side with the tag is
+pointing towards you.
+1 Remove all packaging materials of
+the air purification filter.
+2 Pull the bottom part of the front
+panel to remove it from the
+appliance.
+EN 9
+English
+4 Using the
+appliance
+Understand the air
+quality light
+Air quality light
+color
+Air quality level
+Blue Good
+Blue-violet Fair
+Red-purple Unhealthy
+Red Very unhealthy
+The air quality light automatically goes
+on when the appliance is switched on,
+and lights up all colors in sequence.
+In a short time the air quality sensors
+select the color that corresponds to the
+ambient air quality.
+Switch on and off
+1 Put the plug of the appliance in the
+power socket.
+2 Touch to switch on the
+appliance.
+» The appliance operates under
+the auto mode by default.
+6 To reattach the front panel, mount
+the panel onto the top of the
+appliance first (1). Then, gently push
+the panel against the body of the
+appliance (2).
+10 EN
+» After measuring the air quality
+for a short time, the air quality
+sensor automatically selects the
+color of the air quality light.
+» For AC3252, the current fan
+speed displays on the screen.
+AC3252
+» For AC3254 and AC3256, After
+measuring the particle matters in
+the air, the appliance will show
+the PM2.5 level on the screen.
+AC3254
+AC3256
+3 Touch and hold for 3 seconds to
+switch off the appliance.
+Note
+• After the appliance is switched off by
+the on/off button , if the plug is still
+in the power socket, the appliance will
+operate under the previous settings
+when it is switched on again.
+Change the fan speed
+There are several fan speeds available.
+You can choose the auto mode, gas
+mode, speed 1, 2, 3, 4 or 5.
+Auto (A)
+In auto mode, the appliance selects the
+fan speed according to the ambient air
+quality.
+• Touch the fan speed button to
+select auto (A).
+Gas mode (C)
+Note
+• The gas mode is only available for
+AC3254 and AC3256.
+In gas mode, the appliance is specially
+programmed to filter out harmful gases*
+optimally. You can select the gas mode
+to filter out harmful gases*.
+• Touch the fan speed button to
+select the gas mode (C).
+EN 11
+English
+When the icon lights up, it indicates
+that there is an increase of gas level in
+the air.
+*Special Optimized Gas Mode
+for filtering out harmful gases
+(formaldehyde, Toulene, TVOC.)
+Sleep mode
+In sleep mode, the appliance operates
+quietly under speed 1. One minute into
+the sleep mode, the power and light
+on/off indicators are dimmed, and all
+the other lights are off.
+• Touch the fan speed button to
+select the sleep mode (speed 1).
+Manual
+• Touch the fan speed button
+repeatedly to select the fan speed
+you need.
+Set the timer
+With the timer, you can let the
+appliance operate for a set number of
+hours. When the set time has elapsed,
+the appliance will automatically switch
+off.
+• Touch the timer button
+repeatedly to choose the number
+of hours you want the appliance to
+operate.
+» For AC3252, the timer is
+available in 1, 4 or 8 hours. For
+AC3254 and AC3256, the timer
+is available from 1 to 24 hours.
+To deactivate the timer, touch the timer
+button repeatedly until displays
+on the screen.
+12 EN
+Use the light on/off
+function
+With the light on/off button, you can
+switch on or off the air quality light,
+the display screen and the function
+indicators if needed.
+1 Touch the light on/off button
+once, the air quality light will go out.
+2 Touch the light on/off button
+again, the display screen will go
+out for AC3252; for AC3254 and
+AC3256, the display screen and the
+function indicators will go out. The
+power on/off and light on/off
+ indicators will still be on, but the
+lights will be dimmed.
+3 Touch the light on/off button for
+the third time, all lights will be on
+again.
+Set the child lock
+1 Touch and hold the child lock
+button for 3 seconds to activate
+child lock.
+» "L" displays on the screen for
+3 seconds.
+» When the child lock is on,
+all the other buttons are not
+responsive.
+3s
+2 Touch and hold the child lock
+button for 3 seconds again to
+deactivate child lock.
+» "UL" displays on the screen for
+3 seconds.
+3s
+EN 13
+English
+5 Cleaning
+Note
+• Always unplug the appliance before
+cleaning.
+• Never immerse the appliance in water
+or any other liquid.
+• Never use abrasive, aggressive, or
+flammable cleaning agents such as
+bleach or alcohol to clean any part of
+the appliance.
+• Only the pre-filter is washable. The air
+purification filter is not washable nor
+vacuum cleanable.
+Cleaning schedule
+Frequency Cleaning method
+When necessary
+Wipe the surface of
+the appliance with
+a soft dry cloth
+When F0 displays
+on the screen Clean the pre-filter
+Every two months Clean the air
+quality sensors
+Clean the body of the
+appliance
+Regularly clean the inside and outside
+of the appliance to prevent dust from
+collecting.
+1 Wipe away dust with a soft dry cloth
+from the body of the appliance.
+2 Clean the air outlet with a soft dry
+cloth.
+Clean the air quality
+sensors
+Clean the air quality sensors every 2
+months for optimal functioning of the
+purifier. Clean them more frequently
+if you use the purifier in a dusty
+environment.
+Note
+• When the humidity level in the
+room is very high, it is possible that
+condensation develops on the air
+quality sensors. As a result, the air
+quality light may indicate that the air
+quality is bad even though it is good.
+In this case you have to clean the
+air quality sensors or use one of the
+manual speed settings.
+1 Clean the air quality sensor inlet
+and outlet with a soft brush.
+2 Remove the air quality sensor cover.
+14 EN
+1 Pull the bottom part of the front
+panel to remove it from the
+appliance.
+2 Press the two clips down and pull
+the pre-filter towards you.
+3 Wash the pre-filter under a running
+tap. If the pre-filter is very dirty, use
+a soft brush to brush away the dust.
+3 Clean the air quality sensors, the
+dust inlet and the dust outlet with a
+lightly moistened cotton swab.
+4 Dry them with a dry cotton swab.
+5 Reattach the air quality sensor
+cover.
+Clean the pre-filter
+Filter alert light
+status Follow this
+F0 displays on the
+screen
+Clean the prefilter
+EN 15
+English
+7 Touch and hold the reset button
+for 3 seconds to reset the pre-filter
+cleaning time.
+3s
+4 Air dry the pre-filter.
+Note
+• Make sure that the pre-filter is
+completely dry. If it is still wet, bacteria
+may multiply in it and shorten the
+lifetime of the pre-filter.
+5 Put the pre-filter back into the
+appliance.
+Note
+• Make sure that the side with the two
+clips is pointing towards you, and that
+all hooks of the pre-filter are properly
+attached to the purifier.
+6 To reattach the front panel, mount
+the panel onto the top of the
+appliance first (1). Then, gently push
+the panel against the body of the
+appliance (2)
+16 EN
+1 Take out the expired air purification
+filter and gently put it into the trash
+bin.
+1
+Note
+• Do not touch the pleated filter surface,
+or smell the filter as it has collected
+pollutants from the air.
+2 Remove all packaging material of
+the new filter.
+3 Place the unpacked filter back into
+the appliance.
+1
+6 Replacing the
+filter
+Understand the healthy
+air protect lock
+This appliance is equipped with the
+healthy air protect lock to make sure
+that the air purification filter is in
+optimal condition when the appliance
+is operating. When the filter is almost
+expired, the filter code displays on the
+screen to indicate that you need to
+replace the filter.
+If the filter is not replaced in 14 days, the
+appliance will stop operating and get
+locked.
+Replace the filter
+Note
+• The air purification filter is not washable
+nor vacuum cleanable.
+Filter alert light
+status Follow this
+A3 displays on the
+screen
+Replace the
+NanoProtect Pro
+S3 filter
+EN 17
+English
+2 Touch and hold for 3 seconds
+to force reset the lifetime of the
+NanoProtect Pro S3 filter.
+3s
+3 displays on the screen after the
+lifetime of the NanoProtect Pro S3
+filter has been reset.
+4 Touch and hold for 3 seconds to
+confirm and exit the filter force reset
+mode.
+3s
+4 Touch and hold the reset button
+ for 3 seconds to reset the filter
+lifetime counter.
+3s
+Note
+• Cleanse your hands after changing the
+filter.
+Filter force reset
+1 Touch and simultaneously
+for 3 seconds to enter the filter force
+reset mode.
+» Filter code (A3) of the
+NanoProtect Pro S3 filter
+displays on the screen.
+3s
+18 EN
+Note
+• After you have selected the filter code
+of the new filter using the button, if
+you do not touch any other buttons
+in 10 seconds, the appliance will
+automatically confirm the filter code
+of the new filter.
+4 displays on the screen after the
+filter type has been changed.
+» If you have a second filter to
+replace, touch to select the
+filter code of the second filter,
+and then touch and hold for
+3 seconds to confirm and exit
+the filter type change mode.
+Filter type change
+1 Touch and simultaneously
+for 3 seconds to enter the filter type
+change mode.
+3s
+2 Touch to select the filter code of
+the new filter you will use.
+3 Touch and hold for 3 seconds to
+confirm the filter code of the new
+filter.
+3s
+EN 19
+English
+3s
+Note
+• After you have selected the filter code
+of the new filter using the button, if
+you do not touch any other buttons
+in 10 seconds, the appliance will
+automatically confirm the filter code
+of the new filter.
+» If you do not have a
+second filter to use in the
+appliance, touch and hold
+ for 3 seconds to confirm
+and exit the filter type change
+mode.
+3s
+Note
+• Refer to the separate leaflet that comes
+with the filter for more information on
+different filter combinations for your
+choice.
+20 EN
+7 Troubleshooting
+This chapter summarizes the most common problems you could encounter with the
+appliance. If you are unable to solve the problem with the information below, contact
+the Consumer Care Center in your country.
+Problem Possible solution
+The appliance
+does not work
+even though it is
+plugged in..
+The filter replacement code has been displaying on the screen
+but you have not replaced the corresponding filter yet. The
+appliance will be locked if you keep using the expired filter. In
+this case, replace the filter and reset the filter lifetime counter.
+The appliance
+does not work
+even though it is
+switched on.
+• The appliance is working but the buttons are not
+responsive. Check if the child lock is on.
+• The filter replacement code has been on
+continuously but you have not replaced the
+corresponding filter, and the appliance is now
+locked. In this case, replace the filter and reset the
+filter lifetime counter.
+The airflow that
+comes out of
+the air outlet
+is significantly
+weaker than
+before.
+• The pre-filter is dirty. Clean the pre-filter (see
+chapter "Cleaning").
+The air quality
+does not
+improve, even
+though the
+appliance has
+been operating
+for a long time.
+• One of the filters has not been placed in the
+appliance. Make sure that all filters are properly
+installed in the following order, starting with the
+innermost filter: 1) air purification filter; 2) pre-filter.
+• The air quality sensor is wet. The humidity level in
+your room is high and causes condensation. Make
+sure that the air quality sensor is clean and dry (see
+chapter "Cleaning").
+EN 21
+English
+Problem Possible solution
+The color of the
+air quality light
+always stays the
+same.
+The air quality sensor is dirty. Clean the air quality
+sensor (see chapter "Cleaning").
+The appliance
+produces a
+strange smell.
+The first few times you use the appliance, it may
+produce a plastic smell. This is normal. However, if the
+appliance produces a burnt smell, contact your Philips
+dealer or an authorized Philips service centre. The
+appliance may also produce an unpleasant smell when
+the filter is dirty. In this case, clean or replace the filter
+concerned.
+The appliance is
+extra loud.
+If the appliance is too loud, you can change the fan
+speed to a lower fan speed level. When using the
+appliance in a bedroom at night, choose the sleep
+mode.
+The appliance
+still indicates
+that I need to
+replace a filter,
+but I already did.
+Perhaps you did not reset the filter lifetime counter.
+Plug in the appliance, touch to switch on the
+appliance, and touch and hold the reset button for
+3 seconds.
+Error code "Er"
+displays on the
+screeen.
+The hall sensor is not working properly. Remove and
+then reattach the front panel. If the error code "Er"
+still exists, contact the Consumer Care Center in your
+country.
+Error codes "E1",
+"E2", "E3" or
+"E4" displays on
+the screeen.
+The appliance has malfunctions. Contact the
+Consumer Care Center in your country.
+22 EN
+Compliance with EMF
+Koninklijke Philips N.V. manufactures
+and sells many products targeted at
+consumers, which, like any electronic
+apparatus, in general have the ability
+to emit and receive electromagnetic
+signals.
+One of Philips' leading Business
+Principles is to take all necessary health
+and safety measures for our products,
+to comply with all applicable legal
+requirements and to stay well within the
+EMF standards applicable at the time of
+producing the products.
+Philips is committed to develop,
+produce and market products that
+cause no adverse health effects. Philips
+confirms that if its products are handled
+properly for their intended use, they
+are safe to use according to scientific
+evidence available today.
+Philips plays an active role in the
+development of international EMF
+and safety standards, enabling Philips
+to anticipate further developments in
+standardization for early integration in
+its products.
+Recycling
+Do not throw away the product with
+the normal household waste at the
+end of its life, but hand it in at an
+official collection point for recycling.
+By doing this, you help to preserve the
+environment.
+8 Guarantee and
+service
+If you need information or if you have a
+problem, please visit the Philips website
+at
+www.philips.com or contact the Philips
+Consumer Care Center in your country
+(you find its phone number in the
+worldwide guarantee leaflet). If there
+is no Consumer Care Centre in your
+country, go to your local Philips dealer.
+Order parts or
+accessories
+If you have to replace a part or want to
+purchase an additional part, go to your
+Philips dealer or visit www.philips.com/
+support.
+If you have problems obtaining the
+parts, please contact the Philips
+Consumer Care Center in your country
+(you can find its phone number in the
+worldwide guarantee leaflet).
+9 Notices
+Electromagnetic fields
+(EMF)
+This Philips appliance complies with all
+applicable standards and regulations
+regarding exposure to electromagnetic
+fields.
+EN 23
+English
+Specifications are subject to change without notice
+© 2015 Koninklijke Philips N.V.
+All rights reserved.
