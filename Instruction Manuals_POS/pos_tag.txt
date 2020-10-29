@@ -1,0 +1,8 @@
+3 random sentences :  ['The top central heating elements and the fan come on.', 'Warning\n- Check if the voltage indicated on the appliance corresponds to the local\nmains voltage before you connect the appliance.', 'Tip: If dirt is stuck to the basket, the baking tray (HD9225 only), or the bottom\nof the pan, fill the pan with hot water with some washing-up liquid.'] 
+
+Parts of Speech for sentence 1:  [('The', 'DT'), ('top', 'JJ'), ('central', 'JJ'), ('heating', 'NN'), ('elements', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('fan', 'NN'), ('come', 'VBN'), ('on', 'IN')] 
+
+Parts of Speech for sentence 2:  [('Warning', 'VBG'), ('Check', 'NNP'), ('if', 'IN'), ('the', 'DT'), ('voltage', 'NN'), ('indicated', 'VBD'), ('on', 'IN'), ('the', 'DT'), ('appliance', 'NN'), ('corresponds', 'VBZ'), ('to', 'TO'), ('the', 'DT'), ('local', 'JJ'), ('mains', 'NNS'), ('voltage', 'NN'), ('before', 'IN'), ('you', 'PRP'), ('connect', 'VBP'), ('the', 'DT'), ('appliance', 'NN')] 
+
+Parts of Speech for sentence 3:  [('Tip', 'NNP'), ('If', 'IN'), ('dirt', 'NN'), ('is', 'VBZ'), ('stuck', 'VBN'), ('to', 'TO'), ('the', 'DT'), ('basket', 'NN'), ('the', 'DT'), ('baking', 'NN'), ('tray', 'NN'), ('HD9225', 'NNP'), ('only', 'RB'), ('or', 'CC'), ('the', 'DT'), ('bottom', 'NN'), ('of', 'IN'), ('the', 'DT'), ('pan', 'NN'), ('fill', 'VBP'), ('the', 'DT'), ('pan', 'NN'), ('with', 'IN'), ('hot', 'JJ'), ('water', 'NN'), ('with', 'IN'), ('some', 'DT'), ('washing-up', 'JJ'), ('liquid', 'NN')] 
+

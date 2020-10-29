@@ -10,7 +10,7 @@ from collections import Counter
 import matplotlib.pyplot as plt
 
 # Initialize an array of all 3 datasets
-folder_names = ['Fairy Tales','Legal Documents']
+folder_names = ['Fairy Tales','Legal Documents','Instruction Manuals']
 
 # Looks into all .txt files in each dataset 
 for folder in folder_names:
