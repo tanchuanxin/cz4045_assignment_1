@@ -1,0 +1,8 @@
+3 random sentences :  ['(a) Withholding.', 'The Developer shall have no claim against the Company hereunder or otherwise for vacation pay, sick leave, retirement benefits, social security, worker’s compensation, health or disability benefits, unemployment insurance benefits, or employee benefits of any kind.', 'Legal:\n\nThis Agreement shall be governed by and construed in accordance with the laws of the United Kingdom applicable therein.'] 
+
+Parts of Speech for sentence 1:  [('a', 'DT'), ('Withholding', 'NN')] 
+
+Parts of Speech for sentence 2:  [('The', 'DT'), ('Developer', 'NNP'), ('shall', 'MD'), ('have', 'VB'), ('no', 'DT'), ('claim', 'NN'), ('against', 'IN'), ('the', 'DT'), ('Company', 'NNP'), ('hereunder', 'NN'), ('or', 'CC'), ('otherwise', 'NN'), ('for', 'IN'), ('vacation', 'NN'), ('pay', 'NN'), ('sick', 'JJ'), ('leave', 'VBP'), ('retirement', 'NN'), ('benefits', 'NNS'), ('social', 'JJ'), ('security', 'NN'), ('worker', 'NN'), ('’', 'NNP'), ('s', 'VBZ'), ('compensation', 'NN'), ('health', 'NN'), ('or', 'CC'), ('disability', 'NN'), ('benefits', 'NNS'), ('unemployment', 'NN'), ('insurance', 'NN'), ('benefits', 'NNS'), ('or', 'CC'), ('employee', 'NN'), ('benefits', 'NNS'), ('of', 'IN'), ('any', 'DT'), ('kind', 'NN')] 
+
+Parts of Speech for sentence 3:  [('Legal', 'NNP'), ('This', 'DT'), ('Agreement', 'NNP'), ('shall', 'MD'), ('be', 'VB'), ('governed', 'VBN'), ('by', 'IN'), ('and', 'CC'), ('construed', 'VBN'), ('in', 'IN'), ('accordance', 'NN'), ('with', 'IN'), ('the', 'DT'), ('laws', 'NNS'), ('of', 'IN'), ('the', 'DT'), ('United', 'NNP'), ('Kingdom', 'NNP'), ('applicable', 'JJ'), ('therein', 'NN')] 
+
