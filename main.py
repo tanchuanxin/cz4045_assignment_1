@@ -146,7 +146,7 @@ for folder in folder_names:
 
     # Set random.seed() to fix random selection of 3 sentences and select 3 random sentences
     # Tokenize each sentence
-    random.seed(10)
+    random.seed(13)
     randomSentences = random.sample(sentence_tokens,3)
     sentence1 = tokenizing(randomSentences[0])
     sentence2 = tokenizing(randomSentences[1])
