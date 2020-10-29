@@ -1,0 +1,373 @@
+Installation and Operation Manual
+REFRIGERATOR / FREEZER
+MORE
+GNC660L1, GNC740L1, GNF660L1, GNF740L1 R/L/G
+GNC/GNF 1400 L2
+CGN/GNF660L1, GCN/GNFL1 RC R/L
+1.11.2012 Rev.2.0
+4249000, 4249001, 4249002, 4249003, 4249004, 4249005, 4249006, 4249007, 4249008, 4249009, 4249010,
+4249011, 4249022, 4249023, 4249024, 4249025, 4249026, 4249027, 4249028, 4249029
+SISÄLLYSLUETTELO
+1. General........................................................................................ 3
+1.1 Intended use...........................................................................................3
+1.2 Controls at reception .............................................................................3
+1.3 Handling................................................................................................3
+1.4 Unpacking .............................................................................................4
+1.5 Disposal of the appliance ......................................................................4
+2. Installation................................................................................... 4
+2.1 Positioning.............................................................................................4
+2.2 Preliminary electrical checks ................................................................5
+2.3 Start-up..................................................................................................5
+2.4 Use.........................................................................................................5
+3. Construction ................................................................................ 6
+4. Adjusting the temperature........................................................... 7
+5. Cleaning and maintenace ............................................................ 8
+5.1 Cleaning ................................................................................................8
+5.2 Routine maintenance.............................................................................8
+5.3 Long shutdowns....................................................................................8
+5.4 Installation of spring hinge....................................................................9
+5.5 Removing the shelf bracket...................................................................9
+6. Troubleshooting ........................................................................ 10
+7. Technical information ............................................................... 11
+1.11.2102
+3
+1. General
+Carefully read the instructions in this manual as they contain important information regarding
+proper, efficient and safe installation, use and maintenance of the appliance.
+Keep this manual in a safe place for eventual use by other operators of the appliance.
+The installation of this appliance must be carried out in accordance with the manufacturer’s
+instructions and following local regulations. The connection of the appliance to the electric
+supply must be carried out by qualified persons only.
+Persons using this appliance should be specifically trained in its operation.
+Switch off the appliance in the case of failure or malfunction. Have the appliance serviced by
+a technically qualified person authorized by the manufacturer and using original spare parts.
+Before performing any cleaning or maintenance operation always turn off the appliance and
+unplug it from the power supply.
+Not complying with the intructions in this manual may put the safety of the appliance in
+danger. The manufacturer declines all liability for any operation performed on the machine
+in disregard of the instructions provided in this manual
+1.1 Intended use
+The appliance shall only be used for storing food and beverages. The manufacturer is not
+responsible for the consequences if the appliance is used for other purposes.
+Do not store food in direct contact with the structure.
+Both the appliance’s construction features and the condensing unit’s capacity have been designed to store only pre-cooled/deep-fozen products. Never place carbonated beverages into
+the low-temperature compartment as they may explode. Never place liquids or hot food into
+the appliance and do not fill lidded containers to the top.
+In all appliances there are surfaces subject to frosting. The appliance is equipped with automatic
+defrosting, perform manual defrosting when needed. Never attempt to remove frost using a
+pointed object because in this way you could irreparably damage the appliance.
+Do not use any mechanical device or other artificial means to accelerate the defrost process.
+The Manufacturer declines all responsibility, and the warranty shall be null and void, if electrical
+and/or mechanical alterations are made to the product.
+1.2 Controls at reception
+Unpack the appliance immediately on receipt to check that no pieces have been lost or damaged
+in transit.Inform the carrier of any damage at once.
+1.3 Handling
+HANDLING with FORK LIFT or SIMILAR
+Before handling operations ensure that the lifting capacity is sufficient for tha appliance in
+question. Begin lifting checking that the appliance is in stable equilibrium.
+Do not tip or turnover the appliance during handling.
+Wait at least 2 hours before turning on the appliance if it had to be transported horizontaly.
+4
+1.11.2102
+1.4 Unpacking
+Unpack the appliance and check for visible damages.
+Packing materials (plastic bags, polystyrene foam, nails, etc.) should be kept out of children’s
+reach as they are potential sources of hazard, and they should be properly recycled in compliance with local regulations in force..
+Check that the serial number corresponds to the transport documents.
+1.5 Disposal of the appliance
+When the appliance has reached the end of its service life, it must be recycled in accordance
+with current regulations. Contact a company which specialises in recycling. The best method
+to ensure that no one will remain trapped inside is to take off the door completely.
+The appliance must not be disposed of together with household waste and metal scrap. Specially
+avoid damaging the refrigeration circuit, particularly near the heat exchanger.
+2. Installation
+Before making the connection to the mains, ensure that the voltage and frequency are as indicated
+on the appliance nameplate. The nameplate can be found on the wall in the compartment.
+The installation of this appliance must be carried out in accordance with the manufacturer’s
+instructions and following local regulations.
+Never use sockets or plugs without earth connection. The mains socket must be earthed.
+The manufacturer declines all responsibility if the appliance has not been installed and connected according to the instructions given in this manual.
+The use of adapters, mutli-pugs and/or extension leads is strictly prohibited.
+2.1 Positioning
+The machine has not been designed to be installed in explosive environments.
+Check that the floor is able to support the weight of the appliance and that it is level.
+Control that the appliance is perfectly level. Regulate the adjustable feet if necessary. Use a level,
+if needed. The maximum permissible deviation from the horizontal plane is +/-0.5 degrees.
+All four feet should rest on the floor. This will ensure proper door operation.
+To ensure proper airflow and avoid any damage to the refrigeration circuit, allow a minimum
+side clearance of 30 mm and 500 mm on the upper side.
+Do not place the appliance close to heat sources (such as ovens, radiators, etc.) or exposed to direct
+sunlight and provide suitable insulation from walls or floor if they transmit heat..
+Do not install the appliance in places where the temperature drops below +5°C. For indoor
+use only.
+If the appliance has been moved, wait for a while before switching it on again. In particular,
+if it was not handled vertically, you need to wait at least 2 hours.
+Remove the plastic protection from the external surfaces. Wash the inside part with lukewarm
+water and mild soap. Place the appliance as far as possible from heat sources. Do not prevent
+air from circulating inside the engine compartment. Keep the keys for locking doors away
+from children.
+1.11.2102
+5
+2.2 Preliminary electrical checks
+Before making the connection to the mains, ensure that the voltage and frequency are as
+indicated on the appliance nameplate.
+Make a visual inspection to ensure that the sockets and connections are correct.
+Disconnect the socket from the mains using the main switch.
+Check that the socket is suitable for the appliance plug. If necessary, the socket should be replaced
+with an appropriate one by qualified personnel. Check that the plug is plugged into the socket.
+2.3 Start-up
+After the above controls have been thoroughly completed the appliance may be started-up:
+Turn the main switch, connected to the power cable plug, to the ON position.
+Turn the switch of the appliance to the ON position. NOTE! The compressor starts running
+ca. 3 minutes after the appliance has been turned on
+Do not load the appliance until the set temperature value has been reached
+2.4 Use
+Proper storage of foodstuffs is a relevant factor in the safe and sanitary production of food;
+in addition, it improves the efficiency of foodservice activities and positively affects energy
+consumption. Follow the directions below to obtain the highest performance possible out of
+your appliance.
+Products should always be stored on the shelves; do not place products on the cabinet’s bottom.
+The max. load capacity / shelf is 35 kg
+Place the products into the appliance in such a way that proper airflow is ensured. Leave free
+space between the products and adjust the distance between the shelves if needed. Do not
+place the products in touch with the walls.
+6
+1.11.2102
+3. Construction
+４
+Parts Name
+
+1. Compressor
+2. Condenser
+3. Lock
+4. Hinge
+5. Front panel
+6. Control panel
+7. Light
+8. Shelf bracket
+9. Shelf
+10. Door seal
+11. Door
+12. Adjustable feet
+４
+Parts Name
+
+1. Lock
+2. Hinge
+3. Front panel
+4. Controller
+5. Shelf bracket
+6. Shelf
+7. Door seal
+8. Door
+9. Adjustable feet
+1.11.2102
+7
+4. Adjusting the temperature
+Set point setting (desired temperature value)
+• press SET for 1 s, the set value will start flashing;.
+• increase or decrease the value using UP or DOWN.
+• press SET to confi rm the new value.
+The setpoint has been set at the factory to +4°C (refrigerator) and -18°C (freezer). Don’t
+change the parameters if not necessary!
+Manual defrost
+The defrosting of the appliance is automatic but manual defrosting can be carried out when
+needed as follows:
+• Press DOWN for more than 3 s (activated only if the temperature conditions are right).
+• Defrosting starts. After the defrosting the appliance goes back to normal function.
+Signal lights (LEDs)
+Each button is equipped with a signal light. When lit the lights indicates:
+• UP / ON-OFF compressor active
+• DOWN / MANUAL DEFROST defrost active
+• SET alarm
+A flashing signal light indicates that a delay is active and that the function starts in a moment.
+UP / ON-OFF
+DOWN / MANUAL DEFROST
+SET
+8
+1.11.2102
+5. Cleaning and maintenace
+Always disconnect the appliance from the mains before any cleaning and maintenance.
+The machine must not be cleaned with a pressure washer. Do not spray water direct on
+appliance. Avoid usin excess amounts of water. Water should not get in contact with electric
+components.
+5.1 Cleaning
+The need for cleaning highly depends on how frequently the appliance is used. Observe the
+use and schedule the cleaning as needed.
+For cleaning the interior and exterior, use a neutral or slightly alkaline cleaning agent. It is
+recommended to occasionally clean the interior with a disinfectant. Impurities can usually be
+wiped off with a damp cloth. Removing the shelves helps cleaning the interior.
+Never use metallic tools for clearing appliance.
+Do not use corrosive cleaning agetns.
+5.2 Routine maintenance
+In normal use, this appliance requires little maintenance. The user can do the following procedures:
+• The condenser has to be cleaned regularly. Before cleaning, switch off the appliance with
+the main switch and unplug the cable from the power supply. Use either a vacuum cleaner
+or a soft brush. When brushing the condenser, be careful not to damage the aluminium
+grid of the condenser.
+• Check that the door seal is in good condition. It is important that the seal is undamaged
+and perfectly closing.
+• Check that the power cable that connects the appliance to the mains socket is not cut,
+cracked or altered in such a way as to compromise the insulation. Contact your authorised
+service centre if this requires maintenance..
+5.3 Long shutdowns
+If the appliance is inactive for long periods of time proceed as follows::
+• Switch off the main switch.
+• Disconnect the plug from the power supply socket.
+• Remove all foods from the refrigerator and clean it, see ”Cleaning”.
+• Leave the door ajar to avoid bad odours from forming.
+• Protect the compressor group from dust. 
+1.11.2102
+9
+• Remove the fixing screw (1)
+• Push the shelf bracket (2) uppwards and
+pull it out.
+5.4 Installation of spring hinge
+5.5 Removing the shelf bracket
+５
+
+一．Spring hinge install
+
+
+1、 First use cross screwdriver remove ST4×16 screw from front top cover and top panel，turn the
+front top cover as the drawing.
+2、 As the drawing open the door without bounce，remove M5*16 socket head cap screw（4）
+and spring hinge（1）。(PS：The door with hinge must ensure without bounce when
+opereate, be caureful of your hand).Remove M5*12 cross screw（3）and gasket（4）.
+3、 Change new spring hinge,and fix the parts reversiblly.
+• Open the front panel (see fig) cover
+by removing the ST4×16 screw.
+• Remove the top hinge (1) by removing the screws (2). Be careful, the
+spring is tuned.
+• Remove the hinge by lifting it up
+from the hole in the door. Remove
+screw (3) and gasket (4).
+• Change new spring hinge,and fix
+the parts reversiblly.
+10
+1.11.2102
+6. Troubleshooting
+In case of malfunction, review the following list to find out if it is possible to put the appliance
+in order without a service call.
+If the fault presists after making the mentioned checks, call service.
+PROBLEM POSSIBLE CAUSE ACTION
+The appliance does not start* • Electrical cable is not properly
+plugged into the socket.
+• The mains switch is in OFF position.
+• Set the cable properly
+• Turn on the switch to ON
+Internal temperature is higher than
+normal
+• Defrost in operation • Wait until the defrost cycle is finished and check the temperature
+after that.
+Slow cooling or temperature does
+not fall to the set value
+• Too much food, no air cirkulation
+• The environment is too warm
+• Condenser is covered by dust
+• The door is opened too frequently
+• Wrong temperature setting
+• Warm food in the cabinet
+• Frost build up on the evaporator
+• Reposition the food
+• Move the appliance
+• Clean the condenser. (turn OFF
+power first)
+• Don’t open the door so frequently
+• Set the temperature
+• Put the food into refrigerator
+after cooling.
+• Perform a manual defrost cycle
+The appliance is noisy • The appliance is not level • Adjust the adjustable feet
+* NOTICE the start-delay of the compressor:
+• The compressor starts running ca. 3 minutes after the appliance has been turned on
+1.11.2102
+11
+7. Technical information
+Upright cabinet
+Model Voltage
+(V)
+Freq
+(Hz)
+Gas Dimensions
+(L×D×h)
+Volume
+(L)
+Temperature Refrigerated
+Power(W)
+Defrost
+Power(W)
+Net
+weight
+Kg
+GNC660L1 220-240 50/60 R134a 660×750×2010 400 -2~10°C 365 535 100
+GNC740L1 220-240 50/60 R134a 740×870×2050 550 -2~10°C 420 590 120
+GNC1400L2 220-240 50/60 R134a 1400×870×2050 1200 -2~10°C 600 943 175
+GNF660L1 220-240 50/60 R404a 660×750×2010 400 -18~-22°C 510 620 105
+GNF740L1 220-240 50/60 R404a 740×870×2050 550 -18~-22°C 580 790 125
+GNF1400L2 220-240 50/60 R404a 1400×870×2050 1200 -18~-23°C 820 1343 185
+Glass door showcase
+Model Voltage
+(V)
+Freq
+(Hz)
+Gas Dimensions
+(L×D×h)
+Volume
+(L)
+Temperature Refrigerated Power
+(W)
+Defrost
+Power(W)
+Net
+weight
+Kg
+GNC660L1G 220-240 50/60 R134a 660×750×2010 400 0~10°C 365 535 110
+GNC740L1G 220-240 50/60 R134a 740×870×2050 550 0~10°C 420 590 130
+GNC1400L2G 220-240 50/60 R134a 1400×870×2050 1200 0~10°C 650 943 195
+GNF660L1G 220-240 50/60 R404a 660×750×2010 400 -18~-22°C 580 790 120
+GNF740L1G 220-240 50/60 R404a 740×870×2050 550 -18~-22°C 650 790 140
+GNF1400L2G 220-240 50/60 R404a 1400×870×2050 1200 -18~-22°C 950 1343 215
+Remote cooling unit
+Model Voltage
+(V)
+Freq
+(Hz)
+Dimensions
+(L×D×h)
+Volume
+(L)
+Refrigerated
+Power (W)
+Evaporator
+temperature
+Net weight
+Kg
+GNC660L1-R 220-240 50/60 660×750×2010 400 365 -10/+42 100
+GNC740L1-R 220-240 50/60 740×870×2050 550 420 -10/+42 120
+GNF660L1-R 220-240 50/60 660×750×2010 400 580 -30/+42 105
+GNF740L1-R 220-240 50/60 740×870×2050 550 650 -30/+42 125
+The crossed-out wheeled bin means that within the European Union the product
+must be taken to separate collection at the product end-of life.
+This applies to your device but also to any enhancements marked with this symbol. Do not dispose of these products as unsorted municipal waste.
+Refrigeration circuit diagram
+1. Compressor
+2. Condenser
+3. Dryer
+4. Capillary tube
+5. Evaporator
+1. Compressor
+2. Condenser
+3. Dryer
+4. Valve
+5. Evaporator
+6. Remote cooling unit (not included in the delivery)
+Refrigeration circuit diagram , models with remote cooling
+Circuit diagram GNC660L1
+Circuit diagram GNC740L1
+Circuit diagram GNF660L1
+Circuit diagram GNF740L1
+
+
+

@@ -1,0 +1,1138 @@
+7-1/4 INCH CIRCULAR SAW
+Model 94245
+Set up and Operating Instructions
+Visit our website at: http://www.harborfreight.com
+Read this material before using this product.
+Failure to do so can result in serious injury.
+Save this manual.
+Copyright© 2006 by Harbor Freight Tools®. All rights reserved. No portion of this manual or any artwork
+contained herein may be reproduced in any shape or form without the express written consent of
+Harbor Freight Tools. Diagrams within this manual may not be drawn proportionally. Due to continuing
+improvements, actual product may differ slightly from the product described herein. Tools required for
+assembly and service may not be included.
+For technical questions or replacement parts, please call 1-800-444-3353.
+Manual Revised 10e
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 2
+
+Save This Manual
+Keep this manual for the safety warnings
+and precautions, assembly, operating,
+inspection, maintenance and cleaning
+procedures. Write the product’s serial number
+in the back of the manual near the assembly
+diagram (or month and year of purchase if
+product has no number). Keep this manual
+and the receipt in a safe and dry place for
+future reference.
+Important SAFETY
+Information
+In this manual, on the labeling, and
+all other information provided with
+this product:
+ This is the safety alert
+symbol. It is used to alert
+you to potential personal
+injury hazards. Obey all
+safety messages that follow
+this symbol to avoid possible
+injury or death.
+ DANGER indicates a
+hazardous situation
+which, if not avoided, will result
+in death or serious injury.
+WARNING indicates a
+hazardous situation
+which, if not avoided, could
+result in death or serious injury.
+CAUTION, used with
+the safety alert
+symbol, indicates a hazardous
+situation which, if not avoided,
+could result in minor or moderate
+injury.
+NOTICE is used to
+address practices not
+related to personal injury.
+CAUTION, without the
+safety alert symbol, is
+used to address practices not
+related to personal injury.
+General Power Tool Safety Warnings
+WARNING Read all safety warnings
+and instructions. Failure to follow the
+warnings and instructions may result
+in electric shock, fire and/or serious
+injury.
+Save all warnings and instructions
+for future reference.
+The term ″power tool″ in the warnings
+refers to your mains-operated (corded)
+power tool or battery-operated
+(cordless) power tool.
+1. Work area safety
+a. Keep work area clean and well lit.
+Cluttered or dark areas invite accidents.
+b. Do not operate power tools in
+explosive atmospheres, such as in
+the presence of flammable liquids,
+gases or dust. Power tools create
+sparks which may ignite the dust or
+fumes.
+c. Keep children and bystanders
+away while operating a power tool.
+Distractions can cause you to lose
+control.
+2. Electrical safety
+a. Power tool plugs must match the
+outlet. Never modify the plug in
+any way. Do not use any adapter
+plugs with grounded power tools.
+Unmodified plugs and matching outlets
+will reduce risk of electric shock.
+b. Avoid body contact with grounded
+surfaces such as pipes, radiators, 
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 3
+
+ranges and refrigerators. There is an
+increased risk of electric shock if your
+body is grounded.
+c. Do not expose power tools to rain
+or wet conditions. Water entering
+a power tool will increase the risk of
+electric shock.
+d. Do not abuse the cord. Never use
+the cord for carrying, pulling or
+unplugging the power tool. Keep
+cord away from heat, oil, sharp
+edges or moving parts. Damaged
+or entangled cords increase the risk of
+electric shock.
+e. When operating a power tool
+outdoors, use an extension cord
+suitable for outdoor use. Use of a
+cord suitable for outdoor use reduces
+the risk of electric shock.
+f. If operating a power tool in a damp
+location is unavoidable, use a
+Ground Fault Circuit Interrupter
+(GFCI) protected supply. Use of a
+GFCI reduces the risk of electric shock.
+3. Personal safety
+a. Stay alert, watch what you are
+doing and use common sense when
+operating a power tool. Do not use
+a power tool while you are tired or
+under the influence of drugs, alcohol
+or medication. A moment of inattention
+while operating power tools may result
+in serious personal injury.
+b. Use safety equipment. Always wear
+eye protection. Safety equipment such
+as dust mask, non-skid safety shoes,
+hard hat, or hearing protection used
+for appropriate conditions will reduce
+personal injuries.
+c. Prevent unintentional starting.
+Ensure the switch is in the offposition before connecting to power
+source and/or battery pack, picking
+up or carrying the tool. Carrying
+power tools with your finger on the
+switch or energizing power tools that
+have the switch on invites accidents.
+d. Remove any adjusting key or wrench
+before turning the power tool on.
+A wrench or a key left attached to a
+rotating part of the power tool may result
+in personal injury.
+e. Do not overreach. Keep proper
+footing and balance at all times. This
+enables better control of the power tool
+in unexpected situations.
+f. Dress properly. Do not wear loose
+clothing or jewelry. Keep your hair,
+clothing and gloves away from
+moving parts. Loose clothes, jewelry
+or long hair can be caught in moving
+parts.
+g. If devices are provided for the
+connection of dust extraction and
+collection facilities, ensure these are
+connected and properly used. Use of
+these devices can reduce dust-related
+hazards.
+h. Only use safety equipment that has
+been approved by an appropriate
+standards agency. Unapproved
+safety equipment may not provide
+adequate protection. Eye protection
+must be ANSI-approved and breathing
+protection must be NIOSH-approved for
+the specific hazards in the work area.
+4. Power tool use and care
+a. Do not force the power tool. Use
+the correct power tool for your
+application. The correct power tool will
+do the job better and safer at the rate
+for which it was designed.
+b. Do not use the power tool if the
+switch does not turn it on and off.
+Any power tool that cannot be controlled 
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 4
+
+with the switch is dangerous and must
+be repaired.
+c. Disconnect the plug from the power
+source and/or the battery pack from
+the power tool before making any
+adjustments, changing accessories,
+or storing power tools. Such
+preventive safety measures reduce
+the risk of starting the power tool
+accidentally.
+d. Store idle power tools out of the
+reach of children and do not allow
+persons unfamiliar with the power
+tool or these instructions to operate
+the power tool. Power tools are
+dangerous in the hands of untrained
+users.
+e. Maintain power tools. Check for
+misalignment or binding of moving
+parts, breakage of parts and any
+other condition that may affect the
+power tool’s operation. If damaged,
+have the power tool repaired before
+use. Many accidents are caused by
+poorly maintained power tools.
+f. Keep cutting tools sharp and clean.
+Properly maintained cutting tools with
+sharp cutting edges are less likely to
+bind and are easier to control.
+g. Use the power tool, accessories and
+blades etc. in accordance with these
+instructions, taking into account the
+working conditions and the work
+to be performed. Use of the power
+tool for operations different from those
+intended could result in a hazardous
+situation.
+5. Service
+a. Have your power tool serviced by a
+qualified repair person using only
+identical replacement parts. This will
+ensure that the safety of the power tool
+is maintained.
+Circular Saw Safety Warnings
+1. DANGER: Keep hands away from
+cutting area and the blade. Keep your
+second hand on auxiliary handle,
+or motor housing. If both hands are
+holding the saw, they cannot be cut by
+the blade.
+2. Do not reach underneath the
+workpiece. The guard cannot protect
+you from the blade below the workpiece.
+3. Adjust the cutting depth to the
+thickness of the workpiece. Less than
+a full tooth of the blade teeth should be
+visible below the workpiece.
+4. Never hold piece being cut in your
+hands or across your leg. Secure the
+workpiece to a stable platform. It is
+important to support the work properly to
+minimize body exposure, blade binding,
+or loss of control.
+5. Hold power tool by insulated gripping
+surfaces when performing an
+operation where the cutting tool may
+contact hidden wiring or its own cord.
+Contact with a″ live″ wire will also make
+exposed metal parts of the power tool ″
+live″ and shock the operator.
+6. When ripping always use a rip fence
+or straight edge guide. This improves
+the accuracy of cut and reduces the
+chance of blade binding.
+7. Always use blades with correct size
+and shape (diamond versus round) of
+arbor holes. Blades that do not match
+the mounting hardware of the saw will
+run eccentrically, causing loss of control.
+8. Never use damaged or incorrect blade
+washers or bolt. The blade washers
+and bolt were specially designed for
+your saw, for optimum performance and
+safety of operation.
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 5
+
+9. Causes and Operator Prevention of
+Kickback:
+•	 Kickback is a sudden reaction to a
+pinched, bound or misaligned saw
+blade, causing an uncontrolled saw to
+lift up and out of the workpiece toward
+the operator;
+•	 When the blade is pinched or bound
+tightly by the kerf closing down, the
+blade stalls and the motor reaction
+drives the unit rapidly back toward the
+operator;
+•	 If the blade becomes twisted or
+misaligned in the cut, the teeth at the
+back edge of the blade can dig into the
+top surface of the wood causing the
+blade to climb out of the kerf and jump
+back toward the operator.
+Kickback is the result of saw misuse
+and/or incorrect operating procedures or
+conditions and can be avoided by taking
+proper precautions as given below:
+a. Maintain a firm grip with both hands
+on the saw and position your arms
+to resist kickback forces. Position
+your body to either side of the
+blade, but not in line with the blade.
+Kickback could cause the saw to jump
+backwards, but kickback forces can
+be controlled by the operator, if proper
+precautions are taken.
+b. When blade is binding, or when
+interrupting a cut for any reason,
+release the trigger and hold the
+saw motionless in the material until
+the blade comes to a complete
+stop. Never attempt to remove
+the saw from the work or pull the
+saw backward while the blade is
+in motion or kickback may occur.
+Investigate and take corrective actions
+to eliminate the cause of blade binding.
+c. When restarting a saw in the
+workpiece, center the saw blade in
+the kerf and check that saw teeth
+are not engaged into the material. If
+saw blade is binding, it may walk up or
+kickback from the workpiece as the saw
+is restarted.
+d. Support large panels to minimize the
+risk of blade pinching and kickback.
+Large panels tend to sag under their
+own weight. Supports must be placed
+under the panel on both sides, near
+the line of cut and near the edge of the
+panel.
+e. Do not use dull or damaged blades.
+Unsharpened or improperly set blades
+produce narrow kerf causing excessive
+friction, blade binding and kickback.
+f. Blade depth and bevel adjusting
+locking levers must be tight and
+secure before making cut. If blade
+adjustment shifts while cutting, it may
+cause binding and kickback.
+g. Use extra caution when making a
+″plunge cut″ into existing walls or
+other blind areas. The protruding
+blade may cut objects that can cause
+kickback.
+10. Check lower guard for proper closing
+before each use. Do not operate the
+saw if lower guard does not move
+freely and close instantly. Never
+clamp or tie the lower guard into the
+open position. If saw is accidentally
+dropped, lower guard may be bent.
+Raise the lower guard with the retracting
+handle and make sure it moves freely
+and does not touch the blade or any
+other part, in all angles and depths of
+cut.
+11. Check the operation of the lower
+guard spring. If the guard and the
+spring are not operating properly,
+they must be serviced before use.
+Lower guard may operate sluggishly due 
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 6
+
+to damaged parts, gummy deposits, or a
+build-up of debris.
+12. Lower guard should be retracted
+manually only for special cuts such
+as ″plunge cuts″ and ″compound
+cuts.″ Raise lower guard by retracting
+handle and as soon as blade enters
+the material, the lower guard must be
+released. For all other sawing, the lower
+guard should operate automatically.
+13. Always observe that the lower guard
+is covering the blade before placing
+saw down on bench or floor. An
+unprotected, coasting blade will cause
+the saw to walk backwards, cutting
+whatever is in its path. Be aware of the
+time it takes for the blade to stop after
+switch is released.
+14. Do not use this saw with the
+saw held upside down in a vise.
+The saw is not designed for such use
+and cannot be used safely in that
+position.
+15. Do not use to cut logs, tree limbs, or
+uneven lumber.
+16. Wet lumber, green (unseasoned)
+lumber, and pressure treated lumber
+all have an increased potential for
+kickback and should only be cut with
+a blade for cutting that lumber type.
+Wear a NIOSH-approved respirator
+and have appropriate ventilation
+whenever cutting pressure treated
+lumber.
+17. Do not use blades made from highspeed steel, abrasive blades, metalcutting blades or masonry-cutting
+blades. The guards of this saw are not
+designed to protect against the failure of
+such blades.
+18. Place the larger portion of the saw
+base on the larger, supported part of
+the workpiece. This will help maintain
+balance and control while the cut is
+completed.
+19. Blades must be rated to at least the
+maximum speed marked on the tool.
+20. Maintain labels and nameplates on
+the tool. These carry important safety
+information. If unreadable or missing,
+contact Harbor Freight Tools for a
+replacement.
+21. Avoid unintentional starting. Prepare to
+begin work before turning on the tool.
+22. Do not lay the tool down until it has come
+to a complete stop. Moving parts can
+grab the surface and pull the tool out of
+your control.
+23. When using a handheld power tool,
+maintain a firm grip on the tool with both
+hands to resist starting torque.
+24. Do not leave the tool unattended when
+it is plugged into an electrical outlet.
+Turn off the tool, and unplug it from its
+electrical outlet before leaving.
+25. Use clamps (not included) or other
+practical ways to secure and support the
+workpiece to a stable platform. Holding
+the work by hand or against your body is
+unstable and may lead to loss of control.
+26. This product is not a toy. Keep it out of
+reach of children.
+27. Verify that there are no utility lines or
+hardware in or near the workpiece. This
+is especially critical for plunge cuts.
+28. Do not depress the spindle lock when
+starting or during operation.
+29. People with pacemakers should
+consult their physician(s) before use.
+Electromagnetic fields in close proximity
+to heart pacemaker could cause 
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 7
+
+pacemaker interference or pacemaker
+failure. In addition, people with
+pacemakers should:
+• Avoid operating alone.
+• Do not use with power switch locked
+on.
+• Properly maintain and inspect to avoid
+electrical shock.
+• Any power cord must be properly
+grounded. Ground Fault Circuit
+Interrupter (GFCI) should also be
+implemented – it prevents sustained
+electrical shock.
+30. WARNING: Some dust created by power
+sanding, sawing, grinding, drilling, and
+other construction activities, contains
+chemicals known [to the State of
+California] to cause cancer, birth defects
+or other reproductive harm. Some
+examples of these chemicals are:
+• Lead from lead-based paints
+• Crystalline silica from bricks and
+cement or other masonry products
+• Arsenic and chromium from chemically
+treated lumber
+Your risk from these exposures varies,
+depending on how often you do this type
+of work. To reduce your exposure to
+these chemicals: work in a well ventilated
+area, and work with approved safety
+equipment, such as those dust masks
+that are specially designed to filter out
+microscopic particles. (California Health
+& Safety Code § 25249.5, et seq.)
+31. WARNING: Handling the cord on this
+product will expose you to lead, a
+chemical known to the State of California
+to cause cancer, and birth defects or
+other reproductive harm. Wash hands
+after handling. (California Health &
+Safety Code § 25249.5, et seq.)
+32. The warnings, precautions, and
+instructions discussed in this instruction
+manual cannot cover all possible
+conditions and situations that may occur.
+It must be understood by the operator
+that common sense and caution are
+factors which cannot be built into this
+product, but must be supplied by the
+operator.
+Vibration Safety
+This tool vibrates during use. Repeated
+or long-term exposure to vibration may cause
+temporary or permanent physical injury,
+particularly to the hands, arms and shoulders.
+To reduce the risk of vibration-related injury:
+1. Anyone using vibrating tools regularly
+or for an extended period should first
+be examined by a doctor and then have
+regular medical check-ups to ensure
+medical problems are not being caused
+or worsened from use. Pregnant
+women or people who have impaired
+blood circulation to the hand, past hand
+injuries, nervous system disorders,
+diabetes, or Raynaud’s Disease should
+not use this tool. If you feel any medical
+or physical symptoms related to vibration
+(such as tingling, numbness, and white
+or blue fingers), seek medical advice as
+soon as possible.
+2. Do not smoke during use. Nicotine
+reduces the blood supply to the hands
+and fingers, increasing the risk of
+vibration-related injury.
+3. Wear suitable gloves to reduce the
+vibration effects on the user.
+4. Use tools with the lowest vibration when
+there is a choice.
+5. Include vibration-free periods each day
+of work.
+6. Grip tool as lightly as possible (while still
+keeping safe control of it). Let the tool
+do the work.
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 8
+
+7. To reduce vibration, maintain the tool
+as explained in this manual. If any
+abnormal vibration occurs, stop use
+immediately.
+Save these
+instructions.
+Grounding
+To prevent
+electric shock
+and death from incorrect
+grounding wire
+connection:
+Check with a qualified electrician
+if you are in doubt as to whether
+the outlet is properly grounded.
+Do not modify the power cord
+plug provided with the tool.
+Never remove the grounding
+prong from the plug. Do not use
+the tool if the power cord or plug
+is damaged. If damaged, have it
+repaired by a service facility
+before use. If the plug will not fit
+the outlet, have a proper outlet
+installed by a qualified
+electrician.
+Double Insulated Tools: Tools with
+Two Prong Plugs
+Outlets for 2-Prong Plug
+1. Tools marked “Double Insulated” do not
+require grounding. They have a special
+double insulation system which satisfies
+OSHA requirements and complies with
+the applicable standards of Underwriters
+Laboratories, Inc., the Canadian
+Standard Association, and the National
+Electrical Code.
+2. Double insulated tools may be used in
+either of the 120 volt outlets shown in the
+preceding illustration. (See Outlets for
+2-Prong Plug.)
+Extension Cords
+1. Grounded tools require a three wire
+extension cord. Double Insulated
+tools can use either a two or three wire
+extension cord.
+2. As the distance from the supply outlet
+increases, you must use a heavier gauge
+extension cord. Using extension cords
+with inadequately sized wire causes a
+serious drop in voltage, resulting in loss
+of power and possible tool damage.
+(See Table A.)
+3. The smaller the gauge number of the
+wire, the greater the capacity of the cord.
+For example, a 14 gauge cord can carry
+a higher current than a 16 gauge cord.
+(See Table A.)
+4. When using more than one extension
+cord to make up the total length, make
+sure each cord contains at least the
+minimum wire size required. (See Table
+A.)
+5. If you are using one extension cord for
+more than one tool, add the nameplate
+amperes and use the sum to determine
+the required minimum cord size. (See
+Table A.)
+6. If you are using an extension cord
+outdoors, make sure it is marked with the
+suffix “W-A” (“W” in Canada) to indicate it
+is acceptable for outdoor use.
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 9
+
+7. Make sure the extension cord is properly
+wired and in good electrical condition.
+Always replace a damaged extension
+cord or have it repaired by a qualified
+electrician before using it.
+8. Protect the extension cords from sharp
+objects, excessive heat, and damp or
+wet areas.
+RECOMMENDED MINIMUM WIRE GAUGE
+FOR EXTENSION CORDS* (120/240 VOLT)
+NAMEPLATE
+AMPERES
+(at full load)
+EXTENSION CORD
+LENGTH
+25’ 50’ 75’ 100’ 150’
+0 – 2.0 18 18 18 18 16
+2.1 – 3.4 18 18 18 16 14
+3.5 – 5.0 18 18 16 14 12
+5.1 – 7.0 18 16 14 12 12
+7.1 – 12.0 18 14 12 10 -
+12.1 – 16.0 14 12 10 - -
+16.1 – 20.0 12 10 - - -
+TABLE A
+* Based on limiting the line voltage drop to five volts at 150% of
+the rated amperes.
+Symbology
+Double Insulated
+Canadian Standards Association
+Underwriters Laboratories, Inc.
+V~ Volts Alternating Current
+A Amperes
+n0 xxxx/min. No Load Revolutions per Minute
+(RPM)
+Specifications
+Power Input 120 V~, 60 Hz, 10 A (peak)
+Motor 5000 RPM, direct drive
+Line Cord 18 AWG x 2
+Saw Blade 7-1/4”; 24 tooth carbide tipped
+(included)
+Cutting Capacity 2.5” at 90°; 1.7” at 45°
+Arbor 5/8”; Spindle lock
+Accessories Blade removal hex wrench
+Features Automatic guard return
+Weight 8.6 lb.
+Toe Plate 10-5/8” L x 5-3/8” W
+E194601
+REV 10e
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 10
+
+Unpacking
+When unpacking, make sure that the
+item is intact and undamaged. If any parts
+are missing or broken, please call Harbor
+Freight Tools at 1-800-444-3353 as soon as
+possible.
+Instructions for putting
+into use
+Read the entire Important
+Safety Information
+section at the beginning of this
+manual including all text under
+subheadings therein before set up
+or use of this product.
+To prevent
+serious injury
+from accidental
+operation:
+Turn the Power Switch of the tool
+off and unplug the tool from its
+electrical outlet before
+assembling or making any
+adjustments to the tool.
+Note: For additional information regarding the
+parts listed in the following pages, refer
+to the Assembly Diagram near the end of
+this manual.
+Functions
+Depth Lever (38)
+Handle Grip
+Switch Lock
+Button Trigger
+Angle Adjust
+Wing Nut (10)
+Base Plate (4)
+Screw (3)
+Guide Fence (1)
+Scale
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 11
+
+Operating Instructions
+Read the entire Important
+Safety Information
+section at the beginning of this
+manual including all text under
+subheadings therein before set up
+or use of this product.
+Tool Set Up
+ To prevent
+serious injury
+from accidental
+operation:
+Turn the Power Switch of the tool
+off and unplug the tool from its
+electrical outlet before adjusting
+tool or installing accessories.
+To prevent serious injury
+from flying Fragments:
+Do not use blades made from
+high-speed steel, abrasive
+blades, or metal- or masonrycutting blades. The guards of
+this saw are not designed to
+protect against the failure of
+such blades.
+Installing a Saw Blade
+Application Blade
+Description
+No. of
+Teeth
+Type of
+Cut
+Fine Trim
+Molding
+Precision Trim
+Carbide
+60 ~ 100 Very smooth,
+splinter free
+Trim, Framing,
+Pressure
+Treated Decking
+Combination,
+multi-purpose
+24 ~ 60 Smooth, fast
+cut
+Aluminum Non-ferrous
+metal cutting
+60 ~ 80 - - - -
+1. Use only a 7-1/4 inch Saw Blade (14).
+The saw blade speed rating must be at
+least 5000 RPM. Refer to the above
+table for saw blade applications and
+types.
+2. Unplug the Circular Saw Line Cord (62)
+from the electrical outlet.
+3. Raise the Blade Guard (20) as far as
+possible. See photo on the next page.
+4. Hold the Blade Guard up and press the
+Spindle Lock Button with one hand.
+Rotate the Saw Blade until the Spindle
+Lock catches and the blade stops.
+5. Using the supplied Saw Blade Hex
+Wrench in the other hand, loosen
+(clockwise) the left-hand threaded Hex
+Screw (42). Remove the Saw Blade Hex
+Screw (42), Blade Pressure Plate (12),
+then the Saw Blade.
+6. Clean out Blade Cover (11) of any
+debris.
+7. Place the new Saw Blade over the
+Spindle (16) hole.
+The Saw Blade teeth at the bottom of the
+saw blade should be pointing toward the
+back of the Circular Saw.
+Hex
+Screw
+(42)
+Blade
+Pressure
+Plate (12)
+Blade Guard (20)
+Blade
+Cover
+(11)
+8. Place the Blade Pressure Plate (12) over
+the Spindle hole, then insert the Hex
+Screw (42).
+9. Press the Spindle Lock Button with
+one hand, and tighten the Blade Screw
+(clockwise) using the Hex Wrench with
+the other hand.
+10.
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 12
+
+Work Piece and Work Area Set Up
+1. Work piece selection:
+a. Work piece must be free of foreign
+objects and loose knots.
+b. Do not use to cut logs, tree limbs, or
+uneven lumber.
+c. Wet lumber, green (unseasoned)
+lumber, and pressure treated lumber all
+have an increased potential for kickback
+and should only be cut with a blade
+designed for cutting that lumber. Wear
+a NIOSH-approved respirator and have
+appropriate ventilation whenever cutting
+pressure treated lumber.
+2. Designate a work area that is clean and
+well-lit. The work area must not allow
+access by children or pets to prevent
+distraction and injury.
+3. Route the power cord along a safe
+route to reach the work area without
+creating a tripping hazard or exposing
+the power cord to possible damage. The
+power cord must reach the work area
+with enough extra length to allow free
+movement while working.
+4. Secure loose workpieces using a vise
+or clamps (not included) to prevent
+movement while working.
+5. Verify that there are no utility lines or
+hardware in or near the workpiece. This
+is especially critical for plunge cuts.
+6. Support large panels to minimize risk of
+blade pinching and saw kickback.
+7. Use the supplied Guide Fence (1) when
+ripping material by sliding it into the Base
+Plate (4), and tightening Screw (3).
+8. Be cautious that Circular Saw does not
+cut into supports or workbench.
+9. Use the appropriate type of blade for the
+material you are cutting.
+General Operating Instructions
+1. To adjust the angle of blade from 0 to 45
+degrees, loosen Wing Nut (10) and move
+Base Plate (4) down, observing the
+degrees indicated on the Angle Bracket
+(6). Tighten Wing Nut (10).
+2. To adjust the depth of the cut, lift Depth
+Lever (38) and move Base Plate (4)
+down (or up) while observing the amount
+of saw blade exposed under Base Plate.
+Push down on the Depth Lever (38) to
+lock in new depth setting.
+3. WARNING! Verify that Saw Blade (14)
+is securely tightened and both angle
+and height adjusting nuts and levers
+are tight.
+4. Make sure that all guards are in place
+and in proper working order and that
+all adjustment knobs are tight before
+operation.
+5. If a straight cut is desired, slide the
+Guide Fence (1) into the side of the
+Circular Saw and tighten with Screw (3), 
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 13
+
+or clamp a straight edge to the material
+to guide the saw on a straight path.
+Refer to photo above.
+6. Place the saw Base Plate on the material
+to be cut. Align the front notch (right
+edge aligns with saw blade) on the cut
+line.
+7. Hold the Circular Saw by both handles.
+Always keep hands and fingers away
+from the Saw Blade.
+8. Push in and hold the Switch Lock Button,
+then squeeze the Switch (61) Trigger
+with the index finger. Do this before the
+saw blade touches the material.
+9. With the saw at full speed, move the saw
+slowly forward to complete the cut.
+10. When the cut is complete, release the
+Trigger. Do not set the saw down until
+the blade stops turning.
+11. To prevent accidents, turn off the tool
+and disconnect its power supply after
+use. Clean, then store the tool indoors
+out of children’s reach.
+Pocket Cuts
+1. Tilt the saw forward with the cutting
+guide notch of the Base Plate on the line
+drawn for the cut.
+2. Raise the Blade Guard (20) with the
+Blade Guard Lever (35).
+3. With the Saw Blade just above the
+material to be cut, start the saw and
+allow the Saw Blade to come to full
+speed.
+4. Gradually lower the Saw Blade onto the
+stock using the front end of the Base
+Plate as a pivot point.
+5. When the cutting begins, release the
+Blade Guard.
+6. When the Base Plate is resting flat on
+the stock being cut, proceed cutting in a
+forward direction to the end of the cut.
+7. When the cut is complete, release the
+Trigger and wait for the Saw Blade to
+come to a stop before lifting the saw out
+of the cut.
+8. If necessary, complete the cut from the
+opposite direction in the same manner
+described above.
+WARNING! Never pull the saw
+backwards since the Saw Blade will
+climb out of the cut and kickback will
+occur.
+9. When the cut is complete, release the
+Trigger. Do not set the saw down until
+the blade stops turning.
+10. To prevent accidents, turn off the tool
+and disconnect its power supply after
+use. Clean, then store the tool indoors
+out of children’s reach.
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 14
+
+Maintenance And
+Servicing
+Procedures not specifically
+explained in this manual must
+be performed only by a qualified
+technician.
+To prevent
+serious injury
+from accidental
+operation:
+Turn the Power Switch of the tool
+off and unplug the tool from its
+electrical outlet before
+performing any inspection,
+maintenance, or cleaning
+procedures.
+To prevent serious injury
+from tool failure:
+Do not use damaged equipment.
+If abnormal noise or vibration
+occurs, have the problem
+corrected before further use.
+Cleaning, Maintenance, and
+Lubrication
+1. Before each use, inspect the general
+condition of the Circular Saw. Check for
+loose screws, misalignment or binding of
+moving parts, cracked or broken parts,
+damaged electrical wiring, and any
+other condition that may affect its safe
+operation. If abnormal noise or vibration
+occurs, have the problem corrected
+before further use.
+Do not use damaged equipment.
+2. Before remounting the Saw Blade,
+remove all sawdust that has
+accumulated around the safety guard.
+3. Regularly inspect and tighten all
+mounting screws and knobs.
+4. Keep Saw Blade clean and sharp. Sharp
+blades minimize stalling and kickback.
+5. Keep guards in good working order.
+6. Keep motor air vent clean of dust and
+debris. Vacuum periodically.
+7. If the tool is not operating normally,
+making unusual noises, or appears
+defective, stop using it immediately and
+get it repaired.
+8. Clean tool with a damp cloth and light
+detergent. Do not use solvents as they
+can damage and crack the plastic parts.
+9. WARNING! If the supply cord of
+this power tool is damaged, it must be
+replaced only by a qualified service
+technician.
+Replacing the Carbon Brushes
+1. Unscrew the Carbon Brush Covers (55).
+2. Pull out the Carbon Brush (54) from each
+side of the motor and examine them.
+If they are worn more than half way
+down, replace them. It could be that they
+are simply dirty. They can be cleaned
+using an ink eraser.
+3. Replace the Carbon Brushes (54) and
+Covers (55).
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 15
+
+PLEASE READ THE FOLLOWING CAREFULLY
+THE MANUFACTURER AND/OR DISTRIBUTOR HAS PROVIDED THE PARTS DIAGRAM
+IN THIS MANUAL AS A REFERENCE TOOL ONLY. NEITHER THE MANUFACTURER NOR
+DISTRIBUTOR MAKES ANY REPRESENTATION OR WARRANTY OF ANY KIND TO THE
+BUYER THAT HE OR SHE IS QUALIFIED TO MAKE ANY REPAIRS TO THE PRODUCT OR
+THAT HE OR SHE IS QUALIFIED TO REPLACE ANY PARTS OF THE PRODUCT. IN FACT,
+THE MANUFACTURER AND/OR DISTRIBUTOR EXPRESSLY STATES THAT ALL REPAIRS
+AND PARTS REPLACEMENTS SHOULD BE UNDERTAKEN BY CERTIFIED AND LICENSED
+TECHNICIANS AND NOT BY THE BUYER. THE BUYER ASSUMES ALL RISK AND LIABILITY
+ARISING OUT OF HIS OR HER REPAIRS TO THE ORIGINAL PRODUCT OR REPLACEMENT
+PARTS THERETO, OR ARISING OUT OF HIS OR HER INSTALLATION OF REPLACEMENT
+PARTS THERETO.
+Troubleshooting
+Symptom Possible Cause Remedy
+Saw does not start when
+trigger is pulled.
+1. No power to line cord.
+2. Switch Lock Button not pushed in
+while pulling trigger.
+3. Defective switch.
+4. Carbon brushes dirty or worn
+down.
+1. Check electrical outlet for power.
+2. Press in button while pulling
+trigger.
+3. Replace switch.
+4. Clean or replace carbon brushes.
+While cutting, saw slows down. Carbon brushes dirty or worn down. Clean or replace carbon brushes.
+Saw blade slips while cutting. Hex Screw (42) loose. Securely tighten Hex Screw (42)
+Blade Guard (20) sticks or
+does not open easily.
+Debris buildup in the Blade Cover
+(11).
+Remove Saw Blade and clean out
+Blade Cover (11).
+Wood burns or smokes while
+being cut.
+Saw Blade dull. Sharpen or replace Saw Blade.
+Follow all safety precautions whenever diagnosing or servicing the tool.
+Disconnect power supply before service.
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 16
+
+Parts List
+Part Description Q’ty
+1 Guide Fence 1
+2 Round-head Rivet 2
+3 Guide Fence Screw 1
+4 Base Plate 1
+5 Screw M6x16 1
+6 Angle Bracket 1
+7 Retaining Ring 1
+8 Carriage Bolt M6x10 1
+9 Washer 1
+10 Wing Nut M6 1
+11 Blade Cover 1
+12 Blade Flange 1
+13 Spring Pin 1
+14 Sawblade 1
+15 Inner Flange 1
+16 Spindle 1
+17 Shaft Key 1
+18 Screw M4x8 4
+19 Cover 1
+20 Blade Guard 1
+21 Screw M5x10 3
+22 Bearing 6001Z 1
+23 Front Cover 1
+24 Bushing 1
+25 Screw M5x14 3
+26 Gear 1
+27 Spring Washer 4
+28 Spring Washer 1
+29 Fender Ring 1
+30 Oil Bearing 1
+31 Housing 1
+32 Spring 1
+33 Spindle Lock 1
+Part Description Q’ty
+34 Spring 1
+35 Blade Guard Lever 1
+36 Fender Ring 1
+37 Nut 1
+38 Depth Lever 1
+39 Washer 1
+40 Shelf 1
+41 Carriage Bolt M6x14 1
+42 Hex Bolt M6x16 1
+43 Bearing 6000Z 1
+44 Fender Ring 1
+45 Armature 1
+46 Bearing 607Z 1
+47 Bearing Sleeve 1
+48 Fan 1
+49 Tap Screw ST4.8x60 2
+50 Stator 1
+51 Housing 1
+52 Screw M5x58 3
+53 Carbon Brush Holder 2
+54 Carbon Brush 2
+55 Carbon Brush Cover 2
+56 Nut M5 2
+57 Right Handle 1
+58 Strain Relief 1
+59 Tap Screw ST4.2x14 2
+60 Power Cord Guard 1
+61 Switch 1
+62 Power Cord 1
+64 Tap Screw ST4.2x12 1
+65 Left Handle 1
+66 Tap Screw ST4.2x16 4
+Record Product’s Serial Number Here:
+Note: If product has no serial number, record month and year of purchase instead.
+Note: Some parts are listed and shown for illustration purposes only, and are not available
+individually as replacement parts.
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 17
+
+Assembly Diagram
+REV 10e
+SKU 94245 For technical questions, please call 1-800-444-3353. Page 18
+
+LIMITED 90 DAY WARRANTY
+Harbor Freight Tools Co. makes every
+effort to assure that its products meet
+high quality and durability standards, and
+warrants to the original purchaser that this
+product is free from defects in materials and
+workmanship for the period of 90 days from
+the date of purchase. This warranty does not
+apply to damage due directly or indirectly,
+to misuse, abuse, negligence or accidents,
+repairs or alterations outside our facilities,
+criminal activity, improper installation, normal
+wear and tear, or to lack of maintenance. We
+shall in no event be liable for death, injuries
+to persons or property, or for incidental,
+contingent, special or consequential damages
+arising from the use of our product. Some
+states do not allow the exclusion or limitation
+of incidental or consequential damages,
+so the above limitation of exclusion may
+not apply to you. This warranty is
+expressly in lieu of all other
+warranties, express or implied,
+including the warranties of
+merchantability and fitness.
+To take advantage of this warranty,
+the product or part must be returned to us
+with transportation charges prepaid. Proof
+of purchase date and an explanation of the
+complaint must accompany the merchandise.
+If our inspection verifies the defect, we
+will either repair or replace the product at
+our election or we may elect to refund the
+purchase price if we cannot readily and
+quickly provide you with a replacement. We
+will return repaired products at our expense,
+but if we determine there is no defect, or that
+the defect resulted from causes not within the
+scope of our warranty, then you must bear the
+cost of returning the product.
+This warranty gives you specific legal
+rights and you may also have other rights
+which vary from state to state.
+3491 Mission Oaks Blvd. • PO Box 6009
+Camarillo, CA 93011 • (800) 444-3353
