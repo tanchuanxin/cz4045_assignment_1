@@ -9,7 +9,7 @@ import random
 from collections import Counter
 import matplotlib.pyplot as plt
 
-
+# Initialize an array of all 3 datasets
 folder_names = ['Fairy Tales','Legal Documents']
 
 # Looks into all .txt files in each dataset 
@@ -38,6 +38,8 @@ for folder in folder_names:
     # Create collection counter (dictionary) with key: token and value: num occurences of token
     tokenDict = Counter(tokens)
     print("Number of distinct tokens for "+folder+" dataset: " ,len(tokenDict))
+
+    # Write to outputs a text file that prints collection counter (dictionary) with key: token and value: num occurences of token
     with open(folder+"_Outputs/tokens.txt", "w") as f:
         print(tokenDict, file=f)
 
@@ -73,6 +75,7 @@ for folder in folder_names:
     stemmedDict = Counter(stemmedTokens[0])
     print("Number of distinct tokens after stemming for "+folder+" dataset: " ,len(stemmedDict))
 
+    # Write to outputs a text file that prints collection counter (dictionary) with key: stemmed token and value: num occurences of stemmed token
     with open(folder+"_Outputs/stemmedWords.txt", "w") as f:
         print(stemmedDict, file=f)
 
@@ -101,11 +104,13 @@ for folder in folder_names:
     for story in corpus:
         sentence_tokens.extend(sent_tokenize(story))
 
-    # To get a dict where key is sentence and value is the number of words/ tokens in the sentence
+    # To get a dictionary where key is sentence and value is the number of words/ tokens in the sentence
     lengths =[]
     for i in sentence_tokens:
         lengths.append(len(i.split()))
     sentences = dict(zip(sentence_tokens,lengths))
+
+    # Write to outputs a text file that prints dictionary where key is sentence and value is the number of words/ tokens in the sentence
     with open(folder+"_Outputs/sentences.txt", "w") as f:
         print(sentences, file=f)
 
@@ -121,7 +126,6 @@ for folder in folder_names:
     # Create collection counter (dictionary) with key: length of sentence and value: num occurences of length of sentence 
     uniqSentences = Counter(sentenceLengths)
 
-
     # Plot length distribution: x-axis is the length of a sentence in number of words/tokens, and the y-axis is the number of sentences of each length. 
     plt.clf()
     plt.bar(uniqSentences.keys(),uniqSentences.values())
@@ -133,7 +137,6 @@ for folder in folder_names:
 
     #==========================================================POS TAGGING==========================================================================
 
-
     # Tokenizing function 
     def tokenizing(sentence):
         new = []
@@ -141,12 +144,15 @@ for folder in folder_names:
         new = list(filter(lambda token: token not in string.punctuation, new))
         return new
 
-    # Current random selection of 3 sentences 
+    # Set random.seed() to fix random selection of 3 sentences and select 3 random sentences
+    # Tokenize each sentence
     random.seed(10)
     randomSentences = random.sample(sentence_tokens,3)
     sentence1 = tokenizing(randomSentences[0])
     sentence2 = tokenizing(randomSentences[1])
     sentence3 = tokenizing(randomSentences[2])
+
+    # Write to outputs a text file that prints the 3 random selected sentences in the dataset and run POS Tagging on the tokens
     with open(folder+"_POS/pos_tag.txt", "w") as f:
         print("3 random sentences : ",randomSentences,'\n',file=f)
         print("Parts of Speech for sentence 1: ",pos_tag(sentence1),'\n', file=f)
