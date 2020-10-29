@@ -1,0 +1,8 @@
+3 random sentences :  ['Then\nanswered the gardener, last night, a spirit came in, who had no\nhands, and ate off one of the pears with its mouth.', 'The lazy girl was willing enough to go,\nand thought that now the golden rain would come.', 'Hastily she ran away, and\nran to the moon, but it was far too cold, and also awful and\nmalicious, and when it saw the child, it said, I smell, I smell\nthe flesh of men.'] 
+
+Parts of Speech for sentence 1:  [('Then', 'RB'), ('answered', 'VBD'), ('the', 'DT'), ('gardener', 'NN'), ('last', 'JJ'), ('night', 'NN'), ('a', 'DT'), ('spirit', 'NN'), ('came', 'VBD'), ('in', 'IN'), ('who', 'WP'), ('had', 'VBD'), ('no', 'DT'), ('hands', 'NNS'), ('and', 'CC'), ('ate', 'VB'), ('off', 'RP'), ('one', 'CD'), ('of', 'IN'), ('the', 'DT'), ('pears', 'NNS'), ('with', 'IN'), ('its', 'PRP$'), ('mouth', 'NN')] 
+
+Parts of Speech for sentence 2:  [('The', 'DT'), ('lazy', 'JJ'), ('girl', 'NN'), ('was', 'VBD'), ('willing', 'JJ'), ('enough', 'RB'), ('to', 'TO'), ('go', 'VB'), ('and', 'CC'), ('thought', 'VBD'), ('that', 'WDT'), ('now', 'RB'), ('the', 'DT'), ('golden', 'JJ'), ('rain', 'NN'), ('would', 'MD'), ('come', 'VB')] 
+
+Parts of Speech for sentence 3:  [('Hastily', 'RB'), ('she', 'PRP'), ('ran', 'VBD'), ('away', 'RB'), ('and', 'CC'), ('ran', 'VBD'), ('to', 'TO'), ('the', 'DT'), ('moon', 'NN'), ('but', 'CC'), ('it', 'PRP'), ('was', 'VBD'), ('far', 'RB'), ('too', 'RB'), ('cold', 'JJ'), ('and', 'CC'), ('also', 'RB'), ('awful', 'JJ'), ('and', 'CC'), ('malicious', 'JJ'), ('and', 'CC'), ('when', 'WRB'), ('it', 'PRP'), ('saw', 'VBD'), ('the', 'DT'), ('child', 'NN'), ('it', 'PRP'), ('said', 'VBD'), ('I', 'PRP'), ('smell', 'VBP'), ('I', 'PRP'), ('smell', 'VBP'), ('the', 'DT'), ('flesh', 'NN'), ('of', 'IN'), ('men', 'NNS')] 
+
