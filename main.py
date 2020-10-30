@@ -6,11 +6,12 @@ import string
 import glob
 import os
 import random
+import numpy as np
 from collections import Counter
 import matplotlib.pyplot as plt
 
 # Initialize an array of all 3 datasets
-folder_names = ['Fairy Tales','Legal Documents','Instruction Manuals']
+folder_names = ['Fairy Tales','Legal Documents','Instruction Manuals','Test']
 
 # Looks into all .txt files in each dataset 
 for folder in folder_names:
@@ -50,12 +51,21 @@ for folder in folder_names:
 
     # Create collection counter (dictionary) with key: length of token and value: num occurences of length of token
     uniqLengths = Counter(tokenLengths)
+    
+    # Create new dict where keys of collection counter are sorted
+    sorted_uniqLengths = {}
+    for i in sorted (uniqLengths) : 
+        sorted_uniqLengths[i] = uniqLengths[i]
 
     # Plot length distribution: x-axis is the length of a token in number of characters, and the y-axis is the number of tokens of each length. 
-    plt.bar(uniqLengths.keys(),uniqLengths.values())
+    barwidth = 0.4                                      # Set bar width of graph to 0.4
+    x = np.arange(len(sorted_uniqLengths.keys()))       # Arrange keys of sorted dict in ascending order
+    plt.bar(x+1,sorted_uniqLengths.values(),width = barwidth,label = 'tokenization')                # +1 to arranged x-axis to adjust 0 to 1
     plt.title('Length distribution for tokens in '+folder+' dataset')
+    plt.xlim(0,20)
     plt.xlabel('Length of tokens in number of characters')
     plt.ylabel('Number of tokens of each length')
+    plt.legend()
     plt.savefig(folder+'_figs/tokens.png')              # save plot distribution
     # plt.show()
 
@@ -87,11 +97,21 @@ for folder in folder_names:
     # Create collection counter (dictionary) with key: length of token and value: num occurences of length of token
     uniqStemmed = Counter(stemmedLengths)
 
+    # Create new dict where keys of collection counter are sorted
+    sorted_uniqStemmed = {}
+    for i in sorted (uniqStemmed) :
+        sorted_uniqStemmed[i] = uniqStemmed[i] 
+
     # Plot length distribution: x-axis is the length of a token in number of characters, and the y-axis is the number of tokens of each length. 
-    plt.bar(uniqStemmed.keys(),uniqStemmed.values())
-    plt.title('Length distribution for tokens in '+folder+' dataset after stemming')
-    plt.xlabel('Length of stemmed tokens in number of characters')
-    plt.ylabel('Number of stemmed tokens of each length')
+    # Plot length distribution for stemming in comparison to pre-stemming
+    x = np.arange(len(sorted_uniqStemmed.keys()))               # Arrange keys of sorted dict in ascending order
+    y = x+1                                                     # +1 to arranged x-axis to adjust 0 to 1
+    plt.bar(y+barwidth,sorted_uniqStemmed.values(),width = barwidth, label = 'stemmed') # Add barwidth to x-axis so that stemmed bargraph appears beside tokenized bar graph
+    plt.title('Comparison of length distribution \nfor tokens in '+folder+' dataset after stemming')
+    plt.xlim(0,20)
+    plt.xlabel('Length of tokens in number of characters')
+    plt.ylabel('Number of tokens of each length')
+    plt.legend()
     plt.savefig(folder+'_figs/stemmed.png')                # save plot distribution
     # plt.show()
 
@@ -127,13 +147,15 @@ for folder in folder_names:
     uniqSentences = Counter(sentenceLengths)
 
     # Plot length distribution: x-axis is the length of a sentence in number of words/tokens, and the y-axis is the number of sentences of each length. 
-    plt.clf()
+    plt.clf()                                               # Clear the graph plot of previous graphs
     plt.bar(uniqSentences.keys(),uniqSentences.values())
     plt.title('Length distribution for sentences in '+folder+' dataset')
+    plt.xlim(0,100)
     plt.xlabel('Length of sentence in number of words/tokens')
     plt.ylabel('Number of sentences of each length')
     plt.savefig(folder+'_figs/sentence.png')                # save plot distribution
     # plt.show()
+    plt.clf()
 
     #==========================================================POS TAGGING==========================================================================
 
