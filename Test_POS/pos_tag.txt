@@ -1,0 +1,8 @@
+3 random sentences :  ['[0033]\nAccording to the embodiment of FIG.', '[0036]\nAccording to the exemplary embodiment of the present invention illustrated in FIG.', 'In another embodiment according to the present invention, disc pack 50 may use shaft mount 58 to relate the rotation caused by the combustion fluid through its discs 52 to drive shaft 60.'] 
+
+Parts of Speech for sentence 1:  [('0033', 'CD'), ('According', 'VBG'), ('to', 'TO'), ('the', 'DT'), ('embodiment', 'NN'), ('of', 'IN'), ('FIG', 'NNP')] 
+
+Parts of Speech for sentence 2:  [('0036', 'CD'), ('According', 'VBG'), ('to', 'TO'), ('the', 'DT'), ('exemplary', 'JJ'), ('embodiment', 'NN'), ('of', 'IN'), ('the', 'DT'), ('present', 'JJ'), ('invention', 'NN'), ('illustrated', 'VBN'), ('in', 'IN'), ('FIG', 'NNP')] 
+
+Parts of Speech for sentence 3:  [('In', 'IN'), ('another', 'DT'), ('embodiment', 'NN'), ('according', 'VBG'), ('to', 'TO'), ('the', 'DT'), ('present', 'JJ'), ('invention', 'NN'), ('disc', 'NN'), ('pack', 'NN'), ('50', 'CD'), ('may', 'MD'), ('use', 'VB'), ('shaft', 'NN'), ('mount', 'NN'), ('58', 'CD'), ('to', 'TO'), ('relate', 'VB'), ('the', 'DT'), ('rotation', 'NN'), ('caused', 'VBN'), ('by', 'IN'), ('the', 'DT'), ('combustion', 'NN'), ('fluid', 'NN'), ('through', 'IN'), ('its', 'PRP$'), ('discs', 'NN'), ('52', 'CD'), ('to', 'TO'), ('drive', 'VB'), ('shaft', 'NN'), ('60', 'CD')] 
+
