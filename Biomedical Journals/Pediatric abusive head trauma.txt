@@ -1,0 +1,252 @@
+Abstract
+Abusive head trauma (AHT), used to be named shaken baby syndrome, is an injury to the skull and intracranial components of a baby or child younger than 5 years due to violent shaking and/or abrupt impact. It is a worldwide leading cause of fatal head injuries in children under 2 years. The mechanism of AHT includes shaking as well as impact, crushing or their various combinations through acceleration, deceleration and rotational force. The diagnosis of AHT should be based on the existence of multiple components including subdural hematoma, intracranial pathology, retinal hemorrhages as well as rib and other fractures consistent with the mechanism of trauma. The differential diagnosis must exclude those medical or surgical diseases that can mimic AHT such as traumatic brain injury, cerebral sinovenous thrombosis, and hypoxic-ischemic injury. As for the treatment, most of the care of AHT is supportive. Vital signs should be maintained. Intracranial pressure, if necessary, should be monitored and controlled to ensure adequate cerebral perfusion pressure. There are potential morbidity and mortality associated with AHT, ranging from mild learning disabilities to severe handicaps and death. The prognosis of patients with AHT correlates with the extent of injury identified on CT and MRI imaging. The outcome is associated with the clinical staging, the extent of increased intracranial pressure and the existence of neurological complications such as acquired hydrocephalus or microcephalus, cortical blindness, convulsive disorder, and developmental delay. AHT is a potentially preventable disease, therefore, prevention should be stressed in all encounters within the family, the society and all the healthcare providers.
+
+Previous article in issueNext article in issue
+Keywords
+Abusive head traumaShaken baby syndromeInfantChildNeurocritical care
+Since Dr. John Caffey reported a group of children with chronic subdural hematoma and long bone fractures in 1946 [1] and then described the association between traumatic shaking, subdural hematoma and retinal hemorrhage [2], the recognition of various forms of child abuse substantially increased, but with different terminologies. In 1962, Henry Kempe named the victim as “the battered child” [3]. In 1974, Caffey used another term “the whiplash shaken infant syndrome” to describe those injures in infants from shaking the extremities with whiplash-induced intracranial and intraocular bleedings [4]. For many decades, “shaken baby syndrome” (SBS) has been a common term used by many physicians to describe abusive head trauma or inflicted traumatic brain injury on infants and young children [5]. Other terminologies involving SBS included nonaccidental head injury or trauma, inflicted traumatic brain injury [6] or more inclusively, “shaken impact syndrome” [7]. Finally, the American Academy of Pediatrics [8] and consecutively the Centers for Disease Control and Prevention (CDC) [9] recommend the term abusive head trauma (AHT) based on the understanding of the mechanisms and clinical spectrum of injury associated with abusive head injury. Although shaking alone has the potential to cause neurologic damage, blunt impact or a combination of shaking and blunt impact cause significant neurologic injuries [5,10].
+
+AHT typically involves injury to the intracranial structures or skull of an infant or child younger than 5 years old as a result of violent shaking and/or blunt impact. The outcome ranges from complete recovery to significant brain damage and even death. Brain injuries are the most common cause of traumatic death in children less than 2 years. Early diagnosis is essential but may be challenging. It is often difficult for health professionals to recognize AHT due to often lack of external signs of AHT or abuse [11]. The diagnosis of pediatric AHT should only be made following careful history taking, detailed physical examinations, and relevant testings.
+
+Epidemiology
+AHT is difficult for accurate diagnosis, therefore, the incidence is uncertain. This is due to the absent centralized reporting system, no obvious signs of abuse, various presentations, and acute head trauma not being a single isolated event rather a result of chronic maltreatment [12,13].
+
+The morbidity and mortality from AHT are noticeable. The first population-based study in the United States reported 29.7/100,000 person-years in children less than one year [14]. Another study from Scotland [15] reported the incidence as 24.6/100,000 children younger than 1 year of age. International surveys also demonstrated that shaking is a frequent disciplinary problem worldwide, making it a leading cause of infant mortality and morbidity throughout the world [[16], [17], [18]]. In Taiwan, there was an analysis of national data on the characteristics and trends of injury among Taiwan's victims of hospitalized child abuse from National Health Insurance (NHI) Database, in which AHT was the most common injury, with infants younger than 1 year being the highest percentage, among 1212 victims of hospitalized child abuse during the period 1997–2009 [19].
+
+Etiology
+There are several risk factors for AHT including certain behaviors and situations that involve the child individual, the family, and the caregiver. In the individual level, infantile colic or inconsolable cry is one risk factor [20,21]. Infant crying is greatest at 6–8 weeks of age, consequently, AHT peaks during this same period [22]. The disability of the child is another risk factor for maltreatment [23]. In the family level, frustration intolerance, lack of prenatal care and childcare experience, low education level, low socioeconomic status, single-parent families and young parents without support are risk factors [[24], [25], [26]]. AHT perpetrators are the father or stepfather, mother's boyfriend, female babysitter, and the mother, in sequence [[27], [28], [29]]. Risks at a community level are isolation, little recreational facilities, and poverty [30,31]. All these factors increase the chance of child abuse.
+
+Child abuse occurs in all ethnicities, socioeconomic groups, and races, with boys more commonly affected. Infants tend to have increased morbidity and mortality with physical abuse [32].
+
+Pathophysiology
+AHT is one of the most serious forms of child abuse. It is the number one cause of death in children younger than 2 years old [17]. AHT mostly begins with anxiety and frustration over a screaming infant that does not stop crying due to various factors such as feeding problems or infantile colic [21]. The major mechanism of AHT is shaking injuries that occur from the consequence of repetitive rapid flexion, extension, and rotation of the head and neck [33]. The rapid striking of the brain on the skull can tear vessels resulting in bleeding around the brain. Enlarging hematoma may then cause pressure within the skull, leading to increased intracranial pressure (IICP) and more brain damage. Furthermore, sheering forces across the brain can damage nerve axons resulting in diffuse axonal disruption. Infant's heads are relatively large and heavy, and the neck muscles are too weak to support a large head. Rapid and repetitive flexion, extension, and rotation may result in greater parenchymal movement. The impact of the head against an object will include additional injuries such as lacerations, bruises, and fractures.
+
+AHT typically composes primary and secondary injuries. The primary injuries include skull fracture, cortical contusion, diffuse axonal injury, epidural, subdural, subarachnoid and intraparenchymal hemorrhages. The secondary injuries, usually the complications of the primary injuries, include diffuse brain edema, herniation, infarction or cerebrovascular accidents. While primary injuries are the consequence of the initial direct trauma or impact, secondary injuries are biomolecular inflammatory changes causing the disintegration of neurons and interruptions in the microcirculation of the brain [34]. The consequence of cellular and biochemical events that occur within minutes in the brain and continues for months after the primary brain injury will lead to ongoing traumatic axonal injury and neuronal damage and finally neuronal death. Cerebral blood flow is compromised and IICP leads to tissue destruction. Autoregulation of cerebral blood flow is then impaired and causes further damage. Axons are more easily disrupted because of the shearing of long white matter tracts with acceleration-deceleration injuries [35]. The neurometabolic cascade is similar to that of traumatic brain injury, as shown in [Table 1].
+
+Table 1. Neurometabolic cascades of traumatic brain injury.
+
+Cellular components
+1.
+Depolarization
+
+2.
+Neurotransmitter glutamate release
+
+3.
+Potassium efflux (intracellular to extracellular)
+
+4.
+Increased membrane ionic pumping (extracellular to intracellular)
+
+5.
+Hyperglycolysis
+
+6.
+Lactate accumulation
+
+7.
+Calcium influx and sequestration in mitochondria
+
+8.
+Decreased oxidative phosphorylation (ATP)
+
+9.
+Calpain activation and initiation of apoptosis
+
+Axonal components
+1.
+Axolemmal disruption and calcium influx
+
+2.
+Neurofilament compaction
+
+3.
+Microtubule disassembly
+
+4.
+Axonal swelling and axotomy
+
+Adopted from Ref. [35].
+
+
+Infants and young children are more susceptible to head injuries than older children, due to several biological and mechanical factors. The head is, in proportion to the rest of the body, larger and tend to be injured first as they fall. A child's brain has a relatively higher water content than adults, so the brain is more likely to suffer acceleration-deceleration injuries. The skull is not fully developed and easily compressed, which further causes coup injuries of the underlying brain tissue.
+
+Clinical features
+Making a diagnosis of AHT is somewhat difficult. After trauma, infants and children may have findings ranging from nonspecific symptoms that require only supportive care to acute life-threatening complications requiring urgent care [33]. Healthcare providers may initially misdiagnose or delayed diagnose pediatric AHT, until later, the initial insult may be complicated by recurrent episodes of trauma [36].
+
+The initial symptoms and signs of AHT may include the following: decreased interaction, diminished social smile, poor feeding, vomiting, lethargy, increased sleeping and failure to thrive.
+
+The most severe trauma cases may present with life-threatening symptoms and signs including apnea, severe respiratory distress, bulging fontanel, decreased consciousness, seizures, and shock. However, the care givers often delay carrying the child for treatment until the last moment, and delayed care often leads to worse short and long-term prognosis.
+
+A lack of external injury should be suggestive of the possible existence of AHT. A careful physical examination in some cases can discover signs of abusive injury. The primary neurological symptoms of AHT are consciousness disturbance, seizures, nausea/vomiting, or bulging fontanel. A thoughtful neurologic screening for occult intracranial injury should be considered on all patients. Physical manifestations of AHT may include subdural and subarachnoid hemorrhages, retinal hemorrhages and other unexplained fractures. The common symptoms and signs of AHT are shown in [Table 2].
+
+Table 2. Common symptoms and signs of abusive head trauma (AHT).
+
+Symptoms	Signs
+Apnea	Bruising on the ears, neck, or trunk
+Bradycardia	Bulging fontanel
+Decreased interaction	Cardiovascular collapse
+Hypothermia	Decreased level of consciousness
+Irritability	Hydrocephalus
+Sleepiness	Lack of external injury
+Poor feeding	Long bone, metaphyseal, and rib fractures
+Respiratory distress	Microcephaly
+Seizures	Retinal hemorrhages
+Vomiting	Subdural hematoma
+Subdural hematoma
+Subdural hematoma is a common finding in AHT [37,38]. Meanwhile, AHT is the most common cause of subdural bleeding in infants below 1 year of age [39]. It is regarded as an acceleration-deceleration force causing the brain to move within the fixed venous vessels and skull. Hemorrhages will then occur in the subarachnoid and subdural space if there is tearing of the superficial cortical veins. Subdural hematomas often locate in the convexity, interhemispheric fissure or infratentorial space.
+
+Retinal hemorrhages
+Retinal hemorrhage is significantly more common and more severe in AHT than accidental injury in infants. Retinal hemorrhage in AHT involves the retina, more often from the posterior pole of the eye to other parts and usually bilateral involvement [18,40]. Ophthalmology consultation within the first 24 h is important since small or superficial hemorrhages often resolve quickly. Retinal hemorrhage has the sensitivity and specificity for the diagnosis of child abuse of 75% and 93%, respectively [6]. Less dramatic retinal hemorrhages may also be found in children with accidental head trauma, birth trauma, coagulopathy, and CNS infection. Retinal hemorrhages associated with accidental trauma were always mild. However, healthcare providers should not use retinal hemorrhage alone to diagnose AHT.
+
+Skull fractures
+Skull fractures occur as a result of a direct force applied to the head. AHT often be considered when the fracture is complex, diastatic (width greater than 3 mm), multiple, and non-parietal. Any of these types of skull fractures may suggest the possible existence of AHT [41].
+
+Rib fractures
+Rib fractures are common in child abuse. They usually occur as the result of squeezing the infant's chest wall, which produces anterior-posterior compressive forces resulting in rib fractures.
+
+The fractures are easily detected on routine chest x-ray or a skeletal survey. Accidental rib fractures are uncommon and rib fractures from CPR are also very rare. Any infant or child with a rib fracture or a history that does not support trauma should refer to further clinical investigations including a chest x-ray and a skeletal survey.
+
+Other fractures
+Long bone, posterior rib, or metaphyseal corner fractures are often seen in AHT [42]. Metaphyseal fractures may involve the distal and proximal tibia, proximal humerus, and distal femur. They appear to have a curvilinear structure coming from the metaphysis. Often found in infants and children, they are highly specific for child abuse. The mechanism is shearing and torsional strains of the metaphysis caused by shaking or twisting on the extremities. Unexplainable cervical spine injuries or fractures should also lead to the possibility of AHT.
+
+The prior role of the triad (subdural hematoma, retinal hemorrhages, and encephalopathy) associated with traumatic shaking in the medical diagnosis of AHT is limited, showing low-quality evidence in a systemic review [43,44].
+
+Clinical evaluation/work-up
+Clinical evaluation includes a comprehensive history, physical, laboratory testing, imaging, and specialist consultation.
+
+The evaluation should include a review of the signs and symptoms. Clinicians should ask open-ended questions that can minimize masked information and allow the opportunity to get alternative explanations for the injuries. A history of non-accidental trauma or falling from a low height is the most common history suggestive of AHT. A changing history may also suggest the possibility of AHT or child abuse. If more than one caretaker was involved, they should be interviewed separately. An inconsistent history is a red flag for abuse. The physical examination should include a detailed assessment from head to toe, particularly the neurologic findings.
+
+Laboratory tests
+Laboratory studies should include complete blood cell count with platelet count, chemistry panel, prothrombin time, partial thromboplastin time, amylase, lipase, aspartate aminotransferase, alanine aminotransferase, and urinalysis. The laboratory evaluation may suggest AHT by the discovery of additional injuries that support the evidence of child abuse.
+
+Imaging
+Imaging studies are the most important tests to confirm AHT. The clinician should obtain a skeletal survey and head CT scan [45].
+
+Skeletal survey
+A skeletal survey should be obtained in children younger than two years of age with unexplained trauma. A skeletal series consists of plain radiographs of the skull, spine, ribs and long bones. They are useful in identifying child abuse. Follow-up rib films should be considered 2 or 3 weeks after the initial skeletal survey to evaluate healing fractures that were not seen at the acute stage [46,47].
+
+CT scan
+The head CT is very helpful in the detection of intracranial injury due to AHT. Noncontrast head CT is usually the initial radiologic evaluation of suspected inflicted head trauma. CT is sensitive in detecting skull fracture and intracranial hemorrhage as well as brain edema and ischemic changes [48].
+
+MRI
+MRI can assist to distinguish chronic subdural from subarachnoid collections, detect subacute and chronic subdural bleeding, and define the extent of the parenchymal injuries [49]. The recommended MRI techniques are spin echo (T1-weighted and T2-weighted) sequencing, diffusion-weighted imaging, and fluid-attenuated inversion recovery (FLAIR) sequencing [50]. The diffusion-weighed MRI may be particularly considered for an accurate diagnosis of parenchymal ischemic changes at acute stage and correlated with prognosis [47,51]. Recently, the significance of susceptibility-weighted imaging (SWI) in the detection of cerebral microhemorrhage at the early stage has been mentioned to predict the prognosis [52,53]. In addition, magnetic resonance spectroscopy (MRS) may be also helpful in predicting outcomes in AHT [54].
+
+Both CT and MRI can be used to detect brain edema from effacement of the cortical sulci, compression of the ventricles and basal cisterns. Assessment of the nature and age of subdural collections with CT and MRI is useful for the diagnosis of AHT [55].
+
+Consultations
+An experienced ophthalmologist should be consulted. The most common method is fundoscopy with pupil dilatation [56]. A comparison of MRI with ophthalmoscopy showed that in 83% of abused cases, retinal hemorrhage can be detected by MRI [57].
+
+Evaluation by a pediatric neurologist is also crucial for a detailed examination.
+
+Fig. 1 demonstrates the eye ground, CT and MRI findings of a one-year-old female infant suffering from AHT. Bilateral eyeground pictures show diffuse intraretinal and preretinal hemorrhage with cotton-wool spots and papilledema, in various degrees. The initial CT images demonstrate chronic bilateral subdural effusion plus acute left subdural hematoma, indicating the possibility of repeated traumas. The MRI obtained 2 weeks after bilateral subdural drainage reveals asymmetric subdural fluid collections, as well as parenchymal ischemic changes.
+
+Fig. 1
+Download : Download high-res image (2MB)Download : Download full-size image
+Fig. 1. Abusive head injury in a one-year-old female infant. (A) Right eye ground, (B) left eye ground showed diffuse intraretinal and preretinal hemorrhages, with some cotton-wool spots and moderate papilledema, more on left side. (C) Initial non-contrast CT demonstrated bilateral chronic subdural effusion plus (D) acute left subdural hematoma. Flair MRI (E) and (F) taken 2 weeks after bilateral subdural drainage demonstrated asymmetric subdural fluid collections, as well as several parenchymal ischemic changes over frontal lobes, basal ganglia (more on left) and posterior lobes.
+
+Staging
+AHT Injury severity was originally graded as follows [58]: Grade I, skull fracture alone with or without associated craniofacial soft-tissue injury; Grade II, intracranial hemorrhage or cerebral edema not requiring neurosurgical intervention or bedside procedure; and Grade III, intracranial hemorrhage requiring neurosurgical intervention or resulting in death as a direct result of AHT. Facing the fact that pediatric AHT is often accompanied by stroke and stroke may compound the severity of a child's injury, another grading system has been proposed [59], based on the CT or MRI findings, as modified and shown in [Table 3].
+
+Table 3. Modified grading system for abusive head trauma (AHT) according to radiographic findings.
+
+Grade	Description
+I	Skull fracture alone with/without associated craniofacial soft-tissue injury
+IIa	Intracranial hemorrhage/cerebral edema not requiring surgery	Brain infarction (−)
+IIb	Intracranial hemorrhage/cerebral edema not requiring surgery	Brain infarction (+)
+IIIa	Intracranial hemorrhage/cerebral edema requiring surgery or procedure; or death due to intracranial injuries	Brain infarction (−)
+IIIb	Intracranial hemorrhage or cerebral edema requiring surgery or procedure; or death due to intracranial injuries	Brain infarction (+)
+Brain infarction detected by CT or MRI. (−): not seen, (+): present on CT or MRI.
+
+Modified from ref [59].
+
+
+Differential diagnosis
+Accidental head trauma (epidural, subdural, subarachnoid, cerebellar and parenchymal hemorrhage), bleeding diathesis [60], arteriovenous malformation [61], stroke, neoplastic conditions [62], metabolic disorders [63], connective tissue diseases, osteogenesis imperfecta [64], glutaric aciduria [65], and vitamin K deficiency [66] are all the differential diagnosis. These conditions have similar findings as AHT and must be excluded [[67], [68], [69]].
+
+Children may develop serious head injuries from falls. Yet the majority do not cause a serious head injury. Any child with severe injuries related to a fall should be examined carefully, and the diagnosis of AHT ought to be considered. Falling from a bed is usually minor although some may suffer from a fracture of the arm, leg, or skull. Vertical falls of 1–4 feet rarely cause severe head trauma or multiple injuries and one study of deaths in those children who died from that height found other evidence of abuse [70]. Even falls from 10 feet rarely result in direct death [71]. Certainly, the greater the height, the greater the incidence of fractures and injuries. It is possible to distinguish AHT from accidental head injury from clinical and radiographic characteristics [72], as summarized in [Table 4].
+
+Table 4. Differential diagnostic clues between abusive head trauma (AHT) and accidental head trauma.
+
+More common in abusive head trauma	More common in accidental head trauma
+Retinal hemorrhage, bilateral
+Seizures in cluster
+ICH without skull fracture
+Subdural hemorrhage
+Multiple hemorrhages
+Mixed density hemorrhages	Retinal hemorrhage, unilateral
+Scalp swelling & bruising
+Isolated skull fracture
+Epidural hemorrhage
+Table 5 provides a potential work-up plan for clinical recognition of AHT, in summary.
+
+Table 5. Work-up plan for abusive head trauma (AHT).
+
+Indicator	Action	Content
+Injuries inconsistent with history	History taking	All care givers & witness
+Multiple injuries at various stages
+Bruise/wounds at different age	Physical examination	From head to toe (including fundoscopy)
+Suspicious fracture in any child
+<2 years old	Skeletal X-ray	Skull, chest, spine, long bones
+Suspected intracranial injuries	Head CT	Routine CT
+Multiple/extensive system involvements	Laboratory studies	CBC with platelets, d-dimer, fibrinogen
+PT, aPTT, factor VIII/IX,
+Biochemistry, urinalysis
+Confirmation/extent of injuries	MRI	T1, T2, Flair, diffusion weighted
+Seizure (clinical/subclinical)	EEG	Routine/cEEG
+Abbreviations: CBC: complete blood count; PT: prothrombin time, aPTT: activated partial thromboplastin time; cEEG: continuous EEG monitoring.
+
+
+Treatment/management
+The primary care of AHT is supportive. Vital signs should be intensively monitored. Intubation and mechanical ventilation may be required in case of respiratory insufficiency. IICP, if present, should be monitored and treated. If there is a substantial or compressing subdural hematoma, surgical evacuation should be considered. The goal of therapy is to keep intracranial pressure within normal ranges for the purpose of maintaining acceptable blood pressure and providing adequate cerebral perfusion pressure (CPP) [73].
+
+First-tier therapy: general care
+The initial management of children with AHT, like that of traumatic brain injury (TBI), is to maintain the patient's airway, breathing, and circulation. Children without impairment of consciousness may be managed with supportive care. Hypotension is treated with fluid challenges. Those with moderate consciousness impairment, severe respiratory distress, or hemodynamic fluctuation may require advanced airway management to provide adequate oxygenation and ventilation.
+
+Acute management of severe head trauma is to handle the primary brain injuries and prevent those circumstances that lead to secondary brain injuries. Oxygenation, monitored using a pulse oximeter, is to supply oxygen to ensure adequate oxygenation. For initial monitoring of vital signs, intracranial pressure (ICP) management is important to prevent secondary brain injury. The primary method to decrease IICP is hyperventilation to keep the PaCO2 at 25–30 mmHg. For that, capnography is recommended to monitor end-tidal carbon dioxide to avoid excessive hyperventilation and hypocapnia, leading to vasoconstriction and decreased cerebral perfusion. Raising the head of patients to 30° is another way to optimize cerebral perfusion pressure and decrease intracranial pressure by improving venous return without affecting cerebral blood flow.
+
+Seizures may occur in any stage of the clinical course. In one study [74], 73% of children with AHT had early posttraumatic seizures (EPTS) and nearly 30% developed status epilepticus. For care of this kind of patient, continuous EEG (cEEG) monitoring is indicated early after admission [75] since nonconvulsive electrographic seizures are common. The seizure control of status epilepticus may follow a common guideline [76]. Though many studies fail to show a benefit in preventing EPTS with prophylaxis [77], the administration of an antiepileptic drug may reduce the risk for EPTS by 80% [78], esp. for younger infants with more severe injuries.
+
+Second-tier therapy: control of IICP
+AHT can induce intracranial hypertension. Gentle care is necessary for any therapeutic procedure to avoid iatrogenic IICP such as vigorous suctioning. Placement of an ICP monitor may be considered for ICP control [79]. The goal of intracranial circulation is to keep ICP below 20 mmHg and minimal cerebral perfusion pressure (CPP) over 40 mmHg [80]. The age-dependent CPP is recommended as 50 mmHg for 2–6 years, 55 mmHg for 7–10 years and 60 mmHg for 11–16 years of age.
+
+Hypertonic agents may be considered for moderate IICP. The 3% hypertonic saline bolus (2–6 ml/kg) can be given, followed by 0.1–1 ml/kg/hour till the upper limit of serum osmolarity 360 or sodium level 155 g/dl. Mannitol (0.25–1 gm/kg) i.v. every 4–6 h is another option, with the upper limit of serum osmolarity 320.
+
+Third-tier therapy: protection of hypoxic brain
+Patients with persistent IICP may require sedation with barbiturates which lowers intracranial pressure by decreasing cerebral metabolism thus decreases cerebral blood flow. Usually, thiopental or pentobarbital is used to titrate ICP, BP, and burst-suppression in the EEG.
+
+Therapeutic hypothermia reduces cerebral metabolic demands, excitotoxicity, inflammation, acute seizures, and cell death [81]. Stepwise hypothermia is performed to keep body temperature between 32 °C and 33 °C for 48 h and sometimes neuromuscular blockade helps to prevent shivering.
+
+Decompressive craniectomy is indicated for signs of herniation, neurologic deterioration or those not responding to prior therapy. This surgical procedure involves removing part of the skull allowing for brain swelling to limit secondary brain injury [82].
+
+The international multicenter, comparative cohort study showed children with AHT had more secondary injuries leading to the therapeutic implications of intensive ICP monitoring adherent to evidence guidelines [83].
+
+Prognosis
+There are potential morbidity and mortality associated with AHT. Morbidity ranges from mild learning disabilities to severe handicaps and death. Blindness, attention deficit, sensory impairment, motor dysfunction, seizures, behavior, and learning difficulties are common manifestations [[84], [85], [86]]. The prognosis of patients with AHT correlates with the extent of injury identified on CT and MRI imaging [68]. Survivors of severe AHT have a substantial reduction in quality of life. A prospective multicenter, comparative study to evaluate the neurodevelopmental outcomes after AHT versus accidental head injuries found that infants younger than 36 months old with AHT experienced more cardiorespiratory compromise, deeper brain injuries, diffuse cerebral hypoxia-ischemia, and worse outcomes than those with an accidental head injury [85]. Children diagnosed with AHT are more likely to die than children with accidental head trauma [87].
+
+AHT causes a number of long-term sequelae. More than 50% of children will have partial or complete blindness, and more than 20% will require a feeding tube after the injuries [18].
+
+One study in a pediatric ICU disclosed 24% mortality and pre-exiting inflicted injury in 50% of AHT infants [88]. Another study about the hospital discharge outcome showed that initial Glasgow Coma Scale <5 was a predictor of poor outcome at discharge in children with AHT [89].
+
+The Pediatric Neurotrauma Registry reported that the duration of hours of ICP >20 mmHg and CPP<45 mmHg best associated with poor outcome [90].
+
+Prevention – Patient education
+Since AHT is preventable damage to children, our society has a strong obligation to reduce it. The annual medical cost related to AHT in the United States is over $70 million [18]. Victims of AHT require long-term physical, occupational, speech and psycho-educational therapies. Some victims may even require lifelong nursing home care. Prevention of AHT focuses on reducing child maltreatment and increasing education. Parents need to know how to deal with child's cry and the danger of shaking a baby [21]. Besides public service announcements, education is also focused on family resource centers and home visit programs, particularly in high-risk families with young parents.
+
+Nowadays at least two national health programs are ongoing in the United States as described below:
+
+The National Center on Shaken Baby Syndrome targets new and future parents. The organization attempts to increase skills and confidence for the parents, with the mission of commitment to prevent shaken baby syndrome and promote the well-being of infants through the development and implementation of programs, policy and research, and to support and educate families, caregivers, and professionals [91,92]. The National Center on Shaken Baby Syndrome estimates 1200–1400 children are injured or killed by AHT each year with the mortality rate up to 30% in the United States [93].
+
+The Period of PURPLE Crying program is a program of BC Children's Hospital starting since 2007 focused on education concerning normal infant behaviors, such as crying, that can frustrate caregivers. PURPLE stands for Peak (crying peaks at about 2 months, then decreases), Unpredictable, Resistant (to any soothing), Painlike (look on face), Long (bouts of crying), and Evening (most common time of crying). The program has been implemented in over 800 hospitals and organizations in 49 states of the USA and Canada, Japan and Australia [94]. The cost-effectiveness analysis of the Period of Purple crying program has been reported [95]. From the eight-year implementation of AHT prevention performed in Canada, the intervention was associated with a 35% reduction in infant AHT admissions significantly for <24-month-old infants [96].
+
+Healthcare providers can impact the incidence of AHT by educating caretakers on the dangers of shaking an infant. Prevention is the main key and should be stressed in all encounters with families. Preventive factors include parental education regarding child development and parenting, social support, as well as parental resilience. All healthcare providers must work together to educate the public. Early recognition and education of at-risk caregivers will also lower the incidence of pediatric AHT.
+
+Healthcare enhancing strategies
+Childhood AHTs are public health problems that cause lifelong physical, psychological and academic consequences. Every healthcare professional in pediatric and emergency departments has a responsibility in identifying cases of child abuse. Clinicians must have a high index of suspicion for child maltreatment, as early identification may be lifesaving. The early identification of AHT is particularly important as studies have suggested that 80% of deaths associated with AHT might have survived through earlier intervention [97]. Accordingly, if child abuse or AHT is suspected, it is important to do a thorough assessment to rule out other potential causative factors in the differential diagnoses. There is no doubt concerning the medical validity of the existence of AHT with multiple components including subdural hematoma, intracranial changes, retinal hemorrhages as well as rib and other fractures inconsistent with the provided mechanism of trauma [98]. Healthcare providers are legally and morally required to report suspected abuse to child protective services.
+
+Clinicians who take care of children should remember to use the term AHT rather than shaken baby syndrome and educate parents and caregivers regarding the dangers of shaking or striking a child's head [99]. They should participate in community-based prevention efforts that teach parents the importance of non-harming the child accidently or on purpose. All clinicians must recognize, report and respond appropriately to any suspected child maltreatment.
+
+Although there have been several clinical prediction rules for AHT [[100], [101], [102]], a systemic review showed none were widely validated in multiples settings [103]. Further impact analyses are required to assure effective strategies in clinical practice.
+
+Conclusions
+Abusive head trauma is an injury to the skull or intracranial contents of an infant or child younger than five years caused by child abuse. It is a major cause of physical child abuse fatalities in infancy. Abusive head trauma is often associated with significant rotational acceleration-deceleration force through violent shaking and/or blunt impact. Children with abusive head trauma tend to have different presentations and characteristics from those with accidental head trauma. The presenting symptoms and signs range from nonspecific lethargy/irritability, vomiting without diarrhea, poor sucking and swallowing or feeding to acute life-threatening conditions such as consciousness loss, seizures, difficult breathing, bradycardia or apnea requiring urgent care. A changing history or history of no trauma, developmental age that does not fit with the injury, delay in seeking care and history of social service intervention in the past are red flags suggestive of child abuse. The diagnosis of abusive head trauma should be based on the existence of multiple components including subdural hematoma, intracranial pathology, retinal hemorrhages as well as rib and other fractures consistent with the mechanism of trauma, through appropriate radiographic skeletal survey and head CT/MRI, as well as ophthalmologic exam. A public announcement or caregiver education in the prevention of child abuse cannot be over addressed. Reinforce to the family/caregivers never shaking the baby is most important. Healthcare enhancing strategies to improve clinical prediction and the acute care abilities are necessary in future development.
