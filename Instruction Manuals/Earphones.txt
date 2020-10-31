@@ -1,0 +1,426 @@
+User manual
+Jabra
+Elite 65t
+© 2017 GN Audio A/S. All rights reserved. Jabra® is a
+trademark of GN Audio A/S. The Bluetooth® word mark and
+logos are registered trademarks owned by the Bluetooth
+SIG, Inc. and any use of such marks by GN Audio A/S is under
+license.
+Declaration of Conformity can be found on
+www.jabra.com/doc
+Made in China
+MODEL: OTE070 / OTE071 /
+CPB070
+3
+ENGLISH
+1. Welcome.........................................5
+2. Jabra Elite 65t overview .............6
+2.1 Included accessories
+3. How to wear...................................8
+3.1 Changing EarGels
+4. How to charge............................ 10
+4.1 Opening the charging case
+4.2 Charging the earbuds
+4.3 Charging the charging case
+4.4 What the LEDs mean
+5. How to pair.................................. 14
+5.1 Pairing with a smartphone
+6. How to use ................................. 15
+6.1 Turn the earbuds on/off
+6.2 Mono earbud use
+6.3 Calls & music
+6.4 HearThrough
+6.5 Sidetone
+6.6 Auto-pause music
+6.7 Auto power off
+6.8 Multiple call handling
+6.9 Multi-use
+6.10 Voice guidance and languages
+4
+ENGLISH
+6.11 Voice assistant
+6.12 Update firmware
+6.13 How to reset
+7. Jabra Sound+ app...................... 24
+8. Support........................................ 25
+8.1 FAQ
+8.2 How to care for your earbuds
+8.3 Replacement accessories
+8.4 Using the replacement earbuds
+8.5 Using a replacement charging case
+5
+ENGLISH
+1. Welcome
+Thank you for using the Jabra Elite 65t. We
+hope you will enjoy it!
+Jabra Elite 65t features
+• 4-microphone enhanced sound
+• Customize your music
+• Proven wireless connection
+• Up to 15-hours battery
+• Voice Assistant enabled
+• 2-year warranty (dust & water). Registration
+required with the Jabra Sound+ app
+6
+ENGLISH
+2. Jabra Elite 65t
+overview
+Jabra Elite 65t earbuds
+On-the-go charging case
+7
+ENGLISH
+2.1 Included accessories
+EarGels Micro-USB cable
+M
+L
+S
+8
+ENGLISH
+3. How to wear
+Insert the earbud into your ear and rotate to
+fit comfortably. Ensure the microphone is
+pointing towards your mouth.
+9
+ENGLISH
+3.1 Changing EarGels
+For the optimal audio experience, it is
+recommended to try each of the different
+EarGel sizes. The fit should feel tight and
+secure in your ear. The medium EarGel is premounted on the earbuds. Ensure the EarGel is
+firmly attached.
+S M L
+10 ENGLISH
+4. How to charge
+With up to 5 hours of battery in the earbuds,
+and 2 recharges in the charging case, the Jabra
+Elite 65t offers up to 15 hours of playtime.
+4.1 Opening the charging case
+Firmly hold the charging case and press the
+small tab on the lid while opening the lid.
+Press and lift
+11 ENGLISH
+4.2Charging the earbuds
+Place the earbuds in the charging case and
+close the lid. The battery LED inside the
+charging case will flash red, yellow or green
+when the lid is opened to indicate the earbuds
+current battery status.
+It takes approx. 2 hours to fully recharge the
+earbuds. If the earbuds are at low battery, you
+will get up to 1 hour of playtime by charging
+them in the charging case for 10 to 20 minutes.
+12 ENGLISH
+4.3Charging the charging case
+Plug the charging case into a USB power supply
+or certified wall charger. It takes approx. 2
+hours to fully charge the earbuds and the
+charging case.
+The charging case is designed to charge using a
+standard USB voltage. It is not recommended
+to charge using a higher voltage.
+Note: non-certified chargers may take longer to charge.
+13 ENGLISH
+4.4What the LEDs mean
+CHARGING CASE STATUS
+Charging - high battery
+Charging - medium battery
+Charging - low battery
+Firmware updating
+Fully charged
+EARBUD BATTERY STATUS
+High battery
+Medium battery
+Low battery
+EARBUD STATUS
+High battery/Power on
+Medium battery
+Low battery/Off
+ Very low battery/
+Power off
+ Connecting/
+Incoming call
+Pairing
+Resetting
+LED LED
+14 ENGLISH
+5. How to pair
+5.1 Pairing with a smartphone
+1.Ensure the right earbud is turned off and not
+in the charging case. To manually turn off the
+earbud, hold the Multi-function button until
+the LED flashes red.
+2.Next, hold the Multi-function button on the
+right earbud for 5 seconds until you hear the
+connection instructions in the earbud and
+the LED flashes blue. Release the button, and
+follow the voice-guided instructions to pair
+to your smartphone.
+3.You may need to hold the Volume down
+button for 1 second on the left earbud to
+turn it on.
+5 sec.
+L
+1 sec.
+R
+15 ENGLISH
+6. How to use
+L R
+Volume
+up
+Volume
+down
+MultiFunction
+Button
+LED LED
+6.1 Turn the earbuds on/off
+Place the earbuds in the charging case to turn
+them off, or remove them from the charging
+case to turn them on.
+The earbuds can be turned on or off individually
+by holding the Multi-function button on the
+right earbud, or the Volume down button on
+the left earbud, until the LED flashes green (on)
+or red (off).
+16 ENGLISH
+6.2Mono earbud use
+The right earbud can be used alone for mono
+playback or for calls. For volume and/or skip
+track controls, please use your connected
+smartphone.
+When both earbuds are turned on and within
+20 centimetres (8 inches) of one another, they
+will automatically relink.
+6.3Calls & music
+Right
+earbud Calls & music
+Play/pause
+music
+Press the Multi-function
+button
+Answer/end
+call
+Press the Multi-function
+button
+Reject call
+Double-press the Multifunction button when
+there is an incoming call
+Voice assistant
+(Siri, Google
+Assistant,
+Alexa)
+Hold (1 sec) the
+Multi-function button
+when not on a call
+HearThrough
+on/off
+Double-press the
+Multi-function button
+when not on a call
+17 ENGLISH
+Left
+earbud Calls & Music
+Volume
+up
+Volume
+down
+Adjust volume Press the Volume up or
+Volume down button
+Skip track
+Hold (2 secs) the Volume
+up or Volume down
+button when listening
+to music
+Battery status
+Press the Volume up or
+Volume down button
+when not on a call or
+listening to music
+6.4 HearThrough
+HearThrough utilizes the built-in microphones
+to enable you to pay attention to your
+surroundings and engage in conversation
+without needing to remove the earbuds.
+HearThrough settings can be configured using
+the Jabra Sound+ app.
+Right
+earbud HearThrough
+HearThrough
+on/off
+Double-press the
+Multi-function button
+when not on a call
+18 ENGLISH
+6.5Sidetone
+Sidetone enables you to hear your own voice
+when you are on a call.
+Sidetone settings can be configured using the
+Jabra Sound+ app.
+6.6Auto-pause music
+When you remove an earbud from your ear
+while listening to music, the music will
+automatically pause.
+To unpause the music, place the earbud back
+into your ear within 60 seconds. After 60
+seconds (or when mono playback is preferred)
+the music can be unpaused by pressing the
+Multi-function button.
+Auto-pause music settings can be configured
+using the Jabra Sound+ app.
+19 ENGLISH
+6.7 Auto power off
+To conserve battery the right earbud will
+automatically power off when it is out of range
+of your smartphone for 15 minutes and is not in
+the charging case, or when it has been inactive
+for 1 hour.
+The left earbud will automatically power off
+when it has not had a link with the right earbud
+for 15 minutes and is not in the charging case.
+To power the earbuds on, place them in the
+charging case, or hold the Multi-function
+button on the right earbud, and/or the Volume
+down button on the left earbud, until the LED
+flashes.
+20 ENGLISH
+6.8 Multiple call handling
+The earbuds can accept and handle multiple
+calls at the same time.
+Right
+earbud Multiple call handling
+End current call and
+answer incoming call
+Press the Multifunction button
+Put current call on
+hold and answer
+incoming call
+Hold (2 secs) the
+Multi-function
+button
+Switch between held
+call and active call
+Hold (2 secs) the
+Multi-function
+button
+Reject incoming call,
+when on a call
+Double-press the
+Multi-function
+button
+21 ENGLISH
+6.9 Multi-use
+The earbuds can be paired to two smartphones
+at once, and can accept multiple incoming calls
+from either smartphone.
+To pair to two smartphones, use the normal
+pairing process separately for each smartphone
+(refer to section 5).
+Note: Voice assistant will be activated on the last paired
+smartphone.
+6.10 Voice guidance and languages
+Voice guidance can be turned on/off and the
+language can be changed using the Jabra
+Sound+ app.
+The following languages are available: English,
+French, German, Japanese, Chinese.
+22 ENGLISH
+6.11 Voice assistant
+To activate your smartphone’s Voice assistant
+(e.g. Siri, Google Assistant, Alexa) hold the
+Multi-function button when not on a call.
+To change Voice assistant, download the Jabra
+Sound+ App and go to the Voice assistant
+settings.
+Voice assistant settings can be configured
+using the Jabra Sound+ app.
+6.12 Update firmware
+The Jabra Elite 65t can be updated to the latest
+firmware version using the Jabra Sound+ app.
+If notifications are enabled in the Jabra Sound+
+app you will receive an automatic notification
+when a firmware update is available.
+23 ENGLISH
+6.13 How to reset
+Resetting the earbuds clears the list of paired
+devices and resets all settings.
+Right
+earbud Reset earbuds
+Reset pairing list
+and settings
+Hold (10 secs) the
+Multi-function button
+until the LED flashes
+purple.
+The earbuds will need
+to be re-paired to your
+smartphone.
+24 ENGLISH
+7. Jabra Sound+ app
+Jabra Sound+ app
+Personalize
+your music
+Customize
+HearThrough
+Register your
+2-year warranty
+25 ENGLISH
+8. Support
+8.1 FAQ
+View the FAQs on Jabra.com/help/elite65t.
+8.2How to care for your earbuds
+• Always store the earbuds in the charging
+case and safely protected.
+• To prevent the depletion of the battery
+lifetime or capacity, avoid storing the
+earbuds in hot or cold environments, such as
+a closed car in summer, or in winter
+conditions.
+• It is recommended to keep the earbuds
+between 15°C and 25°C (59°F and 77°F).
+• Do not store the earbuds for extended
+periods of time without recharging them
+(max. three months).
+• If the earbuds or the charging case become
+dirty, it is recommended to clean them with a
+soft, lint-free cloth that has been dampened
+with clean water. 
+26 ENGLISH
+• Remove and clean the eargels regularly to
+avoid earwax buildup on the speakers.
+• The charging case is designed to charge
+using a standard USB voltage. It is not
+recommended to charge using a higher
+voltage.
+8.3Replacement accessories
+Replacement or additional accessories can be
+purchased online at jabra.com/accessories.
+Left and right earbud set
+M L
+ Charging case
+EarGels
+S
+27 ENGLISH
+8.4Using the replacement earbuds
+The replacement earbuds cannot be used with
+your old earbuds.
+1. Place the replacement earbuds into the
+charging case and close the lid.
+2. Open the charging case lid and remove the
+earbuds.
+3. Wear the earbuds and follow the voice
+instructions to pair to your smartphone.
+4. Update the earbud firmware using the Jabra
+Sound+ app.
+8.5Using a replacement charging case
+Before using a replacement charging case for
+the first time, it will need to be synced with
+your current earbuds and charged for 1 hour.
+To begin syncing, place your current earbuds
+inside the replacement charging case, and
+close the lid. The LED on the charging case may
+flash purple to indicate that the firmware is
+being updated. Please wait until the LED stops
+flashing purple before opening the charging
+case.
+28 ENGLISH
+jabra.com/elite65t
+REV F

@@ -1,0 +1,1127 @@
+DAIKIN ROOM AIR CONDITIONER
+OPERATION MANUAL
+English Français Español
+MODELS
+CTXS07JVJU
+CTXS09HVJU
+CTXS12HVJU
+00_CV_3P232717-3D.indd 1 0_CV_3P232717-3D.indd 1 9/7/2009 1:42:43 PM /7/2009 1:42:43 PM
+1
+English
+CONTENTS
+READ BEFORE OPERATION
+Safety Precautions ....................................................................2
+Name of Parts ...........................................................................4
+Preparation before Operation ...................................................8
+OPERATION
+AUTO · DRY · COOL · HEAT · FAN Operation .......................10
+Adjusting the Airfl ow Direction ................................................12
+INTELLIGENT EYE Operation ................................................14
+POWERFUL Operation ...........................................................16
+OUTDOOR UNIT QUIET Operation .......................................17
+HOME LEAVE Operation ........................................................18
+TIMER Operation ....................................................................20
+Note for Multi System .............................................................22
+CARE
+Care and Cleaning ..................................................................24
+TROUBLESHOOTING
+Troubleshooting ......................................................................28
+01_EN_3P232717-3D.indd 1 1_EN_3P232717-3D.indd 1 10/6/2009 9:20:49 AM 0/6/2009 9:20:49 AM
+2
+Safety Precautions
+• Read these safety considerations for operations carefully before installing air conditioning equipment. After completing the
+installation, make sure that the unit operates properly during the startup operation. Instruct the customer on how to operate and
+maintain the unit.
+Inform customers that they should store this operation manual with the installation manual for future reference.
+Meanings of DANGER, WARNING, CAUTION, and NOTE Symbols:
+ DANGER WARNING CAUTION
+Indicates an imminently hazardous situation
+which, if not avoided, will result in death or
+serious injury.
+Indicates a potentially hazardous situation
+which, if not avoided, could result in death
+or serious injury.
+Indicates a potentially hazardous situation
+which, if not avoided, may result in minor or
+moderate injury. It may also be used to alert
+against unsafe practices.
+Never do. Be sure to follow the instructions.
+Be sure to ground the air conditioner.
+Never allow the air conditioner or remote controller to get
+wet. Never touch the air conditioner (including the remote
+controller) with a wet hand.
+DANGER
+• For refrigerant leakage, consult your dealer.
+Refrigerant gas is heavier than air and replaces oxygen. A massive leak could lead to oxygen depletion, especially in basements,
+and an asphyxiation hazard could occur leading to serious injury or death.
+• Refrigerant gas may produce a toxic gas if it comes in contact with fi re such as from a fan heater, stove or cooking device. Exposure
+to this gas could cause severe injury or death.
+• Any abnormalities in the operation of the air conditioner such as smoke or fi re could result in severe injury or death.
+Turn off the power and contact your dealer immediately for instructions.
+• Do not install the unit in an area where fl ammable materials are present due to risk of explosion resulting in serious injury or death.
+• If equipment utilizing a burner is used in the same room as the air conditioner, there is the danger of oxygen defi ciency which could
+lead to an asphyxiation hazard resulting in serious injury or death.
+Be sure to ventilate the room suffi ciently to avoid this hazard.
+• Safely dispose of the packing materials.
+Packing materials, such as nails and other metal or wooden parts, may cause stabs or other injuries. Tear apart and throw away
+plastic packaging bags so that children will not play with them. Children playing with plastic bags face the danger of death by
+suffocation.
+WARNING
+• It is not good for health to expose your body to the air fl ow for a long time.
+• Do not put your fi nger or other objects into the air outlet or inlet as the fan is rotating at high speed and could cause injury. Always
+keep small children away from the unit during operation.
+• Do not attempt to repair, relocate, modify or reinstall the air conditioner by yourself. Incorrect work or modifi cations could cause
+electric shocks, fi re or other damage.
+For repairs and reinstallation, consult your Daikin dealer for advice and information.
+• If the air conditioner is not cooling (heating) properly, the refrigerant may be leaking, contact your authorized dealer or qualifi ed
+service repairman.
+When making repairs which requires adding refrigerant, consult with your authorized dealer or qualifi ed service repairman.
+• Do not attempt to install the air conditioner by yourself. Improper installation could result in water leakage, electric shocks or fi re. For
+installation, consult your authorized dealer or a qualifi ed technician.
+CAUTION
+• The air conditioner must be grounded. Improper grounding may result in electric shocks. Do not connect the grounding wire to a gas
+pipe, water pipe, lightning rod, or a telephone ground line. Follow all local and state electrical codes.
+• Do not use this unit for cooling precision instruments, food, plants, animals or works of art.
+• Never expose little children, plants or animals directly to the air fl ow.
+• Do not block air inlets nor outlets. Impaired air fl ow may result in poor performance or equipment problems.
+• Do not stand, sit, or place objects on the outdoor unit. To avoid injury, do not remove the fan guard.
+01_EN_3P232717-3D.indd 2 1_EN_3P232717-3D.indd 2 10/6/2009 9:20:49 AM 0/6/2009 9:20:49 AM
+3
+English
+CAUTION
+• Do not place anything under the indoor or outdoor unit that must be kept away from moisture, such as electrical or electronic
+equipment. In certain conditions, moisture in the air may condense and drip.
+• Check the unit stand and fi ttings for damage annually.
+• Do not touch the air inlet and aluminum fi ns of outdoor unit. It may cause injury and/or damage the heat transfer surface.
+• This appliance is NOT intended for use by young children or impaired persons without proper supervision.
+• Young children should be supervised to ensure that they DO NOT play with or near the air fl ow of this appliance.
+• Do not pull at the conduit or hang anything on it. Otherwise it will cause fi re or electric shock.
+• Do not touch the heat exchanger fi ns. Improper handling may result in injury.
+• Do not turn off the power immediately after stopping operation. Always wait at least 5 minutes before turning off the power to avoid
+water leakage or other problems.
+• To avoid personal injury or equipment damage be sure to stop the operation, turn the breaker off or pull out the supply cord before
+cleaning or servicing the unit. NOTE: More than one disconnect may be required to shut off all power.
+• Do not connect the air conditioner to a power supply different from the one specifi ed. It may cause improper operation or fi re.
+• Depending on the environment, state and local electrical codes, a ground fault circuit interrupter may be required. Improper
+grounding or lack of a ground fault circuit interrupter may result in electrical shock, injuries, or death.
+• It is recommended to install a ground fault circuit interrupter if one is not already available.
+This helps prevent electrical shocks or fi re.
+• Arrange the drain hose to ensure smooth drainage. Improper drainage may cause water damage to the building, or its furnishing.
+• Depending on the usage environment, water may leak from the air conditioner. If this happens, contact your Daikin Dealer.
+• The remote controller should be installed in such away that children cannot play with it.
+• Do not place objects in direct proximity of the outdoor unit and do not let leaves and other debris accumulate around the unit.
+Leaves are a hotbed for small animals which can enter the unit. Once in the unit, such animals can cause malfunctions, smoke or
+fi re when making contact with electrical parts.
+• Do not operate the air conditioner with wet hands.
+• Do not wash the indoor unit with excessive water, only use a slightly wet cloth.
+• Do not place things such as vessels containing water or anything else on top of the unit. Water may penetrate into the unit and
+degrade electrical insulations, resulting in an electric shock.
+Installation site.
+Operate the air conditioner in a suffi ciently ventilated area and not surrounded by obstacles. Do not use the air
+conditioner in the following places.
+a. Places with a mist of mineral oil, such as cutting oil.
+b. Locations such as coastal areas where there is a lot of salt in the air.
+c. Locations such as hot springs where there is a lot of sulfur in the air.
+d. Locations such as factories where the power voltage varies a lot.
+e. In cars, boats, and other vehicles.
+f. Locations such as kitchens where oil may splatter or where there is steam in the air.
+g. Locations where equipment produces electromagnetic waves.
+h. Places with an acid or alkaline mist.
+i. Places where fallen leaves can accumulate or where weeds can grow.
+Consider the nuisance of noise to your neighbors.
+Pay Attention to Operating Sound. Be sure to use the following places:
+a. Places that can suffi ciently withstand the weight of the air conditioner yet can suppress the operating sound and vibration of the air
+conditioner.
+b. Places where warm air from the air outlet of the outside unit or the operating sound of the outside unit does not annoy neighbors.
+Make sure that there are no obstacles close to the outside unit. Obstacles close to the outside unit may drop the performance of the
+outside unit or increase the operating sound of the outside unit.
+Consult your dealer if the air conditioner in operation generates unusual noise.
+Electrical work.
+• For power supply, be sure to use a separate power circuit dedicated to the air conditioner.
+System relocation.
+Relocating the air conditioner requires specialized knowledge and skills. Please consult the dealer if relocation is
+necessary for moving or remodeling.
+01_EN_3P232717-3D.indd 3 1_EN_3P232717-3D.indd 3 10/6/2009 9:20:51 AM 0/6/2009 9:20:51 AM
+4
+Name of Parts
+Indoor Unit
+Air inlet
+Front panel
+Air outlet
+Panel tab
+Fins (vertical blades) Page 12
+• The fi ns are inside of the air outlet.
+INTELLIGENT EYE
+sensor Page 14
+• It detects the movements of
+people and automatically
+switches between normal
+operation and energy saving
+operation.
+Room temperature
+sensor
+• It detects the air temperature
+around the unit.
+Louvers (horizontal blades) Page 12
+OPERATION lamp
+ (green)
+TIMER lamp (yellow)
+ Page 20
+Signal receiver
+• It receives signals from the remote
+controller.
+• When the unit receives a signal,
+you will hear a short beep.
+• ......... beep-beep Operation start
+• ..... beep Settings changed
+• ......... beeeeep Operation stop
+Display
+Indoor unit ON/OFF switch
+• Press this switch once to start operation.
+Press once again to stop it.
+• The operation mode refer to the following table.
+Mode Temperature setting Airfl ow rate
+AUTO 77°F (25°C) AUTO
+• This switch is useful when the remote controller is missing.
+HOME LEAVE lamp (red)
+ Page 18
+• Lights up when you use HOME
+LEAVE operation.
+Packaging materials Page 24
+• If any packaging materials are included,
+please remove before operating.
+01_EN_3P232717-3D.indd 4 1_EN_3P232717-3D.indd 4 10/6/2009 9:20:51 AM 0/6/2009 9:20:51 AM
+5
+English
+Outdoor Unit
+Open the front panel
+• Appearance of the outdoor unit may differ from some models.
+Air fi lter
+Air-purifying fi lter
+with photocatalytic
+deodorizing function
+Refrigerant piping and
+inter-unit wiring
+Ground terminal
+• Inside of this cover.
+Drain hose
+Air inlet (back and side)
+Air outlet
+01_EN_3P232717-3D.indd 5 1_EN_3P232717-3D.indd 5 10/6/2009 9:20:52 AM 0/6/2009 9:20:52 AM
+6
+Name of Parts
+Remote Controller: ARC452A9
+Signal transmitter
+Receiver
+• To use the remote controller, aim the
+transmitter at the indoor unit. If there
+is anything to block signals between
+the unit and the remote controller,
+such as a curtain, the unit will not
+operate.
+• Do not drop the remote controller. Do
+not get it wet.
+• The maximum distance for
+communication is approximately
+23ft. (7m).
+FAN setting button
+• Selects the airfl ow rate setting.
+Page 11
+POWERFUL button
+• POWERFUL operation. Page 16
+Display (LCD)
+• Displays the current settings.
+(In this illustration, each section is
+shown with its displays on for the
+purpose of explanation.)
+TEMPERATURE
+adjustment buttons
+• Changes the temperature setting.
+Page 10
+ON/OFF button
+• Press this button once to start
+operation.
+Press once again to stop it. Page 10
+Front cover
+• Open the front cover. Page 7
+01_EN_3P232717-3D.indd 6 1_EN_3P232717-3D.indd 6 10/6/2009 9:20:53 AM 0/6/2009 9:20:53 AM
+7
+English
+Open the front cover
+HOME LEAVE button
+• HOME LEAVE operation.
+Page 18
+SWING button
+• Adjusting the airfl ow direction.
+Page 12
+SENSOR button
+• INTELLIGENT EYE operation.
+Page 14,15
+ON TIMER button
+Page 21
+CLOCK button Page 9
+QUIET button
+• OUTDOOR UNIT QUIET
+operation. Page 17
+OFF TIMER button
+Page 20
+TIMER CANCEL
+button
+• Cancels the timer setting.
+Page 20,21
+MODE selector button
+• Selects the operation mode.
+(AUTO/DRY/COOL/HEAT/
+FAN) Page 10
+SELECT button
+• Changes the ON/OFF TIMER
+settings. Page 20,21
+01_EN_3P232717-3D.indd 7 1_EN_3P232717-3D.indd 7 10/6/2009 9:20:54 AM 0/6/2009 9:20:54 AM
+8
+Preparation before Operation
+ To set the batteries
+1. Slide the front cover to take it off.
+2. Set two dry batteries AAA.LR03 (alkaline).
+3. Set the front cover as before.
+ To fi x the remote controller holder on the wall
+1. Choose a place from where the signals reach
+the unit.
+2. Fix the holder to a wall, a pillar with the screws
+supplied with the holder.
+3. Place the remote controller in the remote
+controller holder.
+ Celsius/Fahrenheit display switch
+• The Celsius or Fahrenheit display is selectable with the following buttons.
+Press and simultaneously for
+5 seconds.
+• The temperature will be displayed in Fahrenheit if it is presently displayed in Celsius, and
+vice versa.
+2
+3
+1
+Position and
+ correctly!
++
+–
+Remote controller
+holder
+Set. Pull.
+ATTENTION
+ About batteries
+• When replacing the batteries, use batteries of the same type, and replace both batteries at the same time.
+• When the system is not used for a long time, take the batteries out.
+• The batteries will last for approximately 1 year. If the remote controller display begins to fade and the degradation of reception performance occurs
+within a year, however, replace both batteries with new, size AAA.LR03 (alkaline).
+• The attached batteries are provided for the initial use of the system.
+The usable period of the batteries may be short depending on the manufactured date of the air conditioner.
+ About remote controller
+• Never expose the remote controller to direct sunlight.
+• Dust on the signal transmitter or receiver will reduce the sensitivity. Wipe off dust with a soft cloth.
+• Signal communication may be disabled if an electronic-starter-type fl uorescent lamp (such as inverter-type lamps) is in the room. Consult the shop
+if that is the case.
+• If the remote controller signals happen to operate another appliance, move that appliance somewhere else, or consult the service shop.
+ Celsius/Fahrenheit display change function of remote controller
+• The set temperature may increase when the display is changed to Celsius from Fahrenheit, because a fraction of 0.5°C is rounded up.
+• Example: A set temperature of 64°F (equivalent to 18.5°C) will be converted into 19°C.
+When the display is changed to Fahrenheit again, the set temperature will be converted into 66°F (equivalent to 19°C) instead of the
+original set temperature (64°F) but a set temperature of 66°F (equivalent to 19°C) will be converted into 19°C with no temperature change.
+• A reception sound will go off for the transmission of set temperature to the indoor unit at the time of setting the Celsius/Fahrenheit display change function.
+01_EN_3P232717-3D.indd 8 1_EN_3P232717-3D.indd 8 10/6/2009 9:20:54 AM 0/6/2009 9:20:54 AM
+9
+English
+ Turn the breaker on
+• Turning on the breaker closes the louvers. (This is a normal procedure.)
+ To set the clock
+1. Press .
+” is displayed.
+” and “ ” blinks.
+“
+“
+2. Press to set the current day of the week.
+3. Press .
+“ ” blinks.
+4. Press to set the clock to the present time.
+• Holding down or rapidly increases or decreases the time display.
+5. Press .
+• Always point the remote controller at the indoor unit when pressing the buttons when setting the
+indoor unit’s internal clock.
+“ ” blinks.
+NOTE
+ Tips for saving energy
+• Be careful not to cool (heat) the room too much.
+Keeping the temperature setting at a moderate level helps save energy.
+• Cover windows with a blind or a curtain.
+Blocking sunlight and air from outdoors increases the cooling (heating) effect.
+• Clogged air fi lters cause ineffi cient operation and waste energy. Clean them once in about every 2 weeks.
+ Please note
+• The air conditioner always consumes 50-120btu/h (15-35W) of electricity even while it is not operating.
+• If you are not going to use the air conditioner for a long period, for example in spring or autumn, turn the breaker off.
+• Use the air conditioner in the following conditions.
+Mode Operating conditions If operation is continued out of this range
+COOL
+Outdoor temperature : 14-115°F (–10-46°C)
+Indoor temperature : 64-90°F (18-32°C)
+Indoor humidity : 80% max.
+• A safety device may work to stop the operation.
+(In multi system, it may work to stop the operation of the outdoor unit only.)
+• Condensation may occur on the indoor unit and drip.
+HEAT Outdoor temperature : 5-64°F (–15-18°C)
+Indoor temperature : 50-86°F (10-30°C)
+• A safety device may work to stop the operation.
+DRY
+Outdoor temperature : 14-115°F (–10-46°C)
+Indoor temperature : 64-90°F (18-32°C)
+Indoor humidity : 80% max.
+• A safety device may work to stop the operation.
+• Condensation may occur on the indoor unit and drip.
+• Operation outside this humidity or temperature range may cause a safety device to disable the system.
+Recommended temperature setting
+For cooling: 78-82°F (26-28°C)
+For heating: 68-75°F (20-24°C)
+01_EN_3P232717-3D.indd 9 1_EN_3P232717-3D.indd 9 10/6/2009 9:20:55 AM 0/6/2009 9:20:55 AM
+10
+AUTO · DRY · COOL · HEAT · FAN Operation
+The air conditioner operates with the operation mode of your choice.
+From the next time on, the air conditioner will operate with the same operation mode.
+ To start operation
+1. Press and select a operation mode.
+• Each pressing of the button advances the mode setting in sequence.
+AUTO DRY COOL HEAT FAN
+2. Press .
+• “ ” is displayed on the LCD.
+• The OPERATION lamp lights up.
+Display
+ To stop operation
+Press again.
+• “ ” is no longer displayed on the LCD.
+• The OPERATION lamp goes off.
+ To change the temperature setting
+Press or .
+• The displayed items on the LCD will change whenever either one of the buttons is pressed.
+DRY or FAN operation COOL operation HEAT operation AUTO operation
+The temperature setting is not
+variable.
+64-90°F
+(18-32°C)
+50-86°F
+(10-30°C)
+64-86°F
+(18-30°C)
+Press to raise the temperature and press to lower the
+temperature.
+01_EN_3P232717-3D.indd 10 1_EN_3P232717-3D.indd 10 10/6/2009 9:20:57 AM 0/6/2009 9:20:57 AM
+11
+English
+ To change the airfl ow rate setting
+Press .
+DRY operation AUTO or COOL or HEAT or FAN operation
+The airfl ow rate setting is not variable.
+5 levels of airfl ow rate setting from
+“ ” to “ ” plus “ ” and “ ” are available.
+• Indoor unit quiet operation
+When the airfl ow is set to “ ”, the noise from the indoor unit will become quieter.
+Use this when making the noise quieter.
+The unit might lose capacity when the airfl ow rate is set to a weak level.
+• Each pressing of the button advances the airfl ow rate setting in sequence.
+NOTE
+ Notes on HEAT operation
+• Since this air conditioner heats the room by taking heat from outdoor air to indoors, the heating capacity becomes smaller in lower outdoor
+temperatures. If the heating effect is insuffi cient, it is recommended to use another heating appliance in combination with the air conditioner.
+• The heat pump system heats the room by circulating hot air around all parts of the room. After the start of HEAT operation, it takes some time
+before the room gets warmer.
+• In HEAT operation, frost may occur on the outdoor unit and lower the heating capacity. In that case, the system switches into defrosting operation
+to take away the frost.
+• During defrosting operation, hot air does not fl ow out of indoor unit.
+ Note on COOL operation
+• This air conditioner cools the room by blowing the hot air in the room outside, so if the outside temperature is high, the performance of the air
+conditioner drops.
+ Note on DRY operation
+• The computer chip works to rid the room of humidity while maintaining the temperature as much as possible. It automatically controls temperature
+and airfl ow rate, so manual adjustment of these functions is unavailable.
+ Notes on AUTO operation
+• In AUTO operation, the system selects a temperature setting and an appropriate operation mode (COOL or HEAT) based on the room
+temperature at the start of the operation.
+• The system automatically reselects setting at a regular interval to bring the room temperature to user-setting level.
+ Note on FAN operation
+• This is valid for fan only.
+ Note on airfl ow rate setting
+• At smaller airfl ow rates, the cooling (heating) effect is also smaller.
+01_EN_3P232717-3D.indd 11 1_EN_3P232717-3D.indd 11 10/6/2009 9:20:59 AM 0/6/2009 9:20:59 AM
+12
+Adjusting the Airfl ow Direction
+You can adjust the airfl ow direction to increase your comfort.
+Adjusting the upper and lower airfl ow direction
+ To adjust the louvers (horizontal blades)
+1. Press .
+• “ ” is displayed on the LCD and the louvers will begin to swing.
+2. When the louvers have reached the desired
+position, press once more.
+• The louvers will stop moving.
+• “ ” is no longer displayed on the LCD.
+Adjusting the right and left airfl ow direction
+ To adjust the fi ns (vertical blades)
+3. Press .
+• “ ” is displayed on the LCD.
+4. When the fi ns have reached the desired position,
+press once more.
+• The fi ns will stop moving.
+• “ ” is no longer displayed on the LCD.
+01_EN_3P232717-3D.indd 12 1_EN_3P232717-3D.indd 12 10/6/2009 9:21:02 AM 0/6/2009 9:21:02 AM
+13
+English
+ To start 3-D airfl ow
+1. 3. Press the and the :
+the “ ” and “ ” display will light up and the
+louvers and fi ns will move in turn.
+ To cancel 3-D airfl ow
+2. 4. Press either the or the .
+NOTE
+ Note on the angles of the louvers
+• When is selected, the louvers swinging range depends on the operation. (See the fi gure.)
+ Note on 3-D airfl ow
+• Using 3-D airfl ow circulates cold air, which tends to collected at the bottom of the room, and hot air,
+which tends to collect near the ceiling, throughout the room, preventing areas of cold and hot
+developing.
+ ATTENTION
+• Always use a remote controller to adjust the angles of the louvers and fi ns. If you attempt to move it
+forcibly with hand when it is swinging, the mechanism may be broken.
+• Always use a remote controller to adjust the fi ns angles. Inside the air outlet, a fan is rotating at a high
+speed.
+COOL and DRY operation
+HEAT and FAN operation
+Stop operation
+COOL
+approximately 10-40°
+DRY
+approximately 5-35°
+Stop operation
+HEAT
+approximately 15-55°
+FAN
+approximately 5-55°
+01_EN_3P232717-3D.indd 13 1_EN_3P232717-3D.indd 13 10/6/2009 9:21:03 AM 0/6/2009 9:21:03 AM
+14
+INTELLIGENT EYE Operation
+“INTELLIGENT EYE” is the infrared sensor which detects the human movement.
+ To start INTELLIGENT EYE operation
+1. Press .
+• “ ” is displayed on the LCD.
+ To cancel INTELLIGENT EYE operation
+2. Press again.
+• “ ” is no longer displayed on the LCD.
+[Example]
+Somebody back in the room
+ • Back to normal operation.
+The air conditioner will return to
+normal operation when the sensor
+detects the movement of people
+again.
+When somebody in the room
+ • Normal operation
+The air conditioner is in normal
+operation while the sensor is
+detecting the movement of people.
+When nobody in the room
+ • 20 minutes after, start
+energy saving operation.
+The set temperature is shifted in
+±3.6ºF (±2ºC) steps.
+01_EN_3P232717-3D.indd 14 1_EN_3P232717-3D.indd 14 10/6/2009 9:21:05 AM 0/6/2009 9:21:05 AM
+15
+English
+“INTELLIGENT EYE” is useful for energy saving
+ Energy saving operation
+• Change the temperature –3.6°F (–2°C) in HEAT / +3.6°F (+2°C) in COOL / +1.8°F (+1°C) in DRY operation from set temperature.
+• Decrease the airfl ow rate slightly in FAN operation only.
+• If no presence detected in the room for 20 minutes.
+NOTE
+ Notes on INTELLIGENT EYE operation
+• Application range is as follows.
+90°
+55°23ft.
+(7m)
+55° 23ft. (7m)
+Vertical angle 90°
+(Side view)
+Horizontal angle 110°
+(Top view)
+• Sensor may not detect moving objects further than 23ft. (7m) away. (Check the application range.)
+• Sensor detection sensitivity changes according to indoor unit location, the speed of passersby, temperature range, etc.
+• The sensor also mistakenly detects pets, sunlight, fl uttering curtains and light refl ected off of mirrors as passersby.
+• INTELLIGENT EYE operation will not go on during POWERFUL operation.
+• NIGHT SET mode Page 20 will not go on during use of INTELLIGENT EYE operation.
+ CAUTION
+• Do not place large objects near the sensor.
+Also keep heating units or humidifi ers outside the sensor’s detection area. This sensor can detect undesirable objects.
+• Do not hit or forcefully push the INTELLIGENT EYE sensor. This can lead to damage and malfunction.
+01_EN_3P232717-3D.indd 15 1_EN_3P232717-3D.indd 15 10/6/2009 9:21:06 AM 0/6/2009 9:21:06 AM
+16
+POWERFUL Operation
+POWERFUL operation quickly maximizes the cooling (heating) effect in any
+operation mode. You can get the maximum capacity.
+ To start POWERFUL operation
+Press during operation.
+• POWERFUL operation ends in 20 minutes. Then the system automatically operates again with
+the previous settings which were used before POWERFUL operation.
+• “ ” is displayed on the LCD.
+• When using POWERFUL operation, there are some functions which are not available.
+ To cancel POWERFUL operation
+Press again.
+• “ ” is no longer displayed on the LCD.
+NOTE
+ Notes on POWERFUL operation
+• POWERFUL operation cannot be used together with QUIET operation.
+Priority is given to the function of whichever button is pressed last.
+• In COOL and HEAT operation
+To maximize the cooling (heating) effect, the capacity of outdoor unit must be increased and the airfl ow rate be fi xed to the maximum setting.
+The temperature and airfl ow settings are not variable.
+• In DRY operation
+The temperature setting is lowered by 4.5°F (2.5°C) and the airfl ow rate is slightly increased.
+• In FAN operation
+The airfl ow rate is fi xed to the maximum setting.
+• In AUTO operation
+To maximize the cooling (heating) effect, the capacity of outdoor unit must be increased and the airfl ow rate be fi xed to the maximum setting.
+• POWERFUL operation will not increase the capacity of the air conditioner if the air conditioner is already in operation with its maximum capacity
+demonstrated.
+01_EN_3P232717-3D.indd 16 1_EN_3P232717-3D.indd 16 10/6/2009 9:21:07 AM 0/6/2009 9:21:07 AM
+17
+English
+OUTDOOR UNIT QUIET Operation
+OUTDOOR UNIT QUIET operation lowers the noise level of the outdoor unit by
+changing the frequency and fan speed on the outdoor unit. This function is
+convenient during night.
+ To start OUTDOOR UNIT QUIET operation
+Press .
+• “ ” is displayed on the LCD.
+ To cancel OUTDOOR UNIT QUIET operation
+Press again.
+• “ ” is no longer displayed on the LCD.
+NOTE
+ Notes on OUTDOOR UNIT QUIET operation
+• If using a multi system, this function will work only when the OUTDOOR UNIT QUIET operation is set on all operated indoor units.
+However, if using priority room setting, see note for multi system. Page 22
+• This function is available in COOL, HEAT, and AUTO operation.
+(This is not available in FAN and DRY operation.)
+• POWERFUL operation and OUTDOOR UNIT QUIET operation cannot be used at the same time.
+Priority is given to the function of whichever button is pressed last.
+• If operation is stopped using the remote controller or the indoor unit ON/OFF switch when using OUTDOOR UNIT QUIET operation, “ ” will
+remain on the remote controller display.
+• OUTDOOR UNIT QUIET operation will drop neither the frequency nor fan speed if the frequency and fan speed have been already dropped low
+enough.
+01_EN_3P232717-3D.indd 17 1_EN_3P232717-3D.indd 17 10/6/2009 9:21:08 AM 0/6/2009 9:21:08 AM
+18
+HOME LEAVE operation is a function which allows you to record your preferred
+temperature and airfl ow rate settings.
+ To start HOME LEAVE operation
+1. Press .
+• “ ” is displayed on the LCD.
+• The HOME LEAVE lamp lights up.
+Display
+ To cancel HOME LEAVE operation
+2. Press again.
+• “ ” is no longer displayed on the LCD.
+• The HOME LEAVE lamp goes off.
+Before using HOME LEAVE operation.
+ To set the temperature and airfl ow rate for HOME LEAVE operation
+When using HOME LEAVE operation for the fi rst time, please set the temperature and airfl ow rate for HOME LEAVE operation.
+Record your preferred temperature and airfl ow rate.
+Initial setting Selectable range
+Temperature Airfl ow rate Temperature Airfl ow rate
+Cooling 77°F (25°C) AUTO 64-90°F (18-32°C) 5 step, “ ” and “ ”
+Heating 77°F (25°C) AUTO 50-86°F (10-30°C) 5 step, “ ” and “ ”
+1. Press . Make sure “ ” is displayed in the remote controller display.
+2. Adjust the set temperature with or as you like.
+3. Adjust the airfl ow rate with FAN setting button as you like.
+HOME LEAVE operation will run with these settings the next time you use the unit. To change the recorded information, repeat
+steps 1 – 3.
+HOME LEAVE Operation
+01_EN_3P232717-3D.indd 18 1_EN_3P232717-3D.indd 18 10/6/2009 9:21:10 AM 0/6/2009 9:21:10 AM
+19
+What’s the HOME LEAVE operation?
+English
+
+Is there a set temperature and airfl ow rate which is most comfortable, a set temperature and airfl ow rate which you use the most?
+HOME LEAVE operation is a function that allows you to record your favorite set temperature and airfl ow rate. You can start your
+favorite operation mode simply by pressing on the remote controller. This function is convenient in the following situations.
+ Useful in these cases
+1. Use as an energy-saving mode.
+Set the temperature 3-5°F(2-3°C) higher (COOL) or lower (HEAT) than normal. Setting the fan speed to the lowest
+setting allows the unit to be used in energy-saving mode. Also convenient for use while you are out or sleeping.
+• Every day before you leave the house...
+When you go out, press and the
+air conditioner will adjust capacity to
+reach the preset temperature for HOME
+LEAVE operation.
+When you return, you will be welcomed
+by a comfortably air conditioned room. Press again, and the air
+conditioner will adjust capacity to the set
+temperature for normal operation.
+• Before bed...
+Set the unit to HOME LEAVE operation
+before leaving the living room when
+going to bed.
+The unit will maintain the temperature in
+the room at a comfortable level while you
+sleep.
+When you enter the living room in the
+morning, the temperature will be just right.
+Disengaging HOME LEAVE operation will
+return the temperature to that set for
+normal operation. Even the coldest
+winters will pose no problem!
+2. Use as a favorite mode.
+Once you record the temperature and airfl ow rate settings you most often use, you can retrieve them by pressing .
+You do not have to make all the selections again.
+NOTE
+• Once the temperature and airfl ow rate for HOME LEAVE operation are set, those settings will be used whenever HOME LEAVE operation is used in
+the future. To change these settings, please refer to the before using HOME LEAVE operation section above.
+• HOME LEAVE operation is only available in COOL and HEAT operation. It cannot be used in AUTO, DRY, and FAN operation.
+• HOME LEAVE operation runs in accordance with the previous operation mode (COOL or HEAT) before using HOME LEAVE operation.
+• HOME LEAVE operation and POWERFUL operation cannot be used at the same time. Last button that was pressed has priority.
+• The operation mode cannot be changed while HOME LEAVE operation is being used.
+• When operation is shut off during HOME LEAVE operation, using the remote controller or the indoor unit ON/OFF switch, “ ” will remain on the
+remote controller display.
+01_EN_3P232717-3D.indd 19 1_EN_3P232717-3D.indd 19 10/6/2009 9:21:13 AM 0/6/2009 9:21:13 AM
+20
+TIMER Operation
+Timer functions are useful for automatically switching the air conditioner on or off at
+night or in the morning. You can also use OFF TIMER and ON TIMER in
+combination.
+ To use OFF TIMER operation
+• Check that the clock is correct.
+If not, set the clock to the present time. Page 9
+1. Press .
+” is displayed.
+” blinks.
+“
+“
+2. Press until the time setting reaches the point
+you like.
+• Each pressing of either button increases or decreases the time setting by 10 minutes. Holding
+down either button changes the setting rapidly.
+3. Press again.
+• The TIMER lamp lights up.
+Display
+ To cancel OFF TIMER operation
+Press .
+• The TIMER lamp goes off.
+NOTE
+ Notes on TIMER operation
+• When TIMER is set, the present time is not displayed.
+• Once you set ON/OFF TIMER, the time setting is kept in the memory. (The memory is canceled when remote controller batteries are replaced.)
+• When operating the unit via the ON/OFF TIMER, the actual length of operation may vary from the time entered by the user. (Maximum
+approximately 10 minutes)
+ NIGHT SET mode
+• When the OFF TIMER is set, the air conditioner automatically adjusts the temperature setting (0.9°F (0.5°C) up in COOL, 3.6°F (2.0°C) down in
+HEAT) to prevent excessive cooling (heating) for your pleasant sleep.
+01_EN_3P232717-3D.indd 20 1_EN_3P232717-3D.indd 20 10/6/2009 9:21:16 AM 0/6/2009 9:21:16 AM
+21
+English
+ To use ON TIMER operation
+• Check that the clock is correct.
+If not, set the clock to the present time. Page 9
+1. Press .
+” is displayed.
+” blinks.
+“
+“
+2. Press until the time setting reaches the point
+you like.
+• Each pressing of either button increases or decreases the time setting by 10 minutes. Holding
+down either button changes the setting rapidly.
+3. Press again.
+• The TIMER lamp lights up.
+Display
+ To cancel ON TIMER operation
+Press .
+• The TIMER lamp goes off.
+ To combine ON TIMER and OFF TIMER
+• A sample setting for combining the two timers is shown below.
+(Example)
+Present time: 23:00 (The unit operating)
+OFF TIMER at 0:00
+ON TIMER at 14:00 Combined
+ATTENTION
+ In the following cases, set the timer again.
+• After a breaker has turned off.
+• After a power failure.
+• After replacing batteries in the remote controller.
+01_EN_3P232717-3D.indd 21 1_EN_3P232717-3D.indd 21 10/6/2009 9:21:17 AM 0/6/2009 9:21:17 AM
+22
+Note for Multi System
+What is a multi system?
+This system has one outdoor unit connected to multiple
+indoor units.
+ Selecting the operation mode
+1. With the priority room setting present but
+inactive or not present.
+When more than one indoor unit is operating, priority is
+given to the fi rst unit that was turned on.
+In this case, set the units that are turned on later to the
+same operation mode (*1) as the fi rst unit.
+Otherwise, they will enter the standby state, and the
+OPERATION lamp will fl ash: this does not indicate malfunction.
+(*1)
+• COOL, DRY and FAN operation may be used at the same time.
+• AUTO operation automatically selects COOL operation or HEAT operation based on the room temperature.
+Therefore, AUTO operation is available when selecting the same operation mode as that of the room with the fi rst unit to be
+turned on.
+ CAUTION
+• Normally, the operation mode in the room where the unit is fi rst run is given priority, but the following situations are exceptions, so please
+keep this in mind.
+If the operation mode of the fi rst room is FAN operation, then using HEAT operation in any room after this will give priority to HEAT operation.
+In this situation, the air conditioner running in FAN operation will go on standby, and the OPERATION lamp will fl ash.
+2. With the priority room setting active.
+See priority room setting on the next page.
+B
+room
+A
+room
+Outdoor
+unit
+ NIGHT QUIET mode (Available only for COOL operation)
+NIGHT QUIET mode requires initial programming during installation. Please consult your retailer or dealer for assistance.
+NIGHT QUIET mode reduces the operation noise of the outdoor unit during the nighttime hours to prevent annoyance to neighbors.
+• The NIGHT QUIET mode is activated when the temperature drops 9°F (5°C) or more below the highest temperature recorded
+that day. Therefore, when the temperature difference is less than 9°F (5°C), this function will not be activated.
+• NIGHT QUIET mode reduces slightly the cooling effi ciency of the unit.
+01_EN_3P232717-3D.indd 22 1_EN_3P232717-3D.indd 22 10/6/2009 9:21:19 AM 0/6/2009 9:21:19 AM
+23
+English
+ OUTDOOR UNIT QUIET operation Page 17
+1. With the priority room setting present but inactive or not present.
+When using the OUTDOOR UNIT QUIET operation feature with the multi system, set all indoor units to OUTDOOR UNIT
+QUIET operation using their remote controllers.
+When clearing OUTDOOR UNIT QUIET operation, clear one of the operating indoor units using its remote controller.
+The OUTDOOR UNIT QUIET operation display remains on the remote controller for other rooms.
+We recommend you release all rooms using their remote controllers.
+2. With the priority room setting active.
+See priority room setting.
+ COOL/HEAT mode lock (Available only for heat pump models)
+The COOL/HEAT mode lock requires initial programming during installation. Please consult your authorized dealer for assistance.
+The COOL/HEAT mode lock sets the unit forcibly to either COOL or HEAT operation. This function is convenient when you wish to
+set all indoor units connected to the multi system to the same operation mode.
+ Priority room setting
+The priority room setting requires initial programming during installation. Please consult your authorized dealer for assistance.
+The room designated as the priority room takes priority in the following situations;
+1. Operation mode priority.
+As the operation mode of the priority room takes precedence, the user can select a different operation mode from other rooms.
+< Example >
+* Room A is the priority room in the examples.
+When COOL operation is selected in room A while operating the following modes in room B:
+Operation mode in room B Status of room B when the unit in room A is in COOL operation
+COOL or DRY or FAN Current operation mode maintained
+HEAT The unit enters standby mode. Operation resumes when the room A unit stops operating.
+AUTO If the unit is set to COOL operation, it continues. If the unit is set to HEAT operation, it enters standby mode.
+Operation resumes when the room A unit stops operating.
+2. Priority when POWERFUL operation is used.
+< Example >
+* Room A is the priority room in the examples.
+The indoor units in rooms A and B are all operating. If the unit in room A enters POWERFUL operation, operation capacity will
+be concentrated in room A. In such a case, the cooling (heating) effi ciency of the units in room B may be slightly reduced.
+3. Priority when using OUTDOOR UNIT QUIET operation.
+< Example >
+* Room A is the priority room in the examples.
+Just by setting the unit in room A to QUIET operation, the air conditioner starts OUTDOOR UNIT QUIET operation.
+You don’t have to set all the operated indoor units to QUIET operation.
+01_EN_3P232717-3D.indd 23 1_EN_3P232717-3D.indd 23 10/6/2009 9:21:19 AM 0/6/2009 9:21:19 AM
+24
+Care and Cleaning
+ CAUTION Before cleaning, be sure to stop the operation and turn the breaker off.
+Units
+ Indoor unit, outdoor unit and remote controller
+Wipe them with a soft cloth when dirty.
+Front panel
+1. Open the front panel.
+• Hold the front panel by the panel tabs on the both sides
+and open it.
+2. Remove the front panel.
+• Slide the front panel to either the left or right and pulling it
+toward you.
+This will disconnect the rotation dowel on one side.
+• Disconnect the front panel shaft on the other side in the
+same manner.
+3. Clean the front panel.
+• Wipe it with a soft cloth soaked in water.
+• Only neutral detergent may be used.
+• If you wash the panel with water, wipe it with a dry soft cloth, and allow to dry in the shade.
+4. Attach the front panel.
+• Align the front panel shaft on the left and right of the front panel with the slots,
+then push them all the way in.
+• Close the front panel slowly. (Press the panel at both sides and the center.)
+ CAUTION
+• When the packaging materials are attached to the front panel, please remove them.
+• Do not touch the metal parts of the indoor unit. If you touch those parts, this may cause an injury.
+• When removing or attaching the front panel, use a robust and stable stool and watch your steps carefully.
+• When removing or attaching the front panel, support the panel securely with hand to prevent it from falling.
+• For cleaning, do not use hot water above 104°F (40°C), benzine, gasoline, thinner, nor other volatile oils,
+polishing compound, scrubbing brushes, nor other hand stuff.
+• After cleaning, make sure that the front panel is securely fi xed.
+01_EN_3P232717-3D.indd 24 1_EN_3P232717-3D.indd 24 10/6/2009 9:21:19 AM 0/6/2009 9:21:19 AM
+25
+English
+Filters
+1. Open the front panel. Page 24
+2. Pull out the air fi lters.
+• Push a little upwards the tab at the center of each air fi lter,
+then pull it down.
+3. Take off the air-purifying
+fi lter with photocatalytic
+deodorizing function.
+• Press the top of the air-cleaning fi lter onto the tabs
+(3 at top). Then press the bottom of the fi lter up slightly,
+and press it onto the tabs (2 at bottom).
+4. Clean or replace each fi lter.
+See fi gure.
+5. Set the air fi lter and the air-purifying fi lter with photocatalytic
+deodorizing function as they were and close the front panel.
+• Press the front panel at both sides and the center.
+Tabs (2 at bottom)
+Tabs (3 at top)
+ CAUTION
+• Do not touch the aluminum fi ns by bare hand at the time of dismounting or mounting the fi lter.
+01_EN_3P232717-3D.indd 25 1_EN_3P232717-3D.indd 25 10/6/2009 9:21:20 AM 0/6/2009 9:21:20 AM
+26
+Care and Cleaning
+Air fi lter
+Wash the air fi lters with water or clean them with vacuum cleaner.
+• If the dust does not come off easily, wash them with neutral detergent thinned with lukewarm water, then dry them up in the
+shade.
+• It is recommended to clean the air fi lters every 2 weeks.
+Air-purifying fi lter with photocatalytic deodorizing function
+The air-purifying fi lter with photocatalytic deodorizing function can be renewed by washing it with water once every 6 months.
+We recommend replacing it once every 3 years.
+[Maintenance]
+1. Vacuum dust, and soak in warm water or water for about 10 to 15
+minutes if dirt is heavy.
+• Do not remove fi lter from frame when washing with water.
+2. After washing, shake off remaining water and dry in the shade.
+• Since the material is made out of paper, do not wring out the fi lter when removing water from it.
+[Replacement]
+1. Remove the tabs on the fi lter frame and replace with a new fi lter.
+• Dispose of the old fi lters as fl ammable waste.
+01_EN_3P232717-3D.indd 26 1_EN_3P232717-3D.indd 26 10/6/2009 9:21:21 AM 0/6/2009 9:21:21 AM
+27
+English
+NOTE
+• Operation with dirty fi lters:
+1) cannot deodorize the air,
+2) cannot clean the air,
+3) results in poor heating or cooling,
+4) may cause odor.
+• To order air-purifying fi lter with photocatalytic deodorizing function contact to the service shop there you purchased the air
+conditioner.
+• Dispose of the old fi lters as fl ammable waste.
+Item Part No.
+Air-purifying fi lter with photocatalytic deodorizing function (without frame) 1 set KAF952A42
+ATTENTION
+• Do not throw away the fi lter frame. Reuse the fi lter frame when replacing the air-purifying fi lter with photocatalytic deodorizing function.
+CHECK
+ Check that the base, stand and other fi ttings of the outdoor unit are not decayed or corroded.
+ Check that nothing blocks the air inlets and the outlets of the indoor unit and the outdoor unit.
+ Check that the drain comes smoothly out of the drain hose during COOL or DRY operation.
+• If no drain water is seen, water may be leaking from the indoor unit. Stop operation and consult the service shop if this is the
+case.
+Before a long idle period
+1. Operate the FAN only for several hours on a nice day to dry out
+the inside.
+• Press and select “ ” operation.
+• Press and start operation.
+2. After operation stops, turn off the breaker for the room air
+conditioner.
+3. Clean the air fi lters and set them again.
+4. Take out batteries from the remote controller.
+01_EN_3P232717-3D.indd 27 1_EN_3P232717-3D.indd 27 10/6/2009 9:21:22 AM 0/6/2009 9:21:22 AM
+28
+Troubleshooting
+These incidents are not malfunctions.
+The following incidents do not indicate a malfunctioning air conditioner and have explanations. The air conditioner can continue to
+operate.
+Case Explanation
+Operation does not start soon.
+• When “ON/OFF” button was pressed soon after
+operation was stopped.
+• When the mode was reselected.
+• This is to protect the air conditioner.
+You should wait for about 3 minutes.
+Hot air does not fl ow out soon after the
+start of HEAT operation.
+• The air conditioner is warming up. You should wait for 1 to 4 minutes.
+(The system is designed to start discharging air only after it has reached a certain
+temperature.)
+The HEAT operation stops suddenly and
+a fl owing sound is heard.
+• The system is taking away the frost on the outdoor unit.
+You should wait for about 4 to 12 minutes.
+The outdoor unit emits water or steam.
+ In HEAT operation
+• The frost on the outdoor unit melts into water or steam when the air conditioner is in
+defrost operation.
+ In COOL or DRY operation
+• Moisture in the air condenses into water on the cool surface of outdoor unit piping and
+drips.
+Mist comes out of the indoor unit.
+ This happens when the air in the room is cooled into mist by the cold airfl ow
+during COOL operation.
+ This is because the air in the room is cooled by the heat exchanger and
+becomes mist during defrost operation.
+The indoor unit gives out odor.
+ This happens when smells of the room, furniture, or cigarettes are absorbed
+into the unit and discharged with the airfl ow.
+If this happens, it is recommended to have the indoor unit washed by a
+technician. Consult the service shop where you purchased the air conditioner.
+The outdoor fan rotates while the air
+conditioner is not in operation.
+ After operation is stopped
+• The outdoor fan continues rotating for another 60 seconds for system protection.
+ While the air conditioner is not in operation
+• When the outdoor temperature is very high, the outdoor fan starts rotating for system
+protection.
+Operation stopped suddenly.
+(OPERATION lamp is on.)
+• For system protection, the air conditioner may stop operating on a sudden large voltage
+fl uctuation.
+It automatically resumes operation in about 3 minutes.
+No remote controller signals are
+displayed.
+Remote controller sensitivity is low.
+Display is low in contrast or blacked out.
+Display runs out of control.
+• The batteries are dying and the remote controller is malfunctioning. Replace all the
+batteries with new size batteries, AAA.LR03 (alkaline). For details, refer to set the batteries
+of this manual. Page 8
+01_EN_3P232717-3D.indd 28 1_EN_3P232717-3D.indd 28 10/6/2009 9:21:22 AM 0/6/2009 9:21:22 AM
+29
+English
+Case Explanation
+Possible sounds.
+ Flowing water
+• Generated because the refrigerant in the air conditioner is fl owing.
+• This is a pumping sound of the water in the air conditioner and heard when the water is
+pumped out from the air conditioner in cooling or drying operation.
+• The refrigerant fl ows in the air conditioner even if the air conditioner is not working when
+the indoor units in other rooms are in operation.
+ Blowing
+• Generated when the fl ow of the refrigerant in the air conditioner is switched over.
+ Pinging
+• Generated when the size of the air conditioner slightly expands or shrinks as a result of
+temperature changes.
+Check again.
+Please check again before calling a repair person.
+Case Check
+The air conditioner does not operate.
+(OPERATION lamp is off.)
+• Is a breaker off or a fuse blown?
+• Is there a power failure?
+• Are batteries set in the remote controller?
+• Is the timer setting correct?
+Cooling (Heating) effect is poor.
+• Are the air fi lters clean?
+• Is there anything to block the air inlet or the outlet of the indoor and the outdoor units?
+• Is the temperature setting appropriate?
+• Are the windows and doors closed?
+• Are the airfl ow rate and the airfl ow direction set appropriately?
+Operation stopped suddenly.
+(OPERATION lamp fl ashes.)
+• Are the air fi lters clean?
+• Is there anything to block the air inlet or the outlet of the indoor and the outdoor units?
+• Clean the air fi lters or take all obstacles away and turn the breaker off. Then turn it on
+again and try operating the air conditioner with the remote controller. If the lamp still
+fl ashes, call the service shop where you purchased the air conditioner.
+• Are operation modes all the same for indoor units connected to outdoor units in the multi
+system?
+If not, set all indoor units to the same operating mode and confi rm that the lamps fl ash.
+Moreover, when the operating mode is in AUTO, set all indoor unit operating modes to
+COOL or HEAT for a moment and check again that the lamps are normal.
+If the lamps stop fl ashing after the above steps, there is no malfunction. Page 22
+An abnormal functioning happens during
+operation.
+• The air conditioner may malfunction with lightning or radio waves. Turn the breaker off,
+turn it on again and try operating the air conditioner with the remote controller.
+The louvers do not immediately swing.
+The louvers move soon after startup. • The air conditioner is adjusting the louvers position. The louvers will start moving soon.
+01_EN_3P232717-3D.indd 29 1_EN_3P232717-3D.indd 29 10/6/2009 9:21:23 AM 0/6/2009 9:21:23 AM
+30
+Troubleshooting
+ Call the service shop immediately.
+ WARNING
+ When an abnormality (such as a burning smell) occurs, stop operation and turn the breaker off.
+Continued operation in an abnormal condition may result in malfunctioning, electric shocks or fi re.
+Consult the service shop where you purchased the air conditioner.
+ Do not attempt to repair or modify the air conditioner by yourself.
+Incorrect work may result in electric shocks or fi re.
+Consult the service shop where you purchased the air conditioner.
+If one of the following symptoms occurs, call the service shop immediately.
+ The power cord is abnormally hot or damaged.
+ An abnormal sound is heard during operation.
+ The safety breaker, a fuse, or the ground leakage breaker
+cuts off the operation frequently.
+ A switch or a button often fails to work properly.
+ There is a burning smell.
+ Water leaks from the indoor unit.
+Turn the breaker off and call the service shop.
+ After a power failure
+The air conditioner automatically resumes operation in about 3 minutes. Wait for it to restart.
+ Lightning
+If lightning may strike the neighboring area, stop operation and turn the breaker off for system protection.
+ Disposal requirements
+• Dismantling the unit, and treatment of refrigerant, oil, and other parts, should be done in accordance with the relevant local and
+national regulations.
+ We recommend periodic maintenance.
+In certain operating conditions, the inside of the air conditioner may get soiled after several seasons of use, resulting in poor
+performance. It is recommended to have periodic maintenance by a specialist aside from regular cleaning by the user.
+For specialist maintenance, contact the service shop where you purchased the air conditioner.
+The maintenance cost must be born by the user.
+01_EN_3P232717-3D.indd 30 1_EN_3P232717-3D.indd 30 10/6/2009 9:21:23 AM 0/6/2009 9:21:23 AM
+31
+English
+Fault diagnosis.
+Fault diagnosis by remote controller
+The remote controller can receive a corresponding error code from the indoor unit.
+1. When is held down for 5 seconds, a “ ” indication blinks on the temperature display section.
+2. Press repeatedly until a continuous beep is produced.
+• The code indication changes as displayed in the following table, and notifi es with a long beep.
+CODE MEANING
+SYSTEM
+00 NORMAL
+U0 REFRIGERANT SHORTAGE
+U2 DROP VOLTAGE OR MAIN CIRCUIT OVERVOLTAGE
+U4 FAILURE OF TRANSMISSION (BETWEEN INDOOR UNIT AND OUTDOOR UNIT)
+INDOOR
+UNIT
+A1 INDOOR PCB DEFECTIVENESS
+A5 HIGH PRESSURE CONTROL OR FREEZE-UP PROTECTOR
+A6 FAN MOTOR FAULT
+C4 FAULTY HEAT EXCHANGER TEMPERATURE SENSOR
+C9 FAULTY SUCTION AIR TEMPERATURE SENSOR
+OUTDOOR
+UNIT
+EA COOLING-HEATING SWITCHING ERROR
+E5 OL STARTED
+E6 FAULTY COMPRESSOR START UP
+E7 DC FAN MOTOR FAULT
+E8 OVERCURRENT INPUT
+F3 HIGH TEMPERATURE DISCHARGE PIPE CONTROL
+H6 OPERATION HALT DUE TO FAULTY POSITION DETECTION SENSOR
+H8 DC CURRENT SENSOR FAULT
+H9 FAULTY SUCTION AIR TEMPERATURE SENSOR
+J3 FAULTY DISCHARGE PIPE TEMPERATURE SENSOR
+J6 FAULTY HEAT EXCHANGER TEMPERATURE SENSOR
+L4 HIGH TEMPERATURE AT INVERTER CIRCUIT HEATSINK
+L5 OUTPUT OVERCURRENT
+P4 FAULTY INVERTER CIRCUIT HEATSINK TEMPERATURE SENSOR
+NOTE
+• A short beep and two consecutive beeps indicate non-corresponding codes.
+• To cancel the code display, hold for 5 seconds. The code display also cancel itself if the button is not pressed for
+1 minute.
+TIMER CANCEL button
+Cancels the timer setting.
+01_EN_3P232717-3D.indd 31 1_EN_3P232717-3D.indd 31 10/6/2009 9:21:23 AM 0/6/2009 9:21:23 AM
+ MEMO
+32
+01_EN_3P232717-3D.indd 32 1_EN_3P232717-3D.indd 32
+10/6/2009 9:21:24 AM 0/6/2009 9:21:24 AM
+3P232717-3D M08B054B (0911) HT
+Two-dimensional bar code is a code
+for manufacturing.
+00_CV_3P232717-3D.indd 2 0_CV_3P232717-3D.indd 2 9/7/2009 1:42:48 PM /7/2009 1:42:48 PM
