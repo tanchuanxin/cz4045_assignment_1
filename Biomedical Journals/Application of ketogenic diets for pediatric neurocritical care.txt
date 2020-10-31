@@ -1,0 +1,109 @@
+Abstract
+In this review, we summarize the general mechanisms of the ketogenic diet, and the application of a ketogenic diet in pediatric intensive care units for the neurological disorders of children and young infants. A ketogenic diet is a high-fat, low-carbohydrate, adequate-protein diet. It can alter the primary cerebral energy metabolism from glucose to ketone bodies, which involves multiple mechanisms of antiepileptic action, antiepileptogenic properties, neuro-protection, antioxidant and anti-inflammatory effects, and it is potentially a disease-modifying intervention. Although a ketogenic diet is typically used for the chronic stage of pharmacoresistant of epilepsy, recent studies have shown its efficacy in patients with the acute stage of refractory/super-refractory status epilepticus. The application of a ketogenic diet in pediatric intensive care units is a challenge because of the critical status of the patients, who are often in a coma or have a nothing by mouth order. Moreover, a ketogenic diet needs to be started early and sometimes through parenteral administration in patients with critical conditions such as refractory status epilepticus or febrile infection-related epilepsy syndrome. Animal models and some case reports have shown that the neuro-protective effects of a ketogenic diet can be extended to other emergent neurological diseases, such as traumatic brain injury and ischemic stroke.
+
+Previous article in issueNext article in issue
+Keywords
+Ketogenic dietPediatric intensive care unitEpilepsyStatus epilepticusTraumatic brain injuryStroke
+A ketogenic diet is a high-fat, low-carbohydrate, adequate-protein diet that was first used in the 1920s for the management of pharmacoresistant epilepsy [1]. There are currently 4 major ketogenic diets: the classic ketogenic diet, the modified Atkins diet, the medium chain triglyceride (MCT) diet, and the low glycemic index treatment [2]. It also includes a typical 4:1 ratio of fat to carbohydrates and protein combined, which can be lowered to 3:1 or 2:1 for infants, adolescents, and patients requiring higher protein and carbohydrate content. Calories have traditionally been restricted to 80–90% of the daily recommendations for age; however, most centers do not routinely calorie restrict, and no longer fluid restrict in children on ketogenic diet therapy [2]. A ketogenic diet alters the primary cerebral energy metabolism from glucose to ketone bodies, and may involve multiple mechanisms of antiepileptic action, antiepileptogenic properties, neuro-protection, antioxidant and anti-inflammatory effects, and it is potentially a disease-modifying intervention [3]. Although a ketogenic diet is typically suggested for chronic intractable epilepsy, recent reports have indicated that it can be effective as acute treatment for refractory/super-refractory status epilepticus in both adults and children [[4], [5], [6], [7], [8], [9], [10], [11], [12]]. The application of a ketogenic diet in pediatric intensive care unit (PICU) and neonatal intensive care unit (NICU) is a challenge because of the critical status of the patients, who are often in a coma or have a nothing by mouth order. In some rare conditions, such as refractory status epilepticus or febrile infection-related epilepsy syndrome, a ketogenic diet needs to be started early and sometimes through parenteral administration [9,[13], [14], [15]]. Animal studies and a few human studies have reported the use of a ketogenic diet for children with other conditions in pediatric intensive care units, such as ischemic brain injury and traumatic brain injury [[16], [17], [18], [19], [20], [21]]. Therefore, a ketogenic diet may be considered as an adjuvant therapy in patients with refractory/super-refractory status epilepticus in PICU and NICU.
+
+MCT ketogenic diet
+An MCT ketogenic diet yields more ketones per kilocalorie of energy than long-chain fatty acids, which are absorbed more efficiently and are carried directly to the liver in the portal blood [22,23]. Therefore, an MCT ketogenic diet allows more carbohydrate and protein components than the classic ketogenic diet. Thus, an MCT ketogenic diet can provide more dietary options than a classic diet, making it more palatable [24]. Lin et al. had reported a pediatric patient with the acute stage of super-refractory status epilepticus who was treated with an intravenous ketogenic diet in a pediatric intensive care unit [9]. This patient's ketogenic diet had a 4:1 ketogenic ratio and was composed of commercially available fat emulsion with MCT, amino acid, and carbohydrate solutions for intravenous application [9]. Prasoppokakorn et al. reported an adult patient, a 19-year-old female who had super-refractory status epilepticus and autoimmune encephalitis despite pulsed methylprednisolone, intravenous immunoglobulin, and eight antiepileptic drug treatments. MCT ketogenic diet treatment was initiated, and rapid seizure control was observed within 6 days despite negative ketosis [25]. Therefore, an MCT ketogenic diet is not only an early option for epilepsy treatment, but it can also be used in emergency situations [9,26,27].
+
+A ketogenic diet for super-refractory status epilepticus
+Super-refractory status epilepticus is a medical emergency that must be treated immediately to prevent permanent neuronal injury and mortality [28]. Treatment is difficult, and therapeutic management is based on clinical reports and expert opinion. Recent literature reviews on the outcomes of super-refractory convulsive status epilepticus reported that 10–15% of the patients with status epilepticus progressed to super-refractory status epilepticus [29], and that 5–17% of patients with status epilepticus on admission developed super-refractory status epilepticus [8,[29], [30], [31], [32], [33], [34]]. The mortality rate of super-refractory status epilepticus ranged from 30% to 50% [35,36]. Many therapies and treatments have been reported, including hypothermia, inhalational anesthetics, immunotherapy, epilepsy surgery, vagus nerve stimulation, electroconvulsive therapy, and a ketogenic diet, all with varying degrees of effectiveness [29,30,[37], [38], [39], [40], [41], [42], [43], [44], [45]].
+
+The reported application of a ketogenic diet for super-refractory status epilepticus in pediatric intensive care units has increased in recent years, including case reports and large series [4,[6], [7], [8],10,12,[46], [47], [48], [49], [50], [51], [52], [53], [54], [55], [56], [57], [58], [59], [60], [61]]. Park et al. reported that in patients with super-refractory status epilepticus, the number of patients who achieved a >50% reduction in seizure frequency after initiating a ketogenic diet was significantly higher in those with febrile infection-related epilepsy syndrome than in those without febrile infection-related epilepsy syndrome (p < 0.05) [8]. Table 1 shows eight large series of children with super-refractory status epilepticus treated with a ketogenic diet in PICUs [4,8,10,12,[46], [47], [48], [49]]. There was a trend of using a ketogenic diet in the acute stage (within 2 weeks of onset) of super-refractory status epilepticus in PICUs. Most of the indications for using a ketogenic diet were the etiologies of febrile infection-related epilepsy syndrome and encephalitis-related epilepsy. Therefore, the early application of a ketogenic diet for patients with febrile refractory status epilepticus is an important adjuvant therapy in PICUs.
+
+Table 1. Application of a ketogenic diet in children with super-refractory status epilepticus in pediatric intensive care units (large series).
+
+Patients (n)	Age (years)	Sex (n) (F/M)	Route of KD (n) (enteral/intravenous)	FIRES (n)	Lag from SE onset to KD (n) (≦14 days)	Acute effects (response/poor response) (n)
+Nabbout [4]	9	5.2–8.2	5/4	9/0	9	3	7/2
+Caraballo [47]	10	0.5–16	4/6	10/0	2	NR	7/3
+Appavu [12]	10	2–16	4/6	9/1	2	5	9/1
+Farias-Moeller [10]	9	2–8	6/3	7/2	7	5	6/3
+Arya [46]	14	0.4–19	NR	11/3	1	9	11/3
+Park [8]	14	0.1–15	5/9	14/0	8	6	14/0
+Peng [49]	7	1.5–13	3/4	5/2	7	4	7/0
+Arayakarnkul [48]	13	0.2–13.5	6/7	8/5	3	NR	12/1
+Abbreviations: F: female; M: male; KD: ketogenic diet; FIRES: febrile infection-related epilepsy syndrome; SE: status epilepticus; NR: not reported;
+
+Park: We excluded two adult patients from this study; Arayakarnkul: We excluded four patients without ketogenic diet therapy from this study.
+
+
+Parenteral nutrition of a ketogenic diet for pediatric refractory status epilepticus
+Patients with refractory status epilepticus often have coexisting medical problems and may experience the adverse effects of anesthetics, impairing oral intake and delaying the start of a ketogenic diet days to weeks after status epilepticus [35,62]. When enteral feeding is contraindicated, some beneficial effects of an intravenous ketogenic diet have been reported [14,15]. The first large series by Jung et al., in 2012 reported 10 children with intractable epilepsy who received an intravenous ketogenic diet in the chronic stage [15]. The first case report of an adult, a 21-year-old female, with super-refractory status epilepticus who received a parenteral ketogenic diet after 2 weeks of acute therapy was reported by Strzelczyk et al., in 2013 [14]. With regards to children with super-refractory status epilepticus, Lin et al. first reported a 6-year-old boy who received a parenteral ketogenic diet in the acute stage (40 h after admission) in 2015 [9]. Table 2 shows an overview of case reports of ketogenic parenteral nutrition for pediatric patients with super-refractory status epilepticus in intensive care units [9,10,12,48,49,63,64]. The lag from the onset of status epilepticus to initiating a parenteral ketogenic diet was 2–31 days, and the duration of parenteral ketogenic diet therapy was 3–41 days. Only two cases received parenteral ketogenic diet therapy early within 7 days of the acute stage [9,12]. The acute effects were variable. Weaning anesthesia agents and resolution of super-refractory status epilepticus were the main benefits from parenteral ketogenic diet therapy.
+
+Table 2. Overview of case reports of ketogenic parenteral nutrition for children with super-refractory status epilepticus in pediatric intensive care units.
+
+Patients (n)	Age (years)	Underlying disease	Duration of SE before parenteral KD (days)	Duration of parenteral KD (days)	Acute clinical efficacy	Adverse effects
+Lin [9]	1	6.25	Epilepsy	2	8	Thiamylal successfully weaned at 30 h after parenteral KD	Transient hypertriglyceridemia,
+Transient increase in pancreatic enzymes
+Chiusolo [63]	1	8	Epilepsy, Development delay	NR	3	No response	Transient hypertriglyceridemia,
+Transient increase in pancreatic enzymes
+Appavu [12]	1	3.5	Non-ketotic hyperglycinemia	7	NR	Resolution of SRSE	none
+Farias-Moeller [10]	2	5	CNS HLH,	16	14	Seizure free,	Transient hypertriglyceridemia,
+5	FIRES	10	7	No improvement	Transient increase in pancreatic enzymes
+Dressler [64]	3	3.27	Alpers disease	NR	10	No response	Transient hypertriglyceridemia,
+10.8	Mitochondriopathy	NR	41	10% reduction
+0.46	Partial migrating seizures	NR	19	No response
+Peng [49]	2	NR	FIRES	31	NR	Resolution of SRSE (6 days)	Hyperlipidemia,
+NR	FIRES	11	NR	Resolution of SRSE (10 days)	Transient increase in pancreatic enzymes
+Arayakarnkul [48]	5	NR	NR	NR	NR	NR	NR
+Abbreviations: SE: status epilepticus; KD: ketogenic diet; NR: not reported; CNS: central nervous system; HLH: hemophagocytic lymphohistiocytosis; FIRES: febrile infection-related epilepsy syndrome; SRSE: super-refractory status epilepticus; Arayakarnkul: The study reported 13 pediatric patients with SRSE receiving ketogenic diet therapy (five parenteral, but not specified).
+
+
+It is generally accepted that parenteral nutrition should be considered when an infant or child is not able to receive enteral feeding for more than 48 h [[65], [66], [67]]. When starting ketogenic diet therapy for the first time in the acute setting, to maximize its potential for ketosis, additional fasting for 24 h may be appropriate. This should be conducted with careful monitoring of glucose and ketone levels [13]. An example of the application protocol of parenteral ketogenic nutrition for a 30-kg boy is demonstrated in Table 3. The intravenous ketogenic diet used by Lin et al. included 20% soybean oil, medium-chain triglycerides, olive oil, and fish oil (SMOF) and 4% Aminosteril Infant plus 5% dextrose water, and it was infused continuously over 16 h and then interrupted for 8 h during the night with glucose-free solution (half saline). The interruption of the ketogenic nutrition infusion for 8 h (replaced by glucose-free saline) during the night may have reduced the side effects of increased pancreatic enzymes and lipid profiles [9].
+
+Table 3. Intravenous ketogenic diet protocola (example for a 30-kg patient).
+
+Solution	Total volume	Infusion rate	Weight	Calories
+bDay 1–2 KD: 400 kcal/d (1/3 of the estimated 70% diet energy needs)
+Fat	20% SMOF lipid emulsion	200 ml	12.5 ml/h	40 g fat	360 kcal
+Amino acids	4% Aminosteril Infant	250 ml	15.6 ml/h	10 g amino acids	40 kcal
+Carbohydrates	0% Dextrose water			0 g carbohydrates	0 kcal
+Total	450 ml		50 g	400 kcal
+cDay 3–4 KD: 800 kcal/d (2/3 of the estimated 70% diet energy needs)
+Fat	20% SMOF lipid emulsion	400 ml	25 ml/h	80 g fat	720 kcal
+Amino acids	4% Aminosteril Infant	250 ml	15.6 ml/h	10 g amino acids	40 kcal
+Carbohydrates	5% Dextrose water	10 g carbohydrates	40 kcal
+Total	650 ml		100 g	800 kcal
+dAfter day 5 KD: 1200 kcal/d (3/3 of the estimated 70% diet energy needs)
+Fat	20% SMOF lipid emulsion	600 ml	37.5 ml/h	120 g fat	1080 kcal
+Amino acids	4% Aminosteril Infant	375 ml	23.4 ml/h	15 g amino acids	60 kcal
+Carbohydrates	5% Dextrose water	15 g carbohydrates	60 kcal
+Total	975 ml		150 g	1200 kcal
+This table is modified from Refs. [9,14,15].
+
+The intravenous ketogenic diet included 20% SMOF (250 ml/bottle) and 4% Aminosteril Infant plus 5% dextrose water (500 ml/bag) and was infused continuously over 16 h and then interrupted for 8 h during the night with glucose-free solution such as half saline.
+
+Abbreviations: KD: ketogenic diet; SMOF: soybean oil, medium-chain triglycerides, olive oil, and fish oil.
+
+
+a
+Example: 70% energy needs is 1200 kcal/day for a 30-kg patient with a classic 4:1 parenteral ketogenic diet.
+
+b
+Day 1–2: sugar-free solution.
+
+c
+From day 3, if sugar >150 or ketone bodies disappear, change 5% dextrose water to sugar-free solution.
+
+d
+After day 5: Transition to an enteral ketogenic diet if tolerable.
+
+The most commonly reported side effects of parenteral nutrition during ketogenic diet therapy include elevated lipids, insufficient ketosis, hypoglycemia. Relatively less common side effects include hyperketosis (>6.5 mmol/L), hyperbilirubinemia, and altered liver function and pancreatic enzymes. The side effects observed during parenteral ketogenic diet therapy have been reported to be usually transient, and will recover after discontinuing the parenteral therapy or switching to an enteral ketogenic diet [9,10,12,13,48,49,63,64]. Therefore, surveillance of serum pancreatic enzymes and lipid profiles is very important when initiating parenteral ketogenic diet therapy in PICUs.
+
+A ketogenic diet for patients with traumatic brain injury in PICUs
+Animal studies have suggested that the brain's ability to use glucose as a fuel is impaired after brain injury. In addition, there is evidence that acquired brain injury favors ketone uptake and metabolism. Therefore, ketogenic diet therapy has the potential for ketone supplementation as a therapeutic option in patients with acquired brain injury in PICUs [21,[68], [69], [70]].
+
+Many studies have shown that a ketogenic diet is an effective treatment therapy for traumatic brain injuries in rat models. Multiple mechanisms by which a ketogenic diet likely affects the rat brain post-traumatic brain injury have been proposed [[71], [72], [73], [74], [75], [76], [77], [78], [79]]. Salim et al. found that persist hyperglycemia was associated with significantly higher mortality rates in patients with severe traumatic brain injury [80]. The possible reason is that the ability of the brain using glucose as a substrate may become compromised at times of oxidative stress. During these times, an exogenous supply of ketones may force the brain to shift its reliance from glucose to ketones, thus taking advantage of improving cellular metabolism. In summary, there are unique properties of ketone metabolism that make it a suitable cerebral fuel for various neurological conditions (such as traumatic brain injury and ischemic stroke). Ketones are more energy efficient than glucose and they can protect against glutamate-mediated apoptosis through the attenuation of the formation of reactive oxidant species. Also, ketones can oxidize coenzyme Q, thus decreasing mitochondrial free radical formation. In addition, ketones have been shown to enhance the conversion of glutamate to gamma-aminobutyric acid with the subsequent enhancement of gamma-aminobutyric acid-mediated inhibition. Lastly, Hasselbach et al. had demonstrated a 39% increase in cerebral blood flow following an infusion of sodium β-hydroxybutyrate. Therefore, a ketogenic diet for traumatic brain injury can improve cerebral blood flow [[71], [72], [73], [74], [75], [76], [77], [78], [79], [80], [81], [82], [83]].
+
+Apart from animal models, two studies have reported adults with traumatic brain injuries treated with a ketogenic diet (n = 21 and 20, respectively) [79,84]. These two trials investigated the role of a ketogenic diet in human traumatic brain injury, and reported no serious adverse safety events. In addition, two forms of ketogenic diets have been reported to be effective therapies to produce a state of significant metabolic ketosis in adults with a traumatic brain injury. They found that the ketogenic diets provided sufficient calories and avoided states of hyperglycemia post-traumatic brain injury. Additionally, their blood biochemical analyses demonstrated concentrations of stable blood glucose, significantly increased ketone bodies and significantly decreased lactate. The biochemical changes of these 2 studies were shown to be neuro-protective. Unfortunately, these studies did not include cerebral metabolic and/or behavioral measures. Therefore, these human trials did not establish any evidence regarding the efficacy of a ketogenic diet as a therapy for traumatic brain injuries [21,79,84].
+
+Use of a ketogenic diet in NICUs
+The ketogenic diet had been used in the young patients (less than 2 years) in few case reports, included in case series of children with super-refractory status epilepticus [8,10,12,[46], [47], [48], [49]]. The first report by Nordli et al. in a small group of infants (13.8 ± 5.7 months) showed that a ketogenic diet was effective and safe [85]. Other reports have reported the use of a ketogenic diet in young patients (less than 2 years) [[86], [87], [88], [89], [90], [91], [92], [93], [94], [95]]. Most of the patients had infantile spasms and received ketogenic diet therapy during the chronic stage. Nevertheless, few reports have focused on the use of a ketogenic diet in very young infants (less than 3 months) in NICUs. Thompson et al. reported four young infants, aged 6–10 weeks, who were treated with a ketogenic diet because of epileptic encephalopathy in a NICU. These cases demonstrated that the initiation of a ketogenic diet to treat refractory epilepsy can be undertaken safely in a NICU, and that it is well tolerated in carefully screened infants [96].
+
+Van der Louw et al. reviewed the literature, and their recommendations were as follows [97]. In a child established on a ketogenic diet who needs to be nil by mouth and requires hydration intravenously for this or other reasons, solutions containing glucose should be avoided, and 0.45% or 0.9% saline of Ringers-lactate should be used. In addition, frequent testing of ketosis/blood glucose is required [97]. A 2.5:1 ratio ketogenic diet has been reported to be as effective as 4:1 ratio ketogenic diet but with fewer side effects in infants [98]. A 3:1 (some 4:1) ratio ketogenic diet was shown to be very effective and well tolerated in a prospective trial of 17 infants [88]. Thompson et al. proposed a protocol for use in neonatal intensive care units with non-fasting induction into ketosis over 1–2 weeks, followed by gradual increases in the ketogenic ratio every 2–3 days, starting with a ketogenic ratio of 1:1. The diet ratio was titrated until a blood ketone level of >3000 μmol/L was achieved. The diet ratio was then adjusted further in response to perceived benefits in seizure control, infant alertness, or a decreased need for respiratory support. The highest ratio utilized was 4:1 [96].
+
+Summary
+A ketogenic diet is already used as a treatment option for critical pediatric neurological diseases such as refractory/super-refractory status epilepticus, and febrile infection-related epilepsy syndrome. Nevertheless, the intervention is usually used in the late stage of the disease course. In this review, few cases were treated with a ketogenic diet in the acute stage of disease (≤7 days). In PICUs, because of the critical status of the patients who are often in a coma or have nothing by mouth orders, ketogenic diet therapy needs to be started early and sometimes through parenteral administration. Through this experience and the effect of neuro-protection, the use of ketogenic nutrition can be extended from treating epilepsy to other emergent neurological diseases in PICUs, such as traumatic brain injury and ischemic stroke.

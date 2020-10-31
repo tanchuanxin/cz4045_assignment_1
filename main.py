@@ -1,6 +1,7 @@
 # Import modules
 import nltk
 from nltk import sent_tokenize, word_tokenize, pos_tag
+from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 import string
 import glob
@@ -11,7 +12,7 @@ from collections import Counter
 import matplotlib.pyplot as plt
 
 # Initialize an array of all 3 datasets
-folder_names = ['Fairy Tales','Legal Documents','Instruction Manuals','Test']
+folder_names = ['Fairy Tales','Legal Documents','Instruction Manuals','Biomedical Journals']
 
 # Looks into all .txt files in each dataset 
 for folder in folder_names:
@@ -30,11 +31,14 @@ for folder in folder_names:
 
     # List to store all tokens
     tokens = []
-
     # Iterate through all text entries, tokenize and add to list, remove punctuation and turn all words to lowercase
     for story in corpus:
-        tokens.extend(word_tokenize(story.lower()))
-        tokens = list(filter(lambda token: token not in string.punctuation, tokens))
+        tokens.extend(word_tokenize(story.lower()))                                                 # all words lowercase
+
+    tokens = list(filter(lambda token: token not in string.punctuation, tokens))                    # remove punctuations
+    tokens = list(filter(lambda token: token not in stopwords.words('english'), tokens))            # remove stop words
+    tokens = list(filter(lambda token: token if not token.isdigit() else "", tokens))               # remove numbers 
+
 
     # Create collection counter (dictionary) with key: token and value: num occurences of token
     tokenDict = Counter(tokens)
