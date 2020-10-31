@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 # Initialize an array of all 3 datasets
 folder_names = ['Legal Documents','Instruction Manuals','Biomedical Journals']
 
-totalsentences = []
+totalsentences = []                         # list to contain variables to be plotted for sentence tokenization comparison
 
 # Looks into all .txt files in each dataset 
 for folder in folder_names:
@@ -154,12 +154,12 @@ for folder in folder_names:
 
     # Create new dict where keys of collection counter are sorted
     sorted_uniqSentences= {}
-    for i in sorted(uniqSentences) :
+    for i in sorted(uniqSentences) :                        # variables must be sorted so that line graph plots doesn't jump everywhere
         sorted_uniqSentences[i] = uniqSentences[i] 
 
     # Plot length distribution: x-axis is the length of a sentence in number of words/tokens, and the y-axis is the number of sentences of each length. 
     plt.clf()                                               # Clear the graph plot of previous graphs
-    x = sorted_uniqSentences.keys()
+    x = sorted_uniqSentences.keys()                         # store as variables and append to list for plotting of all sentences for comparison
     y = sorted_uniqSentences.values()
     totalsentences.append(x)
     totalsentences.append(y)
@@ -199,7 +199,7 @@ for folder in folder_names:
 #=======================================================SENTENCE TOKENIZATION=======================================================================
 plt.clf()
 plt.title('Length distribution for sentences in all datasets')
-plt.plot(totalsentences[0],totalsentences[1],label = 'Legal Documents')
+plt.plot(totalsentences[0],totalsentences[1],label = 'Legal Documents')             # line plots to plot all 3 sentence tokenization graphs for comparison
 plt.plot(totalsentences[2],totalsentences[3],label = 'Instruction Manuals')
 plt.plot(totalsentences[4],totalsentences[5],label = 'Biomedical Journals')
 plt.xlim(0,100)
