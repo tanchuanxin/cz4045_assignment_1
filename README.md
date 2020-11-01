@@ -4,7 +4,16 @@ Members: Chua Peng Shaun, Ding Si Han, Gabriel Sze Whye Han, John Lim Jin, Tan C
 # Introduction
 This repository contains our groups' work for Assignment 1. The data folders are Q1_folder, Q2_folder, Q3_folder
 
-Our source code comprises python scripts for Q1 and for Q3's application, and Colab notebooks for Q2 and Q3.
+Our source code are python scripts for Q1 and for Q3's application, and Colab notebooks for Q2 and Q3.
+
+Our source code can be found right here in the root directory under the following filenames
+* 1_domain_specific_dataset_analysis.py
+* 2_noun_adjective_pair_ranker.ipynb
+* 3_sentiment_analysis_application.ipynb
+* 3_app.py
+
+# Please go through the README carefully
+We have detailed the necessary instructions to get things running. 
 
 # Q1 Instructions - run in terminal
 <b>Data</b><br>
