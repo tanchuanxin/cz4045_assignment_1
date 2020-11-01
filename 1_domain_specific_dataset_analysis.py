@@ -3,6 +3,8 @@ import nltk
 from nltk import sent_tokenize, word_tokenize, pos_tag
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
 import string
 import glob
 import os
@@ -26,7 +28,7 @@ for folder in folder_names:
     
     # Append the contents of each .txt file into empty list
     for file_path in file_list:
-        with open(file_path) as f_input:
+        with open(file_path, encoding="utf8") as f_input:
             corpus.append(f_input.read())
 
     #=======================================================TOKENIZATION=======================================================================
@@ -47,7 +49,7 @@ for folder in folder_names:
     print("Number of distinct tokens for "+folder+" dataset: " ,len(tokenDict))
 
     # Write to outputs a text file that prints collection counter (dictionary) with key: token and value: num occurences of token
-    with open("Q1_folder/"+folder+"_Outputs/tokens.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_Outputs/tokens.txt", "w", encoding="utf8") as f:
         print(tokenDict, file=f)
 
     # Create list of length of each token
@@ -92,7 +94,7 @@ for folder in folder_names:
     print("Number of distinct tokens after stemming for "+folder+" dataset: " ,len(stemmedDict))
 
     # Write to outputs a text file that prints collection counter (dictionary) with key: stemmed token and value: num occurences of stemmed token
-    with open("Q1_folder/"+folder+"_Outputs/stemmedWords.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_Outputs/stemmedWords.txt", "w", encoding="utf8") as f:
         print(stemmedDict, file=f)
 
     # Create list of length of each stemmed token
@@ -137,7 +139,7 @@ for folder in folder_names:
     sentences = dict(zip(sentence_tokens,lengths))
 
     # Write to outputs a text file that prints dictionary where key is sentence and value is the number of words/ tokens in the sentence
-    with open("Q1_folder/"+folder+"_Outputs/sentences.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_Outputs/sentences.txt", "w", encoding="utf8") as f:
         print(sentences, file=f)
 
     # Create collection counter (dictionary) with key: sentences and value: num occurences of sentences
@@ -190,7 +192,7 @@ for folder in folder_names:
     sentence3 = tokenizing(randomSentences[2])
 
     # Write to outputs a text file that prints the 3 random selected sentences in the dataset and run POS Tagging on the tokens
-    with open("Q1_folder/"+folder+"_POS/pos_tag.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_POS/pos_tag.txt", "w", encoding="utf8") as f:
         print("3 random sentences : ",randomSentences,'\n',file=f)
         print("Parts of Speech for sentence 1: ",pos_tag(sentence1),'\n', file=f)
         print("Parts of Speech for sentence 2: ",pos_tag(sentence2),'\n',file=f)
