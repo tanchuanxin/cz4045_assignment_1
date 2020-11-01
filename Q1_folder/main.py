@@ -18,7 +18,7 @@ totalsentences = []                         # list to contain variables to be pl
 
 # Looks into all .txt files in each dataset 
 for folder in folder_names:
-    file_list = glob.glob(os.path.join(os.getcwd(),folder,"*.txt"))
+    file_list = glob.glob(os.path.join(os.getcwd(),"Q1_folder/"+folder,"*.txt"))
 
     print("==========================="+folder+" dataset==============================")
     # List to store all txt entries
@@ -47,7 +47,7 @@ for folder in folder_names:
     print("Number of distinct tokens for "+folder+" dataset: " ,len(tokenDict))
 
     # Write to outputs a text file that prints collection counter (dictionary) with key: token and value: num occurences of token
-    with open(folder+"_Outputs/tokens.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_Outputs/tokens.txt", "w") as f:
         print(tokenDict, file=f)
 
     # Create list of length of each token
@@ -72,7 +72,7 @@ for folder in folder_names:
     plt.xlabel('Length of tokens in number of characters')
     plt.ylabel('Number of tokens of each length')
     plt.legend()
-    plt.savefig(folder+'_figs/tokens.png')              # save plot distribution
+    plt.savefig("Q1_folder/"+folder+'_figs/tokens.png')              # save plot distribution
     # plt.show()
 
     #===========================================================STEMMING==========================================================================
@@ -92,7 +92,7 @@ for folder in folder_names:
     print("Number of distinct tokens after stemming for "+folder+" dataset: " ,len(stemmedDict))
 
     # Write to outputs a text file that prints collection counter (dictionary) with key: stemmed token and value: num occurences of stemmed token
-    with open(folder+"_Outputs/stemmedWords.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_Outputs/stemmedWords.txt", "w") as f:
         print(stemmedDict, file=f)
 
     # Create list of length of each stemmed token
@@ -118,7 +118,7 @@ for folder in folder_names:
     plt.xlabel('Length of tokens in number of characters')
     plt.ylabel('Number of tokens of each length')
     plt.legend()
-    plt.savefig(folder+'_figs/stemmed.png')                # save plot distribution
+    plt.savefig("Q1_folder/"+folder+'_figs/stemmed.png')                # save plot distribution
     # plt.show()
 
     #=======================================================SENTENCE TOKENIZATION=======================================================================
@@ -137,7 +137,7 @@ for folder in folder_names:
     sentences = dict(zip(sentence_tokens,lengths))
 
     # Write to outputs a text file that prints dictionary where key is sentence and value is the number of words/ tokens in the sentence
-    with open(folder+"_Outputs/sentences.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_Outputs/sentences.txt", "w") as f:
         print(sentences, file=f)
 
     # Create collection counter (dictionary) with key: sentences and value: num occurences of sentences
@@ -168,7 +168,7 @@ for folder in folder_names:
     plt.xlim(0,100)
     plt.xlabel('Length of sentence in number of words/tokens')
     plt.ylabel('Number of sentences of each length')
-    plt.savefig(folder+'_figs/sentence.png')                # save plot distribution
+    plt.savefig("Q1_folder/"+folder+'_figs/sentence.png')                # save plot distribution
     # plt.show()
     plt.clf()
 
@@ -190,7 +190,7 @@ for folder in folder_names:
     sentence3 = tokenizing(randomSentences[2])
 
     # Write to outputs a text file that prints the 3 random selected sentences in the dataset and run POS Tagging on the tokens
-    with open(folder+"_POS/pos_tag.txt", "w") as f:
+    with open("Q1_folder/"+folder+"_POS/pos_tag.txt", "w") as f:
         print("3 random sentences : ",randomSentences,'\n',file=f)
         print("Parts of Speech for sentence 1: ",pos_tag(sentence1),'\n', file=f)
         print("Parts of Speech for sentence 2: ",pos_tag(sentence2),'\n',file=f)
@@ -206,5 +206,5 @@ plt.xlim(0,100)
 plt.xlabel('Length of sentence in number of words/tokens')
 plt.ylabel('Number of sentences of each length')
 plt.legend()
-plt.savefig('figs/sentences.png')                # save plot distribution
+plt.savefig("Q1_folder/"+'figs/sentences.png')                # save plot distribution
 # plt.show()
