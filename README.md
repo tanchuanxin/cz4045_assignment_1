@@ -111,7 +111,9 @@ The necessary dataset can already be found in the Q2_folder as `data_airpods_rev
 The reviews have been annotated 
 
 <b>Training Data</b><br>
-The same `Cell_Phones_and_Accessories_5.json` should be uploaded in the local `Q3_folder` directory as well (not just Google Drive)
+The same `Cell_Phones_and_Accessories_5.json` should be uploaded in the local `Q3_folder` directory as well (not just Google Drive).
+
+Refer to the previous section for more details.
 
 <b>Run the script</b><br>
 * In the main directory of the folder, activate the necessary environment that contains all the required packages for Q3. 
