@@ -25,9 +25,25 @@ Only conventional python packages were used for this question. For NLP packages,
 <b>Run the script</b><br>
 * In the main directory of the folder, activate the necessary environment that contains all the required packages for Q1. 
 * Run the command `python 1_domain_specific_dataset_analysis.py` 
-* Print statements for each of the three domains, containing <i>distinct tokens, stemmed tokens, number of sentences</i> will be printed
-* The rest of the information can be found in Q1_folder under subdirectories of `domain_figs, domain_Outputs, domain_POS`
+* Print statements for each of the three domains, containing <i>distinct tokens, distinct stemmed tokens, distinct number of sentences</i> will be printed
+* The rest of the information will be generated in Q1_folder under subdirectories of `domain_figs, domain_Outputs, domain_POS, figs`
 
+<b>Generated Outputs</b><br>
+For greater ease of understanding the findings from each dataset, outputs have been generated in the form of figures and text files. These outputs will be generated everytime `1_domain_specific_dataset_analysis.py` is run
+
+Under `domain_figs`, three graphs will be generated, namely <i>tokens.png, stemmed.png, sentence.png</i> 
+* <i>tokens.png</i> represents the length distribution for tokens in each dataset, where the number of tokens of each length is plotted against the length of tokens in terms of number of characters.
+* <i>stemmed.png</i> represents and compares the length distribution for tokens in each dataset before and after stemming.
+* <i>sentence.png</i> repesents the length distribution for sentences in each dataset, where the number of sentences of each length is plotted against the length of tokens in terms of number of words.
+
+Under `domain_Outputs`, three text files will be generated, namely <i>tokens.txt, stemmedWords.txt, sentences.txt</i> 
+* <i>tokens.txt</i> displays the full dictionary of tokens in the dataset, where the key is the token and the value is the number of occurences for each token.
+* <i>stemmedWords.txt</i> displays the full dictionary of tokens in the dataset after stemming, where the key is the stemmed token and the value is the number of occurences for each token.
+* <i>sentences.txt</i> displays the full dictionary of sentences in the dataset, where the key is the sentence and the value is the length of the sentence.
+
+Under `domain_POS`, three sentences from each dataset have been chosen at random and fixed with `np.random.seed()` to undergo POS tagging and are saved in <i>pos_tag.txt</i>
+
+Under `figs`, a graph <i>sentences.png</i> will be generated which depicts the length distribution of sentences across all 3 domains.
 
 # Q2 Instructions - run in colab
 <b>Data</b><br>
