@@ -71,7 +71,9 @@ Conventional python packages were used for this question. For NLP packages, we u
 
 
 # Q3 Instructions - run in colab
-> Try not to run this unless you really have to. It takes a long time to complete due to the training process
+> Try not to run this unless you really have to. It takes a long time to completely run due to the training process. 
+
+> This notebook simply gives the justification for our application choice so browsing it is sufficient
 
 <b>Data</b><br>
 The necessary dataset can already be found in the Q2_folder as `data_airpods_reviews.csv`. It contains 30 handpicked reviews on Amazon for Apple Airpods, which can be found here: https://www.amazon.com/Apple-AirPods-Charging-Latest-Model/dp/B07PXGQC1Q/ref=cm_cr_srp_d_product_top?ie=UTF8
