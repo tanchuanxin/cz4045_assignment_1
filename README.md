@@ -87,7 +87,7 @@ Amazon reviews for "Cell Phones and Accessories" dataset
 3. Click on "Cell Phones and Accessories"  >  "5-core (1,443,755 reviews)"
 4. A message might pop up that says the dataset is dangerous, but it is not. Click on it to proceed with the download
 5. Use and zip manager like 7zip, winzip to unzip the data into its raw .json file `Cell_Phones_and_Accessories_5.json`
-6. Upload it into the `Q3_folder` directory under this repository
+6. Upload it into the `Q3_folder` directory under this repository on Google Drive
 
 
 <b>Packages and Setup</b><br>
@@ -109,7 +109,7 @@ The necessary dataset can already be found in the Q2_folder as `data_airpods_rev
 The reviews have been annotated 
 
 <b>Training Data</b><br>
-The same `Cell_Phones_and_Accessories_5.json` should be uploaded in the local `Q3_folder` directory as well
+The same `Cell_Phones_and_Accessories_5.json` should be uploaded in the local `Q3_folder` directory as well (not just Google Drive)
 
 <b>Run the script</b><br>
 * In the main directory of the folder, activate the necessary environment that contains all the required packages for Q3. 
