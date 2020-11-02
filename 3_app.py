@@ -30,7 +30,8 @@ amazon_df = pd.DataFrame(amazon_json_list_clean)
 amazon_df.head()
 
 # We will truncate this dataset because it is so huge - len(amazon_df) = 1 127 672
-amazon_df = amazon_df[:150000]
+# We use less than our experiment cos the app should be snappier
+amazon_df = amazon_df[:50000]
 
 print("Data prepared")
 
