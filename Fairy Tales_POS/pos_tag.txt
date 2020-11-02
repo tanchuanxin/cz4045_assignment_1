@@ -1,8 +1,0 @@
-3 random sentences :  ["Just keep your noise to\nyourself, said the old woman, it won't help you at all.", "On the third flight lay a heap of dead\nmen's heads.", 'Where have you been,\nthen.'] 
-
-Parts of Speech for sentence 1:  [('Just', 'RB'), ('keep', 'VB'), ('your', 'PRP$'), ('noise', 'NN'), ('to', 'TO'), ('yourself', 'PRP'), ('said', 'VBD'), ('the', 'DT'), ('old', 'JJ'), ('woman', 'NN'), ('it', 'PRP'), ('wo', 'MD'), ("n't", 'RB'), ('help', 'VB'), ('you', 'PRP'), ('at', 'IN'), ('all', 'DT')] 
-
-Parts of Speech for sentence 2:  [('On', 'IN'), ('the', 'DT'), ('third', 'JJ'), ('flight', 'NN'), ('lay', 'VBD'), ('a', 'DT'), ('heap', 'NN'), ('of', 'IN'), ('dead', 'JJ'), ('men', 'NNS'), ("'s", 'POS'), ('heads', 'NNS')] 
-
-Parts of Speech for sentence 3:  [('Where', 'WRB'), ('have', 'VBP'), ('you', 'PRP'), ('been', 'VBN'), ('then', 'RB')] 
-
